@@ -12,9 +12,12 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-java)
     ffi (1.9.25)
+    ffi (1.9.25-java)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
+    http_parser.rb (0.6.0-java)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     jekyll (3.8.5)
@@ -57,6 +60,7 @@ GEM
     thor (0.20.3)
 
 PLATFORMS
+  java
   ruby
 
 DEPENDENCIES
@@ -66,4 +70,4 @@ DEPENDENCIES
   sass (~> 3.4.24)
 
 BUNDLED WITH
-   1.16.2
+   1.17.3
