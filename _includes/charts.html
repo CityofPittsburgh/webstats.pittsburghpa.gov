@@ -1,6 +1,6 @@
   {% if page.url == '/' %}
     {% assign data_prefix = 'live' %}
-    {% assign entity = "government" %}
+    {% assign entity = "city" %}
   {% else %}
     {% assign data_prefix = page.slug %}
     {% assign entity = "agency" %}
@@ -192,10 +192,10 @@
         <section id="top_downloads_table">
 
           <h3>Top Downloads</h3>
-          <h5><em>Total file downloads yesterday on {{ entity }} domains.</em></h5>
+          <h5><em>Total file downloads on {{ entity }} domains in the past 30 days.</em></h5>
           <figure id="top-downloads"
             data-block="top-downloads"
-            data-source="{{ site.data_url }}/{{ data_prefix }}/top-downloads-yesterday.json">
+            data-source="{{ site.data_url }}/{{ data_prefix }}/top-downloads-30-days.json">
             <div class="data bar-chart">
             </div>
           </figure>

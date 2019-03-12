@@ -122,10 +122,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div id="main_data" class="width-two-thirds">
         <section id="realtime"
           data-block="realtime"
-          data-source="https://analytics.usa.gov/data/live/realtime.json"
+          data-source="http://localhost:5000/live/realtime.json"
           data-refresh="15">
           <h2 id="current_visitors" class="data">...</h2>
-          <div class="chart_subtitle">people on government websites now</div>
+          <div class="chart_subtitle">people on city websites now</div>
         </section>
 
         <section class="section_headline visits_today">
@@ -134,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </section>
         <section id="time_series"
           data-block="today"
-          data-source="https://analytics.usa.gov/data/live/today.json"
+          data-source="http://localhost:5000/live/today.json"
           data-refresh="15">
           <svg class="data time-series">
           </svg>
@@ -150,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <section id="devices" class="three_column"
           data-block="devices"
-          data-source="https://analytics.usa.gov/data/live/devices.json">
+          data-source="http://localhost:5000/live/devices.json">
           <h4>Devices</h4>
           <figure id="chart_device_types">
             <div class="data bar-chart">
@@ -171,14 +171,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_browsers"
             data-block="browsers"
-            data-source="https://analytics.usa.gov/data/live/browsers.json">
+            data-source="http://localhost:5000/live/browsers.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_ie"
             data-block="ie"
-            data-source="https://analytics.usa.gov/data/live/ie.json"
+            data-source="http://localhost:5000/live/ie.json"
             data-scale-to-parent="true">
             <h4>Internet Explorer</h4>
             <div class="data bar-chart">
@@ -191,14 +191,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_os"
             data-block="os"
-            data-source="https://analytics.usa.gov/data/live/os.json">
+            data-source="http://localhost:5000/live/os.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_windows"
             data-block="windows"
-            data-source="https://analytics.usa.gov/data/live/windows.json"
+            data-source="http://localhost:5000/live/windows.json"
             data-scale-to-parent="true">
             <h4>Windows</h4>
             <div class="data bar-chart">
@@ -215,7 +215,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <section id="cities" class="three_column"
           data-block="cities"
-          data-source="https://analytics.usa.gov/data/live/top-cities-realtime.json">
+          data-source="http://localhost:5000/live/top-cities-realtime.json">
           <h4>Cities</h4>
           <figure id="chart_top-cities-90-days">
             <div class="data bar-chart">
@@ -228,14 +228,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_us"
             data-block="countries"
-            data-source="https://analytics.usa.gov/data/live/top-countries-realtime.json">
+            data-source="http://localhost:5000/live/top-countries-realtime.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_countries"
             data-block="international_visits"
-            data-source="https://analytics.usa.gov/data/live/top-countries-realtime.json">
+            data-source="http://localhost:5000/live/top-countries-realtime.json">
             <h4>International &amp; Territories</h4>
             <div class="data bar-chart">
             </div>
@@ -257,11 +257,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-realtime" role="tabpanel"
             data-block="top-pages-realtime"
-            data-source="https://analytics.usa.gov/data/live/top-pages-realtime.json"
+            data-source="http://localhost:5000/live/top-pages-realtime.json"
             data-refresh="15">
             <h5><em>
               People on a <strong>single, specific page</strong> now. We only count pages with at least 10 people on the page.
-              <a href="https://analytics.usa.gov/data/live/all-pages-realtime.csv">Download the full dataset.</a>
+              <a href="http://localhost:5000/live/all-pages-realtime.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
             </div>
@@ -269,7 +269,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-7-days" role="tabpanel"
             data-block="top-pages"
-            data-source="https://analytics.usa.gov/data/live/top-domains-7-days.json">
+            data-source="http://localhost:5000/live/top-domains-7-days.json">
             <h5><em>Visits over the last week to <strong>domains</strong>, including traffic to all pages within that domain.</em></h5>
             <div class="data bar-chart">
             </div>
@@ -277,10 +277,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-30-days" role="tabpanel"
             data-block="top-pages"
-            data-source="https://analytics.usa.gov/data/live/top-domains-30-days.json">
+            data-source="http://localhost:5000/live/top-domains-30-days.json">
             <h5><em>
-              Visits over the last month to <strong>domains</strong>, including traffic to all pages within that domain. We only count pages with at least 1,000 visits in the last month.
-              <a href="https://analytics.usa.gov/data/live/all-domains-30-days.csv">Download the full dataset.</a>
+              Visits over the last month to <strong>domains</strong>, including traffic to all pages within that domain. 
+              <a href="http://localhost:5000/live/all-domains-30-days.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
             </div>
@@ -291,10 +291,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <section id="top_downloads_table">
 
           <h3>Top Downloads</h3>
-          <h5><em>Total file downloads yesterday on government domains.</em></h5>
+          <h5><em>Total file downloads yesterday on city domains.</em></h5>
           <figure id="top-downloads"
             data-block="top-downloads"
-            data-source="https://analytics.usa.gov/data/live/top-downloads-yesterday.json">
+            data-source="http://localhost:5000/live/top-downloads-yesterday.json">
             <div class="data bar-chart">
             </div>
           </figure>
@@ -311,19 +311,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h3>About this Site</h3>
           <p>
             This data provides a window into how people are interacting with the city government online.
-             The data comes from a unified Google Analytics account for U.S. federal government agencies known as the <a href="https://www.digitalgov.gov/services/dap/" class="external-link">Digital Analytics Program</a>.
-              This program helps government agencies understand how people find, access, and use government services online. The program <a href="https://www.digitalgov.gov/services/dap/common-questions-about-dap-faq/#part-4" class="external-link">does not track individuals</a>,
-               and <a href="https://support.google.com/analytics/answer/2763052?hl=en" class="external-link">anonymizes the IP addresses</a> of visitors.
+             The data comes from a unified Google Analytics account for city agencies.
+              This program helps government agencies understand how people find, access, and use government services online. The program does not track individuals</a>,
+               and <a href="https://support.google.com/analytics/answer/2763052?hl=en" class="external-link">anonymizes IP addresses</a>.
           </p>
-
-          <p>
-            Not every government website is represented in this data. 
-            Currently, the Digital Analytics Program collects web traffic from around <a href="https://analytics.usa.gov/data/live/second-level-domains.csv" class="external-link">400 executive branch government domains</a>,
-             across <a href="https://analytics.usa.gov/data/live/sites.csv" class="external-link">about 5,700 total websites</a>,
-              including every cabinet department.
-               We continue to pursue and add more sites frequently; to add your site, <a href="mailto:DAP@support.digitalgov.gov" class="external-link">email the Digital Analytics Program</a>.
-          </p>
-
 
       </section>
       <section class="width-one-third">
@@ -336,11 +327,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="footer-section-top">
     <div class="usa-grid">
           <div class="usa-width-one-half">
-            <p>Have a question or problem? 
-              <a href="mailto:DAP@support.digitalgov.gov">
-              Get in touch</a>.
+            <p>Have a question or problem? Tweet to
+              <a href="https://twitter.com/PghIp">
+              @PghIp</a>
               </p>
-              <a class="usa-button usa-button-secondary-inverse"
+              <a class="usa-button dark-background" 
               href="https://github.com/CityofPittsburgh/analytics.pittsburghpa.gov/issues">
               <img src="/images/github-logo-white.svg" class="github-icon" alt="Github Icon">
                   Suggest a feature or report an issue
@@ -364,7 +355,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <img src="/images/gsa-logo.svg" alt="GSA">
         </a>
       </div>
-      <p>Analytics.pittsburghpa.gov is based on a project of GSA’s <a href="https://www.digitalgov.gov/services/dap/">Digital Analytics Program</a>.</p>
+      <p>This site is based on a project of the U.S. General Services Administration’s <a href="https://www.digitalgov.gov/services/dap/">Digital Analytics Program</a>.</p>
     </div>
   </div>
 </footer>
