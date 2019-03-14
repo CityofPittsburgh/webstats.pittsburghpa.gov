@@ -1,4 +1,2 @@
-# TODO: set up heroku staging site
-
-# url: https://pgh-analtyics.herokuapp.com
-# data_url: https://pgh-analtyics.herokuapp.com/data
+url: https://pgh-analtyics-reporter.herokuapp.com
+data_url: https://pgh-analtyics-reporter.herokuapp.com/data
