@@ -14,4 +14,4 @@ deploy_production:
 	make production && cf push analytics
 
 deploy_staging:
-	make staging && cf git push heroku master
+	make staging && git push heroku master
