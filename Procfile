@@ -1,0 +1,1 @@
+web: bundle exec jekyll build --config=_config.yml,_staging.yml
