@@ -1,9 +1,9 @@
   {% if page.url == '/' %}
     {% assign data_prefix = 'live' %}
-    {% assign entity = "city" %}
+    {% assign entity = "city websites" %}
   {% else %}
     {% assign data_prefix = page.slug %}
-    {% assign entity = "agency" %}
+    {% assign entity = "agency website" %}
   {% endif %}
     <!--
       JavaScript block hooks look for any element with both data-block and
@@ -26,7 +26,7 @@
           data-source="{{ site.data_url }}/{{ data_prefix }}/realtime.json"
           data-refresh="15">
           <h2 id="current_visitors" class="data">...</h2>
-          <div class="chart_subtitle">people on {{ entity }} websites now</div>
+          <div class="chart_subtitle">people on {{ entity }} right now</div>
         </section>
 
         <section class="section_headline visits_today">
@@ -57,10 +57,6 @@
             <div class="data bar-chart">
             </div>
           </figure>
-
-          <p>
-            Based on rough network segmentation data, we estimate that <strong>less than 5%</strong> of all traffic across all agencies comes from city government networks.
-          </p>
 
           <p>
             Much more detailed data is available in <strong><a href="data/">downloadable CSV and JSON</a></strong>. This includes data on combined browser and OS usage.
@@ -152,8 +148,8 @@
           <h3>Top <span id="top_table_type">Pages</span></h3>
           <ul class="pills" role="tablist">
             <li><a role="tab" data-type="Pages" aria-selected="true" href="#top-pages-realtime" class="site-nav">Now</a></li>
-            <li><a role="tab" data-type="Domains" href="#top-pages-7-days" class="site-nav">7 Days</a></li>
-            <li><a role="tab" data-type="Domains" href="#top-pages-30-days" class="site-nav">30 Days</a></li>
+            <li><a role="tab" data-type="Pages" href="#top-pages-7-days" class="site-nav">7 Days</a></li>
+            <li><a role="tab" data-type="Pages" href="#top-pages-30-days" class="site-nav">30 Days</a></li>
           </ul>
 
           <figure class="top-pages" id="top-pages-realtime" role="tabpanel"
@@ -161,7 +157,7 @@
             data-source="{{ site.data_url }}/{{ data_prefix }}/top-pages-realtime.json"
             data-refresh="15">
             <h5><em>
-              People on a <strong>single, specific page</strong> now. We only count pages with at least 10 people on the page.
+              People on a <strong>single, specific page</strong> now.
               <a href="{{ site.data_url }}/{{ data_prefix }}/all-pages-realtime.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
@@ -170,18 +166,19 @@
 
           <figure class="top-pages" id="top-pages-7-days" role="tabpanel"
             data-block="top-pages"
-            data-source="{{ site.data_url }}/{{ data_prefix }}/top-domains-7-days.json">
-            <h5><em>Visits over the last week to <strong>domains</strong>, including traffic to all pages within that domain.</em></h5>
+            data-source="{{ site.data_url }}/{{ data_prefix }}/top-pages-7-days.json">
+            <h5><em>
+              <a href="{{ site.data_url }}/{{ data_prefix }}/all-pages-30-days.csv">Download the full dataset.</a>
+            </em></h5>
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure class="top-pages" id="top-pages-30-days" role="tabpanel"
             data-block="top-pages"
-            data-source="{{ site.data_url }}/{{ data_prefix }}/top-domains-30-days.json">
+            data-source="{{ site.data_url }}/{{ data_prefix }}/top-pages-30-days.json">
             <h5><em>
-              Visits over the last month to <strong>domains</strong>, including traffic to all pages within that domain. {% if entity == "government" %}We only count pages with at least 1,000 visits in the last month.{% endif %}
-              <a href="{{ site.data_url }}/{{ data_prefix }}/all-domains-30-days.csv">Download the full dataset.</a>
+              <a href="{{ site.data_url }}/{{ data_prefix }}/all-pages-30-days.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
             </div>
@@ -192,7 +189,7 @@
         <section id="top_downloads_table">
 
           <h3>Top Downloads</h3>
-          <h5><em>Total file downloads on {{ entity }} domains in the past 30 days.</em></h5>
+          <h5><em>Total file downloads in the past 30 days.</em></h5>
           <figure id="top-downloads"
             data-block="top-downloads"
             data-source="{{ site.data_url }}/{{ data_prefix }}/top-downloads-30-days.json">

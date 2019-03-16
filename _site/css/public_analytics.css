@@ -197,7 +197,7 @@ header {
         font-size: 2.8rem;
         padding-top: 4px; } }
   header a {
-    color: #fff;
+    color: #fdb81e;
     font-weight: 300;
     text-decoration: none; }
   header a:hover {
@@ -266,7 +266,7 @@ header {
   font-size: 22px;
   font-weight: 600;
   vertical-align: middle;
-  color: #112e51; }
+  color: #212121; }
   @media screen and (max-width: 992px) {
     #agency-selector {
       font-size: 16px; } }
@@ -274,9 +274,9 @@ header {
 header #agency-selector {
   background-image: url("../css/img/arrow-down.png");
   background-image: url("../css/img/arrow-down.svg");
-  color: #fff;
-  background-color: #2b75b9;
-  border: 1px solid #fff; }
+  color: #fdb81e;
+  background-color: #212121;
+  border: 1px solid #fdb81e; }
 
 /*
 * end top navigation bar
@@ -647,7 +647,7 @@ footer {
 .footer-contact-links {
   margin-top: 3rem; }
   .footer-contact-links a {
-    color: #fff;
+    color: #fdb81e;
     text-decoration: underline; }
   .footer-contact-links img {
     width: 4rem; }

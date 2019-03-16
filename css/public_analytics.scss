@@ -223,7 +223,7 @@ header {
   }
 
   a {
-    color: $white;
+    color: $gold;
     font-weight: 300;
     text-decoration: none;
   }
@@ -314,7 +314,7 @@ header {
   font-size: 22px;
   font-weight: 600;
   vertical-align: middle;
-  color: $dark-blue;
+  color: $black;
   @include media($medium-screen) {
     font-size: 16px;
   }
@@ -322,9 +322,9 @@ header {
 header #agency-selector {
   background-image: url('../css/img/arrow-down.png');
   background-image: url('../css/img/arrow-down.svg');
-  color: $white;
-  background-color: $light-blue-two;
-  border: 1px solid $white;
+  color: $gold;
+  background-color: $black;
+  border: 1px solid $gold;
 }
 
 /*
@@ -806,7 +806,7 @@ footer {
   margin-top: 3rem;
 
   a {
-    color: $white;
+    color: $gold;
     text-decoration: underline;
   }
 

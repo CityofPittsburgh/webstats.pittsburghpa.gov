@@ -1,4 +1,3 @@
 # Use production data by default.
 # To pull from dev data for home page, uncomment:
-# data_url: http://localhost:4444
-# data_url: http://localhost:4444/data
+data_url: http://localhost:5000

@@ -10,8 +10,10 @@ dev:
 dev-docker:
 	bundle exec jekyll serve --host 0.0.0.0 --watch --config=_config.yml,_development.yml
 
+# TODO: change "cf push analytics" to pittsburghpa.gov deploy command
+
 deploy_production:
-	make production && cf push analytics
+	make production
 
 deploy_staging:
-	make staging && git push heroku master
+	make staging

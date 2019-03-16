@@ -1,2 +1,4 @@
-url: https://pgh-analtyics-reporter.herokuapp.com
-data_url: https://pgh-analtyics-reporter.herokuapp.com/data
+# TODO: update to staging cloudfront domain?
+
+# url: https://pgh-analtyics-reporter.herokuapp.com
+# data_url: https://pgh-analtyics-reporter.herokuapp.com/data

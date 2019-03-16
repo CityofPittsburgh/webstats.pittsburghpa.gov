@@ -126,9 +126,7 @@ export default {
         .label(d => [
           '<span class="name"><a class="top-download-page" target="_blank" href=http://', d.page, '>', d.page_title, '</a></span> ',
           '<span class="domain" >', formatters.formatURL(d.page), '</span> ',
-          '<span class="divider">/</span> ',
-          '<span class="filename"><a class="top-download-file" target="_blank" href=', d.event_label, '>',
-          formatters.formatFile(d.event_label), '</a></span>',
+          '<span class="divider">/</span> '
         ].join(''))
         .scale(values => d3.scale.linear()
           .domain([0, 1, d3.max(values)])
@@ -148,18 +146,19 @@ export default {
         .html('')
         .append('a')
         .attr('target', '_blank')
-        .attr('href', d => exceptions[d.domain] || (`http://${d.domain}`))
-        .text(d => titleExceptions[d.domain] || d.domain);
+        .attr('title', d => d.page_title)
+        .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
+        .text(d => titleExceptions[d.page] || d.page_title);
     })
     .render(barChart()
-      .label(d => d.domain)
-      .value(d => +d.visits)
+      .label(d => d.page_title)
+      .value(d => +d.pageviews)
       .scale(values => d3.scale.linear()
         .domain([0, 1, d3.max(values)])
         .rangeRound([0, 1, 100]))
       .format(formatters.addCommas)),
 
-  // the top pages block(s)
+  // the top pages realtime block(s)
   'top-pages-realtime': renderBlock.loadAndRender()
     .transform(d => d.data)
     .on('render', (selection) => {
@@ -172,7 +171,7 @@ export default {
         .append('a')
         .attr('target', '_blank')
         .attr('title', d => d.page_title)
-        .attr('href', d => exceptions[d.page] || (`http://${d.page}`))
+        .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
         .text(d => titleExceptions[d.page] || d.page_title);
     })
     .render(barChart()
