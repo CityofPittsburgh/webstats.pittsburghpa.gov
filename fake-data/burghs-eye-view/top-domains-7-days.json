@@ -1,0 +1,31 @@
+{
+  "name": "top-domains-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (7 Days)",
+    "description": "Last week's top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.shinyapps.io",
+      "visits": "526"
+    }
+  ],
+  "totals": {
+    "visits": 526
+  },
+  "taken_at": "2019-03-18T20:09:45.867Z"
+}

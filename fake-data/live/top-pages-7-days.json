@@ -1,0 +1,253 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "3273",
+      "visits": "2161",
+      "users": "2046",
+      "pageviews_per_session": "1.5145765849143915",
+      "avg_session_duration": "171.5826006478482",
+      "exits": "1251"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/frequent-numbers",
+      "page_title": "City Number Directory | pittsburghpa.gov",
+      "pageviews": "1463",
+      "visits": "58",
+      "users": "867",
+      "pageviews_per_session": "25.224137931034484",
+      "avg_session_duration": "124.6896551724138",
+      "exits": "244"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "pageviews": "1246",
+      "visits": "836",
+      "users": "706",
+      "pageviews_per_session": "1.4904306220095693",
+      "avg_session_duration": "65.0598086124402",
+      "exits": "665"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/dpw/collection-schedule",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "pageviews": "1223",
+      "visits": "672",
+      "users": "852",
+      "pageviews_per_session": "1.8199404761904763",
+      "avg_session_duration": "73.1577380952381",
+      "exits": "760"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "1091",
+      "visits": "660",
+      "users": "690",
+      "pageviews_per_session": "1.653030303030303",
+      "avg_session_duration": "315.5969696969697",
+      "exits": "197"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/index.html",
+      "page_title": "Permits, Licenses, and Inspections - Whats your Permit Status, Code Enforcement, Condemned Structures, Appeals Building Standards and Codes, Licenses Information and Fees",
+      "pageviews": "1011",
+      "visits": "176",
+      "users": "544",
+      "pageviews_per_session": "5.744318181818182",
+      "avg_session_duration": "293.1193181818182",
+      "exits": "123"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/taxes/index.html",
+      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "pageviews": "1010",
+      "visits": "713",
+      "users": "737",
+      "pageviews_per_session": "1.4165497896213184",
+      "avg_session_duration": "148.3085553997195",
+      "exits": "561"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/311/form",
+      "page_title": "311 Response Center, Online Request Form, MyBurgh App, Citizen Form Knowledge Guide | pittsburghpa.gov",
+      "pageviews": "985",
+      "visits": "556",
+      "users": "625",
+      "pageviews_per_session": "1.7715827338129497",
+      "avg_session_duration": "120.06834532374101",
+      "exits": "616"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/pli-fees/?title=pli-fees",
+      "page_title": "PLI Fees | pittsburghpa.gov",
+      "pageviews": "896",
+      "visits": "80",
+      "users": "478",
+      "pageviews_per_session": "11.2",
+      "avg_session_duration": "147.125",
+      "exits": "294"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/police/",
+      "page_title": "Pittsburgh Bureau of Police - Police Zones, Branches, Memorial, Resources, Interactive Violence Statistics, Community Policing, Annual Reports",
+      "pageviews": "885",
+      "visits": "565",
+      "users": "604",
+      "pageviews_per_session": "1.5663716814159292",
+      "avg_session_duration": "167.81769911504423",
+      "exits": "231"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/press-releases/press-releases.html?id=2764",
+      "page_title": "Welcome to the City of Pittsburgh - City Press Releases",
+      "pageviews": "829",
+      "visits": "799",
+      "users": "798",
+      "pageviews_per_session": "1.037546933667084",
+      "avg_session_duration": "5.7334167709637045",
+      "exits": "800"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/pli-permits",
+      "page_title": "Permits | pittsburghpa.gov",
+      "pageviews": "751",
+      "visits": "19",
+      "users": "470",
+      "pageviews_per_session": "39.526315789473685",
+      "avg_session_duration": "225.1578947368421",
+      "exits": "53"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/city-info/press-releases",
+      "page_title": "City Press Releases - Mayor, Public Safety, Citiparks, Specail Events, DPW | pittsburghpa.gov",
+      "pageviews": "749",
+      "visits": "160",
+      "users": "319",
+      "pageviews_per_session": "4.68125",
+      "avg_session_duration": "249.65",
+      "exits": "159"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/council/",
+      "page_title": "City Council, District information, neighborhoods, your Council Person, Legislation, Budget Office",
+      "pageviews": "726",
+      "visits": "293",
+      "users": "309",
+      "pageviews_per_session": "2.477815699658703",
+      "avg_session_duration": "181.2764505119454",
+      "exits": "87"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/pli/licenses",
+      "page_title": "Licenses | pittsburghpa.gov",
+      "pageviews": "706",
+      "visits": "172",
+      "users": "417",
+      "pageviews_per_session": "4.104651162790698",
+      "avg_session_duration": "230.0639534883721",
+      "exits": "149"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/index.html",
+      "page_title": "Finance - Pay your Taxes, City property sales, Business Registration, Debt information, view E-Properties Online",
+      "pageviews": "699",
+      "visits": "184",
+      "users": "454",
+      "pageviews_per_session": "3.7989130434782608",
+      "avg_session_duration": "164.4076086956522",
+      "exits": "132"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/citiparks/index.html",
+      "page_title": "Citiparks - swimming pools, our parks, tennis schedules, Schenley Ice Skating Rink, Senior Activities, Roving Art Cart and Grubup",
+      "pageviews": "639",
+      "visits": "275",
+      "users": "387",
+      "pageviews_per_session": "2.3236363636363637",
+      "avg_session_duration": "219.67636363636365",
+      "exits": "168"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/citiparks/oliver-bath-house",
+      "page_title": "Citiparks - Oliver Bath House | pittsburghpa.gov",
+      "pageviews": "638",
+      "visits": "477",
+      "users": "416",
+      "pageviews_per_session": "1.3375262054507338",
+      "avg_session_duration": "90.30607966457023",
+      "exits": "442"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/finance/tax-forms",
+      "page_title": "Tax Forms - Business Discontinuation Form, Local Tax Forms, Parking Tax, Amusement Tax, Quarterly Tax Forms | pittsburghpa.gov",
+      "pageviews": "624",
+      "visits": "121",
+      "users": "379",
+      "pageviews_per_session": "5.1570247933884295",
+      "avg_session_duration": "150.29752066115702",
+      "exits": "273"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/dpw/dpw.html",
+      "page_title": "Public Works - DPW - Environmental Services, Garbage Collection Schedule, Forestry, Refuse and Recycling Collection, Street Maintenance, Shelter Permit, Parks Maintenance",
+      "pageviews": "553",
+      "visits": "148",
+      "users": "329",
+      "pageviews_per_session": "3.7364864864864864",
+      "avg_session_duration": "235.44594594594594",
+      "exits": "87"
+    }
+  ],
+  "totals": {
+    "users": 12427,
+    "visits": 9125
+  },
+  "taken_at": "2019-03-18T19:48:08.782Z"
+}

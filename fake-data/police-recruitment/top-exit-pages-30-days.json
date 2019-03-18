@@ -1,0 +1,233 @@
+{
+  "name": "top-exit-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:exitPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Exit Pages (30 Days)",
+    "description": "Last 30 days' Exit page paths, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "exit_page": "/joinpghpolice/applying/process.html",
+      "visits": "795",
+      "pageviews": "1401",
+      "users": "640",
+      "pageviews_per_session": "1.7622641509433963",
+      "avg_session_duration": "60.68050314465409",
+      "exits": "795",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/index.html",
+      "visits": "754",
+      "pageviews": "1453",
+      "users": "594",
+      "pageviews_per_session": "1.927055702917772",
+      "avg_session_duration": "71.33289124668435",
+      "exits": "754",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/applying/process.html",
+      "visits": "369",
+      "pageviews": "549",
+      "users": "319",
+      "pageviews_per_session": "1.4878048780487805",
+      "avg_session_duration": "70.30352303523036",
+      "exits": "369",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/benefits/salary.html",
+      "visits": "238",
+      "pageviews": "565",
+      "users": "202",
+      "pageviews_per_session": "2.3739495798319328",
+      "avg_session_duration": "129.14705882352942",
+      "exits": "238",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/benefits/salary.html",
+      "visits": "143",
+      "pageviews": "302",
+      "users": "119",
+      "pageviews_per_session": "2.111888111888112",
+      "avg_session_duration": "82.02097902097903",
+      "exits": "143",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/recruitingevents/index.html",
+      "visits": "121",
+      "pageviews": "374",
+      "users": "94",
+      "pageviews_per_session": "3.090909090909091",
+      "avg_session_duration": "214.59504132231405",
+      "exits": "121",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/faqs/index.html",
+      "visits": "120",
+      "pageviews": "340",
+      "users": "98",
+      "pageviews_per_session": "2.8333333333333335",
+      "avg_session_duration": "117.39166666666667",
+      "exits": "120",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/recruitingevents/index.html",
+      "visits": "94",
+      "pageviews": "265",
+      "users": "86",
+      "pageviews_per_session": "2.8191489361702127",
+      "avg_session_duration": "105.03191489361703",
+      "exits": "94",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/benefits/benefits.html",
+      "visits": "76",
+      "pageviews": "218",
+      "users": "66",
+      "pageviews_per_session": "2.8684210526315788",
+      "avg_session_duration": "117.89473684210526",
+      "exits": "76",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/mentors/index.html",
+      "visits": "59",
+      "pageviews": "161",
+      "users": "47",
+      "pageviews_per_session": "2.7288135593220337",
+      "avg_session_duration": "95.52542372881356",
+      "exits": "59",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/videos/index.html",
+      "visits": "45",
+      "pageviews": "150",
+      "users": "41",
+      "pageviews_per_session": "3.3333333333333335",
+      "avg_session_duration": "148.93333333333334",
+      "exits": "45",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/applying/preparation.html",
+      "visits": "44",
+      "pageviews": "223",
+      "users": "40",
+      "pageviews_per_session": "5.068181818181818",
+      "avg_session_duration": "367.47727272727275",
+      "exits": "44",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/about/units.html",
+      "visits": "43",
+      "pageviews": "91",
+      "users": "41",
+      "pageviews_per_session": "2.116279069767442",
+      "avg_session_duration": "112.04651162790698",
+      "exits": "43",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/faqs/index.html",
+      "visits": "40",
+      "pageviews": "114",
+      "users": "39",
+      "pageviews_per_session": "2.85",
+      "avg_session_duration": "141.475",
+      "exits": "40",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/about/badge.html",
+      "visits": "36",
+      "pageviews": "57",
+      "users": "35",
+      "pageviews_per_session": "1.5833333333333333",
+      "avg_session_duration": "22.5",
+      "exits": "36",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/benefits/benefits.html",
+      "visits": "25",
+      "pageviews": "66",
+      "users": "18",
+      "pageviews_per_session": "2.64",
+      "avg_session_duration": "145.0",
+      "exits": "25",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/contact/index.html",
+      "visits": "24",
+      "pageviews": "61",
+      "users": "20",
+      "pageviews_per_session": "2.5416666666666665",
+      "avg_session_duration": "255.83333333333334",
+      "exits": "24",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/whyserve/index.html",
+      "visits": "18",
+      "pageviews": "78",
+      "users": "16",
+      "pageviews_per_session": "4.333333333333333",
+      "avg_session_duration": "297.6111111111111",
+      "exits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/applying/preparation.html",
+      "visits": "17",
+      "pageviews": "71",
+      "users": "17",
+      "pageviews_per_session": "4.176470588235294",
+      "avg_session_duration": "260.2352941176471",
+      "exits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghpolice/officerdev/promotions.html",
+      "visits": "13",
+      "pageviews": "42",
+      "users": "13",
+      "pageviews_per_session": "3.230769230769231",
+      "avg_session_duration": "125.76923076923077",
+      "exits": "13",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 2545,
+    "visits": 3074
+  },
+  "taken_at": "2019-03-18T19:46:33.601Z"
+}

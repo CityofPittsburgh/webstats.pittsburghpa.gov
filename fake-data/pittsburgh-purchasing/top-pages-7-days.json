@@ -1,0 +1,176 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/bid-opportunities.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "543",
+      "visits": "273",
+      "users": "293",
+      "pageviews_per_session": "1.989010989010989",
+      "avg_session_duration": "73.2051282051282",
+      "exits": "341"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/index.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "394",
+      "visits": "307",
+      "users": "263",
+      "pageviews_per_session": "1.283387622149837",
+      "avg_session_duration": "129.27687296416937",
+      "exits": "136"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/login.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "240",
+      "visits": "22",
+      "users": "107",
+      "pageviews_per_session": "10.909090909090908",
+      "avg_session_duration": "259.45454545454544",
+      "exits": "122"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/registration.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "140",
+      "visits": "50",
+      "users": "94",
+      "pageviews_per_session": "2.8",
+      "avg_session_duration": "179.92",
+      "exits": "54"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "35",
+      "visits": "31",
+      "users": "30",
+      "pageviews_per_session": "1.1290322580645162",
+      "avg_session_duration": "6.709677419354839",
+      "exits": "29"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/faq.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "24",
+      "visits": "5",
+      "users": "20",
+      "pageviews_per_session": "4.8",
+      "avg_session_duration": "116.0",
+      "exits": "6"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/beacon/bid-opportunities.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "4",
+      "visits": "4",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/bid-opportunities.html?fbclid=IwAR36_lDKoCbGivmT8MURnztA_wpUW1oIWNupdaoEyB6Y3Gk2G67PVrzxnFw",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "82.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/bid-opportunities.html?fbclid=IwAR3oyGBOuijN6StK9pbTGdyiKGXrR-4V5JJF_UHWyf2l-AipHHJmdzNHdnU",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/beacon/bid-opportunities.html?fbclid=IwAR3quBE2ALMu0FaO79BzqNWmGWzSpN_avD2CPPWn4wKr4wBdHc7X98_qk-s",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/beacon/",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "836.0",
+      "exits": "0"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/beacon/login.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/beacon/registration.html",
+      "page_title": "Beacon - Pittsburgh's new web-based eProcurement",
+      "pageviews": "1",
+      "visits": "0",
+      "users": "1",
+      "pageviews_per_session": "0.0",
+      "avg_session_duration": "0.0",
+      "exits": "0"
+    }
+  ],
+  "totals": {
+    "users": 814,
+    "visits": 695
+  },
+  "taken_at": "2019-03-18T19:45:52.978Z"
+}

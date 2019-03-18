@@ -7,9 +7,19 @@ import buildTimeSeries from './timeseries';
 import formatters from './formatters';
 import transformers from './transformers';
 
+
+const clean_title = function(d) {
+  if (d.page_title == '(not set)') {
+    return (`http://${d.domain}` + `${d.page}`)
+  } else {
+    return d.page_title
+  }
+}
+
 /*
  * Define block renderers for each of the different data types.
  */
+
 export default {
 
   // the realtime block is just `data.totals.active_visitors` formatted with commas
@@ -124,7 +134,7 @@ export default {
       barChart()
         .value(d => +d.total_events)
         .label(d => [
-          '<span class="name"><a class="top-download-page" target="_blank" href=http://', d.page, '>', d.page_title, '</a></span> ',
+          '<span class="name"><a class="top-download-page" target="_blank" href=http://', d.domain, d.page, '>', d.page_title, '</a></span> ',
           '<span class="domain" >', formatters.formatURL(d.page), '</span> ',
           '<span class="divider">/</span> '
         ].join(''))
@@ -146,12 +156,12 @@ export default {
         .html('')
         .append('a')
         .attr('target', '_blank')
-        .attr('title', d => d.page_title)
+        .attr('title', d => clean_title(d))
         .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
-        .text(d => titleExceptions[d.page] || d.page_title);
+        .text(d => titleExceptions[d.page] || clean_title(d));
     })
     .render(barChart()
-      .label(d => d.page_title)
+      .label(d => clean_title(d))
       .value(d => +d.pageviews)
       .scale(values => d3.scale.linear()
         .domain([0, 1, d3.max(values)])
@@ -170,12 +180,12 @@ export default {
         .html('')
         .append('a')
         .attr('target', '_blank')
-        .attr('title', d => d.page_title)
+        .attr('title', d => clean_title(d))
         .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
-        .text(d => titleExceptions[d.page] || d.page_title);
+        .text(d => titleExceptions[d.page] || clean_title(d));
     })
     .render(barChart()
-      .label(d => d.page_title)
+      .label(d => clean_title(d))
       .value(d => +d.active_visitors)
       .scale(values => d3.scale.linear()
         .domain([0, 1, d3.max(values)])

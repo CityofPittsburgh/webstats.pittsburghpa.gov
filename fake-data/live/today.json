@@ -1,146 +1,168 @@
 {
-    "name": "today",
-    "query": {
-        "start-date": "today",
-        "end-date": "today",
-        "dimensions": "ga:date,ga:hour",
-        "metrics": [
-            "ga:sessions"
-        ],
-        "start-index": 1,
-        "max-results": 10000,
-        "samplingLevel": "HIGHER_PRECISION"
-    },
-    "meta": {
-        "name": "Today",
-        "description": "Today's visits for all sites."
-    },
-    "data": [
-        {
-            "date": "2015-12-07",
-            "hour": "00",
-            "visits": "448077"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "01",
-            "visits": "334516"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "02",
-            "visits": "271237"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "03",
-            "visits": "183625"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "04",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "05",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "06",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "07",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "08",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "09",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "10",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "11",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "12",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "13",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "14",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "15",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "16",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "17",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "18",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "19",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "20",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "21",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "22",
-            "visits": "0"
-        },
-        {
-            "date": "2015-12-07",
-            "hour": "23",
-            "visits": "0"
-        }
+  "name": "today",
+  "query": {
+    "start-date": "today",
+    "end-date": "today",
+    "dimensions": "ga:date,ga:hour",
+    "metrics": [
+      "ga:sessions"
     ],
-    "totals": {
-        "visits": 1237455,
-        "start_date": "2015-12-07",
-        "end_date": "2015-12-07"
+    "start-index": 1,
+    "max-results": 10000,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Today",
+    "description": "Today's visits for all sites."
+  },
+  "data": [
+    {
+      "date": "2019-03-18",
+      "hour": "00",
+      "visits": "46",
+      "domain": "https://pittsburghpa.gov"
     },
-    "taken_at": "2015-12-07T09:00:04.096Z"
+    {
+      "date": "2019-03-18",
+      "hour": "01",
+      "visits": "18",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "02",
+      "visits": "21",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "03",
+      "visits": "22",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "04",
+      "visits": "23",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "05",
+      "visits": "21",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "06",
+      "visits": "53",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "07",
+      "visits": "133",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "08",
+      "visits": "240",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "09",
+      "visits": "339",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "10",
+      "visits": "349",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "11",
+      "visits": "397",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "12",
+      "visits": "377",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "13",
+      "visits": "375",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "14",
+      "visits": "372",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "15",
+      "visits": "245",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "16",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "17",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "18",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "19",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "20",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "21",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "22",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "hour": "23",
+      "visits": "0",
+      "domain": "https://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "visits": 3031
+  },
+  "taken_at": "2019-03-18T19:48:01.773Z"
 }

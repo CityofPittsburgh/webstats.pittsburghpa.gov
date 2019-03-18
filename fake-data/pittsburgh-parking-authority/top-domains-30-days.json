@@ -1,0 +1,177 @@
+{
+  "name": "top-domains-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviews",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (30 Days)",
+    "description": "Last 30 days' top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "www.pittsburghparking.com",
+      "visits": "45508",
+      "users": "31934",
+      "pageviews": "65677",
+      "pageviews_per_session": "1.4431968005625384",
+      "avg_session_duration": "59.84813659136855",
+      "exits": "45522"
+    },
+    {
+      "domain": "pittsburghparking.com",
+      "visits": "5723",
+      "users": "3989",
+      "pageviews": "6333",
+      "pageviews_per_session": "1.106587454132448",
+      "avg_session_duration": "26.038091909837497",
+      "exits": "5698"
+    },
+    {
+      "domain": "ww.pittsburghparking.com",
+      "visits": "17",
+      "users": "15",
+      "pageviews": "18",
+      "pageviews_per_session": "1.0588235294117647",
+      "avg_session_duration": "80.11764705882354",
+      "exits": "16"
+    },
+    {
+      "domain": "wwww.pittsburghparking.com",
+      "visits": "8",
+      "users": "8",
+      "pageviews": "8",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "8"
+    },
+    {
+      "domain": "wwe.pittsburghparking.com",
+      "visits": "6",
+      "users": "6",
+      "pageviews": "6",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "22.5",
+      "exits": "5"
+    },
+    {
+      "domain": "wew.pittsburghparking.com",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "8",
+      "pageviews_per_session": "2.0",
+      "avg_session_duration": "225.0",
+      "exits": "3"
+    },
+    {
+      "domain": "wee.pittsburghparking.com",
+      "visits": "3",
+      "users": "3",
+      "pageviews": "3",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "3"
+    },
+    {
+      "domain": "pwww.pittsburghparking.com",
+      "visits": "2",
+      "users": "1",
+      "pageviews": "2",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "2"
+    },
+    {
+      "domain": "2www.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "19.0",
+      "exits": "0"
+    },
+    {
+      "domain": "ewww.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "httpwww.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "w.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "ww.pay.gov.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "ww3.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "ww6.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "wweww.pittsburghparking.com",
+      "visits": "1",
+      "users": "1",
+      "pageviews": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    }
+  ],
+  "totals": {
+    "users": 35968,
+    "visits": 51279
+  },
+  "taken_at": "2019-03-18T19:45:14.581Z"
+}

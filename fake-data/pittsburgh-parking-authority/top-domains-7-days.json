@@ -1,0 +1,55 @@
+{
+  "name": "top-domains-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (7 Days)",
+    "description": "Last week's top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "www.pittsburghparking.com",
+      "visits": "11571"
+    },
+    {
+      "domain": "pittsburghparking.com",
+      "visits": "1423"
+    },
+    {
+      "domain": "ww.pittsburghparking.com",
+      "visits": "7"
+    },
+    {
+      "domain": "httpwww.pittsburghparking.com",
+      "visits": "1"
+    },
+    {
+      "domain": "wew.pittsburghparking.com",
+      "visits": "1"
+    },
+    {
+      "domain": "ww3.pittsburghparking.com",
+      "visits": "1"
+    },
+    {
+      "domain": "wwe.pittsburghparking.com",
+      "visits": "1"
+    }
+  ],
+  "totals": {
+    "visits": 13005
+  },
+  "taken_at": "2019-03-18T19:45:13.935Z"
+}

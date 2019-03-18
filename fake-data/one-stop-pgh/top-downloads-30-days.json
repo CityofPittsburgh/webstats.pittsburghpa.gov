@@ -1,0 +1,25 @@
+{
+  "name": "top-downloads-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:pageTitle,ga:eventLabel,ga:pagePath",
+    "metrics": [
+      "ga:totalEvents"
+    ],
+    "sort": [
+      "-ga:totalEvents"
+    ],
+    "filters": "ga:eventCategory=~ownload;ga:eventLabel!~swf$",
+    "start-index": 1,
+    "max-results": 100,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Downloads (30 Days)",
+    "description": "Top downloads in the last 30 days."
+  },
+  "data": [],
+  "totals": {},
+  "taken_at": "2019-03-18T19:44:35.144Z"
+}

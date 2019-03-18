@@ -1,0 +1,26 @@
+{
+  "name": "top-cities-realtime",
+  "query": {
+    "dimensions": "rt:city",
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Top Cities (Live)",
+    "description": "Top cities for active onsite users."
+  },
+  "data": [
+    {
+      "city": "Cranberry Township",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-18T19:46:33.878Z"
+}
