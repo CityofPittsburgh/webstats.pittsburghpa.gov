@@ -12,8 +12,8 @@ dev-docker:
 
 deploy_prod:
 	# make production
-	make production && aws s3 cp ./_site/* s3://pgh-analytics-reporter-prod --recursive
+	make production && aws s3 cp ./_site s3://pgh-analytics-reporter-prod --recursive
 
 deploy_staging:
 	# make staging
-	make staging && aws s3 cp ./_site/* s3://pgh-analytics-reporter-staging --recursive
+	make staging && aws s3 cp ./_site s3://pgh-analytics-reporter-staging --recursive

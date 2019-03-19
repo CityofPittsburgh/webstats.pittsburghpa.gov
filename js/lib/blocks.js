@@ -181,7 +181,7 @@ export default {
         .append('a')
         .attr('target', '_blank')
         .attr('title', d => clean_title(d))
-        .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
+        .attr('href', d => exceptions[d.page] || (`${d.domain}` + `${d.page}`))
         .text(d => titleExceptions[d.page] || clean_title(d));
     })
     .render(barChart()
