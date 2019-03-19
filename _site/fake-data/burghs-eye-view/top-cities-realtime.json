@@ -1,0 +1,20 @@
+{
+  "name": "top-cities-realtime",
+  "query": {
+    "dimensions": "rt:city",
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Top Cities (Live)",
+    "description": "Top cities for active onsite users."
+  },
+  "data": [],
+  "totals": {},
+  "taken_at": "2019-03-18T20:09:47.783Z"
+}

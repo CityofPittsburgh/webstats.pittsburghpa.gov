@@ -45,14 +45,14 @@ title: "analytics.pittsburghpa.gov | The Pittsburgh city government's web traffi
 description: "Official data on web traffic to city websites."
 
 # Site's own URL
-url: https://analytics.pittsburghpa.gov
+url: http://analytics.pittsburghpa.gov
 
 # Default dropdown title, will not appear if there are no sub-pages
 dropdown_title: All Participating Websites
 
 # Default data url (also needs to be in nginx.conf for cloud.gov deployment)
 # TODO: deploy analytics-reporter to analytics.pittsburgh.gov/data
-data_url: https://analytics.pittsburghpa.gov
+data_url: http://analytics.pittsburghpa.gov
 
 # twitter information
 twitter: PghIP

@@ -10,10 +10,10 @@ dev:
 dev-docker:
 	bundle exec jekyll serve --host 0.0.0.0 --watch --config=_config.yml,_development.yml
 
-# TODO: change "cf push analytics" to pittsburghpa.gov deploy command
-
-deploy_production:
-	make production
+deploy_prod:
+	# make production
+	make production && aws s3 cp ./_site/* s3://pgh-analytics-reporter-prod --recursive
 
 deploy_staging:
-	make staging
+	# make staging
+	make staging && aws s3 cp ./_site/* s3://pgh-analytics-reporter-staging --recursive

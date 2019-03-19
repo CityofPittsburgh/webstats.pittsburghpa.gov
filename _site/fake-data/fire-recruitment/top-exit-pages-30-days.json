@@ -1,0 +1,203 @@
+{
+  "name": "top-exit-pages-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:exitPagePath",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Exit Pages (30 Days)",
+    "description": "Last 30 days' Exit page paths, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "exit_page": "/joinpghfire/applying/process.html",
+      "visits": "370",
+      "pageviews": "557",
+      "users": "320",
+      "pageviews_per_session": "1.5054054054054054",
+      "avg_session_duration": "79.11891891891892",
+      "exits": "370",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/benefits/salary.html",
+      "visits": "145",
+      "pageviews": "302",
+      "users": "121",
+      "pageviews_per_session": "2.0827586206896553",
+      "avg_session_duration": "68.46206896551725",
+      "exits": "145",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/recruitingevents/index.html",
+      "visits": "115",
+      "pageviews": "395",
+      "users": "89",
+      "pageviews_per_session": "3.4347826086956523",
+      "avg_session_duration": "232.87826086956522",
+      "exits": "115",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/index.html",
+      "visits": "67",
+      "pageviews": "136",
+      "users": "57",
+      "pageviews_per_session": "2.029850746268657",
+      "avg_session_duration": "58.940298507462686",
+      "exits": "67",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/faqs/index.html",
+      "visits": "36",
+      "pageviews": "104",
+      "users": "35",
+      "pageviews_per_session": "2.888888888888889",
+      "avg_session_duration": "122.97222222222223",
+      "exits": "36",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/benefits/benefits.html",
+      "visits": "25",
+      "pageviews": "66",
+      "users": "18",
+      "pageviews_per_session": "2.64",
+      "avg_session_duration": "145.04",
+      "exits": "25",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/contact/index.html",
+      "visits": "22",
+      "pageviews": "54",
+      "users": "18",
+      "pageviews_per_session": "2.4545454545454546",
+      "avg_session_duration": "236.5",
+      "exits": "22",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/applying/preparation.html",
+      "visits": "17",
+      "pageviews": "71",
+      "users": "17",
+      "pageviews_per_session": "4.176470588235294",
+      "avg_session_duration": "241.8235294117647",
+      "exits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/pittsburgh/residency.html",
+      "visits": "9",
+      "pageviews": "35",
+      "users": "8",
+      "pageviews_per_session": "3.888888888888889",
+      "avg_session_duration": "108.77777777777777",
+      "exits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/pittsburgh/neighborhoods.html",
+      "visits": "5",
+      "pageviews": "37",
+      "users": "5",
+      "pageviews_per_session": "7.4",
+      "avg_session_duration": "200.4",
+      "exits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/ffdev/training.html",
+      "visits": "3",
+      "pageviews": "9",
+      "users": "3",
+      "pageviews_per_session": "3.0",
+      "avg_session_duration": "500.0",
+      "exits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/ffdev/career-paths.html",
+      "visits": "2",
+      "pageviews": "9",
+      "users": "2",
+      "pageviews_per_session": "4.5",
+      "avg_session_duration": "152.5",
+      "exits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/ffdev/promotions.html",
+      "visits": "2",
+      "pageviews": "7",
+      "users": "2",
+      "pageviews_per_session": "3.5",
+      "avg_session_duration": "62.0",
+      "exits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/about/diversity-inclusion.html",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/index.html/joinpghfire/applying/process.html",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/joinpghfire/pittsburgh/popstatistics.html",
+      "visits": "1",
+      "pageviews": "7",
+      "users": "1",
+      "pageviews_per_session": "7.0",
+      "avg_session_duration": "1674.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/search?q=cache:http://www.joinpghfire.com/",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 699,
+    "visits": 822
+  },
+  "taken_at": "2019-03-18T19:42:29.784Z"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "top-downloads-yesterday",
+  "query": {
+    "start-date": "yesterday",
+    "end-date": "yesterday",
+    "dimensions": "ga:pageTitle,ga:eventLabel,ga:pagePath",
+    "metrics": [
+      "ga:totalEvents"
+    ],
+    "sort": [
+      "-ga:totalEvents"
+    ],
+    "filters": "ga:eventAction=~ownload",
+    "start-index": 1,
+    "max-results": 100,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Downloads Yesterday",
+    "description": "Top downloads yesterday"
+  },
+  "data": [],
+  "totals": {},
+  "taken_at": "2019-03-18T19:44:34.333Z"
+}

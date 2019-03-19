@@ -1,107 +1,213 @@
 {
-    "name": "top-domains-30-days",
-    "query": {
-        "start-date": "30daysAgo",
-        "end-date": "yesterday",
-        "dimensions": "ga:hostname",
-        "metrics": [
-            "ga:sessions"
-        ],
-        "sort": [
-            "-ga:sessions"
-        ],
-        "start-index": 1,
-        "max-results": 20,
-        "samplingLevel": "HIGHER_PRECISION"
-    },
-    "meta": {
-        "name": "Top Domains (30 Days)",
-        "description": "Last 30 days' top 20 domains, measured by visits, for all sites."
-    },
-    "data": [
-        {
-            "domain": "forecast.weather.gov",
-            "visits": "51709314"
-        },
-        {
-            "domain": "nlm.nih.gov",
-            "visits": "50851796"
-        },
-        {
-            "domain": "cdc.gov",
-            "visits": "23608396"
-        },
-        {
-            "domain": "irs.gov",
-            "visits": "19682967"
-        },
-        {
-            "domain": "weather.gov",
-            "visits": "14492067"
-        },
-        {
-            "domain": "usajobs.gov",
-            "visits": "13421658"
-        },
-        {
-            "domain": "travel.state.gov",
-            "visits": "10033366"
-        },
-        {
-            "domain": "nasa.gov",
-            "visits": "8897118"
-        },
-        {
-            "domain": "uscis.gov",
-            "visits": "8694551"
-        },
-        {
-            "domain": "nps.gov",
-            "visits": "8416951"
-        },
-        {
-            "domain": "ssa.gov",
-            "visits": "7077482"
-        },
-        {
-            "domain": "socialsecurity.gov",
-            "visits": "7049185"
-        },
-        {
-            "domain": "fda.gov",
-            "visits": "6764205"
-        },
-        {
-            "domain": "opm.gov",
-            "visits": "6125040"
-        },
-        {
-            "domain": "ceac.state.gov",
-            "visits": "5444007"
-        },
-        {
-            "domain": "bls.gov",
-            "visits": "5234116"
-        },
-        {
-            "domain": "whitehouse.gov",
-            "visits": "4980363"
-        },
-        {
-            "domain": "noaa.gov",
-            "visits": "4919869"
-        },
-        {
-            "domain": "earthquake.usgs.gov",
-            "visits": "4287814"
-        },
-        {
-            "domain": "egov.uscis.gov",
-            "visits": "4116727"
-        }
+  "name": "top-domains-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname",
+    "metrics": [
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviews",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
     ],
-    "totals": {
-        "visits": 265806992
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Domains (30 Days)",
+    "description": "Last 30 days' top 20 domains, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "domain": "pittsburghpa.gov",
+      "visits": "107597",
+      "users": "77117",
+      "pageviews": "295237",
+      "pageviews_per_session": "2.7439147931633783",
+      "avg_session_duration": "141.03946206678626",
+      "exits": "108978"
     },
-    "taken_at": "2015-12-06T08:10:09.347Z"
+    {
+      "domain": "www.pittsburghpa.gov",
+      "visits": "7473",
+      "users": "6930",
+      "pageviews": "11773",
+      "pageviews_per_session": "1.5754047905794193",
+      "avg_session_duration": "105.73477853606316",
+      "exits": "5732"
+    },
+    {
+      "domain": "www.city.pittsburghpa.gov",
+      "visits": "106",
+      "users": "117",
+      "pageviews": "137",
+      "pageviews_per_session": "1.2924528301886793",
+      "avg_session_duration": "92.01886792452831",
+      "exits": "96"
+    },
+    {
+      "domain": "pittsburghpa.local",
+      "visits": "39",
+      "users": "8",
+      "pageviews": "182",
+      "pageviews_per_session": "4.666666666666667",
+      "avg_session_duration": "576.6666666666666",
+      "exits": "33"
+    },
+    {
+      "domain": "portal.office.pittsburghpa.gov",
+      "visits": "12",
+      "users": "12",
+      "pageviews": "12",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "12"
+    },
+    {
+      "domain": "web.archive.org",
+      "visits": "11",
+      "users": "11",
+      "pageviews": "26",
+      "pageviews_per_session": "2.3636363636363638",
+      "avg_session_duration": "20.09090909090909",
+      "exits": "11"
+    },
+    {
+      "domain": "webcache.googleusercontent.com",
+      "visits": "10",
+      "users": "10",
+      "pageviews": "10",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.6",
+      "exits": "10"
+    },
+    {
+      "domain": "wwww.pittsburghpa.gov",
+      "visits": "10",
+      "users": "10",
+      "pageviews": "11",
+      "pageviews_per_session": "1.1",
+      "avg_session_duration": "5.8",
+      "exits": "10"
+    },
+    {
+      "domain": "localhost",
+      "visits": "9",
+      "users": "9",
+      "pageviews": "143",
+      "pageviews_per_session": "15.88888888888889",
+      "avg_session_duration": "1329.3333333333333",
+      "exits": "9"
+    },
+    {
+      "domain": "registeredparks.pittsburghpa.gov",
+      "visits": "7",
+      "users": "2",
+      "pageviews": "7",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "32.142857142857146",
+      "exits": "6"
+    },
+    {
+      "domain": "www.safeconference.pittsburghpa.gov",
+      "visits": "7",
+      "users": "9",
+      "pageviews": "16",
+      "pageviews_per_session": "2.2857142857142856",
+      "avg_session_duration": "20.142857142857142",
+      "exits": "6"
+    },
+    {
+      "domain": "cityclerk.pittsburghpa.gov",
+      "visits": "6",
+      "users": "7",
+      "pageviews": "17",
+      "pageviews_per_session": "2.8333333333333335",
+      "avg_session_duration": "233.83333333333334",
+      "exits": "6"
+    },
+    {
+      "domain": "weedandseed.pittsburghpa.gov",
+      "visits": "6",
+      "users": "7",
+      "pageviews": "8",
+      "pageviews_per_session": "1.3333333333333333",
+      "avg_session_duration": "79.0",
+      "exits": "4"
+    },
+    {
+      "domain": "www.lic.pittsburghpa.gov",
+      "visits": "6",
+      "users": "6",
+      "pageviews": "7",
+      "pageviews_per_session": "1.1666666666666667",
+      "avg_session_duration": "6.833333333333333",
+      "exits": "5"
+    },
+    {
+      "domain": "www.onepgh.pittsburghpa.gov",
+      "visits": "6",
+      "users": "6",
+      "pageviews": "15",
+      "pageviews_per_session": "2.5",
+      "avg_session_duration": "151.16666666666666",
+      "exits": "5"
+    },
+    {
+      "domain": "translate.googleusercontent.com",
+      "visits": "5",
+      "users": "5",
+      "pageviews": "5",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "5"
+    },
+    {
+      "domain": "appealassist.pittsburghpa.gov",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "4",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "wave.webaim.org",
+      "visits": "4",
+      "users": "2",
+      "pageviews": "31",
+      "pageviews_per_session": "7.75",
+      "avg_session_duration": "445.0",
+      "exits": "4"
+    },
+    {
+      "domain": "www.cla.pittsburghpa.gov",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "4",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    },
+    {
+      "domain": "www.dns-admins.pittsburghpa.gov",
+      "visits": "4",
+      "users": "4",
+      "pageviews": "4",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "4"
+    }
+  ],
+  "totals": {
+    "users": 84280,
+    "visits": 115326
+  },
+  "taken_at": "2019-03-18T19:48:09.745Z"
 }

@@ -1,0 +1,165 @@
+{
+  "name": "top-traffic-sources-30-days",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:source,ga:hasSocialSourceReferral",
+    "metrics": [
+      "ga:sessions",
+      "ga:pageviews",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Traffic Sources (30 Days)",
+    "description": "Last 30 days' Traffic sources, measured by visits, for all sites."
+  },
+  "data": [
+    {
+      "source": "google",
+      "has_social_referral": "No",
+      "visits": "1757",
+      "pageviews": "3339",
+      "users": "1396",
+      "pageviews_per_session": "1.900398406374502",
+      "avg_session_duration": "88.69095048377918",
+      "exits": "1757",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "joinpghpolice.com",
+      "has_social_referral": "No",
+      "visits": "1103",
+      "pageviews": "3034",
+      "users": "846",
+      "pageviews_per_session": "2.7506799637352675",
+      "avg_session_duration": "98.2520398912058",
+      "exits": "1103",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "(direct)",
+      "has_social_referral": "No",
+      "visits": "265",
+      "pageviews": "567",
+      "users": "190",
+      "pageviews_per_session": "2.139622641509434",
+      "avg_session_duration": "164.64528301886793",
+      "exits": "265",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "yahoo",
+      "has_social_referral": "No",
+      "visits": "30",
+      "pageviews": "68",
+      "users": "21",
+      "pageviews_per_session": "2.2666666666666666",
+      "avg_session_duration": "79.33333333333333",
+      "exits": "30",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "bing",
+      "has_social_referral": "No",
+      "visits": "11",
+      "pageviews": "28",
+      "users": "10",
+      "pageviews_per_session": "2.5454545454545454",
+      "avg_session_duration": "54.90909090909091",
+      "exits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "searchassist.verizon.com",
+      "has_social_referral": "No",
+      "visits": "5",
+      "pageviews": "29",
+      "users": "3",
+      "pageviews_per_session": "5.8",
+      "avg_session_duration": "269.6",
+      "exits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "duckduckgo",
+      "has_social_referral": "No",
+      "visits": "4",
+      "pageviews": "15",
+      "users": "4",
+      "pageviews_per_session": "3.75",
+      "avg_session_duration": "60.5",
+      "exits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "m.facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "4",
+      "pageviews": "5",
+      "users": "3",
+      "pageviews_per_session": "1.25",
+      "avg_session_duration": "2.75",
+      "exits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "searchguide.level3.com",
+      "has_social_referral": "No",
+      "visits": "2",
+      "pageviews": "12",
+      "users": "1",
+      "pageviews_per_session": "6.0",
+      "avg_session_duration": "295.5",
+      "exits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "l.facebook.com",
+      "has_social_referral": "Yes",
+      "visits": "1",
+      "pageviews": "3",
+      "users": "1",
+      "pageviews_per_session": "3.0",
+      "avg_session_duration": "882.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "r.search.aol.com",
+      "has_social_referral": "No",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "source": "searchencrypt.com",
+      "has_social_referral": "No",
+      "visits": "1",
+      "pageviews": "5",
+      "users": "1",
+      "pageviews_per_session": "5.0",
+      "avg_session_duration": "96.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "users": 2477,
+    "visits": 3184
+  },
+  "taken_at": "2019-03-18T19:46:33.261Z"
+}

@@ -222,6 +222,13 @@ header {
     }
   }
 
+  img {
+    height: 65px;
+    width: auto;
+    display: inline-block;
+    float: left;
+  }
+
   a {
     color: $gold;
     font-weight: 300;

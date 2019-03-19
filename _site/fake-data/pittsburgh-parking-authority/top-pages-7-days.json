@@ -1,0 +1,253 @@
+{
+  "name": "top-pages-7-days",
+  "query": {
+    "start-date": "7daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:hostname,ga:pagePath,ga:pageTitle",
+    "metrics": [
+      "ga:pageviews",
+      "ga:sessions",
+      "ga:users",
+      "ga:pageviewsPerSession",
+      "ga:avgSessionDuration",
+      "ga:exits"
+    ],
+    "sort": [
+      "-ga:pageviews"
+    ],
+    "start-index": 1,
+    "max-results": 20,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Top Pages (7 Days)",
+    "description": "Last week's top 20 pages, measured by page views, for all sites."
+  },
+  "data": [
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/",
+      "page_title": "PPA | Welcome",
+      "pageviews": "7512",
+      "visits": "6428",
+      "users": "5467",
+      "pageviews_per_session": "1.1686372121966397",
+      "avg_session_duration": "52.07716241443684",
+      "exits": "5772"
+    },
+    {
+      "domain": "pittsburghparking.com",
+      "page": "/",
+      "page_title": "PPA | Welcome",
+      "pageviews": "1484",
+      "visits": "1412",
+      "users": "1102",
+      "pageviews_per_session": "1.0509915014164306",
+      "avg_session_duration": "20.81586402266289",
+      "exits": "1375"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/rppp",
+      "page_title": "PPA | Residential Permit Parking Program",
+      "pageviews": "1321",
+      "visits": "1038",
+      "users": "1000",
+      "pageviews_per_session": "1.2726396917148362",
+      "avg_session_duration": "64.33526011560694",
+      "exits": "1054"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/facilities",
+      "page_title": "PPA | Facilities - Providing Quality Customer Service Is Our Goal",
+      "pageviews": "1139",
+      "visits": "585",
+      "users": "793",
+      "pageviews_per_session": "1.947008547008547",
+      "avg_session_duration": "61.03931623931624",
+      "exits": "553"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/garages-and-attended-lots",
+      "page_title": "PPA | Garages and Attended Lots: Date opened - Spaces - Max Vehicle Height",
+      "pageviews": "624",
+      "visits": "143",
+      "users": "388",
+      "pageviews_per_session": "4.363636363636363",
+      "avg_session_duration": "137.47552447552448",
+      "exits": "158"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/contact",
+      "page_title": "PPA | Contact the PPA",
+      "pageviews": "599",
+      "visits": "200",
+      "users": "432",
+      "pageviews_per_session": "2.995",
+      "avg_session_duration": "65.445",
+      "exits": "375"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/meters",
+      "page_title": "PPA | On-Street Meters",
+      "pageviews": "565",
+      "visits": "433",
+      "users": "449",
+      "pageviews_per_session": "1.3048498845265588",
+      "avg_session_duration": "60.73210161662818",
+      "exits": "389"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/pittsburgh-parking-court",
+      "page_title": "PPA | Pittsburgh Parking Court",
+      "pageviews": "562",
+      "visits": "374",
+      "users": "441",
+      "pageviews_per_session": "1.5026737967914439",
+      "avg_session_duration": "59.49197860962567",
+      "exits": "400"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/gstc",
+      "page_title": "PPA | Grant Street Transportation Center",
+      "pageviews": "459",
+      "visits": "295",
+      "users": "354",
+      "pageviews_per_session": "1.5559322033898304",
+      "avg_session_duration": "48.70508474576271",
+      "exits": "343"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/mellon-square",
+      "page_title": "PPA | Mellon Square Garage",
+      "pageviews": "403",
+      "visits": "265",
+      "users": "288",
+      "pageviews_per_session": "1.5207547169811322",
+      "avg_session_duration": "78.72075471698113",
+      "exits": "261"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/enforcement-meter-policies",
+      "page_title": "PPA | Enforcement & Meter Policies",
+      "pageviews": "364",
+      "visits": "179",
+      "users": "285",
+      "pageviews_per_session": "2.0335195530726256",
+      "avg_session_duration": "84.63687150837988",
+      "exits": "218"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/smithfield-liberty",
+      "page_title": "PPA | Smithfield-Liberty Garage",
+      "pageviews": "353",
+      "visits": "209",
+      "users": "269",
+      "pageviews_per_session": "1.6889952153110048",
+      "avg_session_duration": "90.92822966507177",
+      "exits": "219"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/first-avenue-garage-and-station",
+      "page_title": "PPA | First Avenue Garage and Station",
+      "pageviews": "284",
+      "visits": "174",
+      "users": "212",
+      "pageviews_per_session": "1.632183908045977",
+      "avg_session_duration": "56.37931034482759",
+      "exits": "198"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/facility-locator",
+      "page_title": "PPA | Facility Locator",
+      "pageviews": "283",
+      "visits": "62",
+      "users": "221",
+      "pageviews_per_session": "4.564516129032258",
+      "avg_session_duration": "119.12903225806451",
+      "exits": "162"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/ft-duquesne",
+      "page_title": "PPA | Ft. Duquesne & Sixth Garage",
+      "pageviews": "256",
+      "visits": "143",
+      "users": "194",
+      "pageviews_per_session": "1.7902097902097902",
+      "avg_session_duration": "80.18181818181819",
+      "exits": "166"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/forbes-semple",
+      "page_title": "PPA | Forbes Semple Garage",
+      "pageviews": "253",
+      "visits": "164",
+      "users": "167",
+      "pageviews_per_session": "1.5426829268292683",
+      "avg_session_duration": "68.32926829268293",
+      "exits": "177"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/ninth-penn",
+      "page_title": "PPA | Ninth and Penn Garage",
+      "pageviews": "245",
+      "visits": "136",
+      "users": "191",
+      "pageviews_per_session": "1.8014705882352942",
+      "avg_session_duration": "38.404411764705884",
+      "exits": "159"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/oliver",
+      "page_title": "PPA | Oliver Garage",
+      "pageviews": "216",
+      "visits": "113",
+      "users": "166",
+      "pageviews_per_session": "1.9115044247787611",
+      "avg_session_duration": "96.41592920353982",
+      "exits": "126"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/third-avenue",
+      "page_title": "PPA | Third Avenue Garage",
+      "pageviews": "189",
+      "visits": "79",
+      "users": "133",
+      "pageviews_per_session": "2.392405063291139",
+      "avg_session_duration": "120.29113924050633",
+      "exits": "91"
+    },
+    {
+      "domain": "www.pittsburghparking.com",
+      "page": "/meter-policies",
+      "page_title": "PPA | Meter Policies",
+      "pageviews": "179",
+      "visits": "37",
+      "users": "140",
+      "pageviews_per_session": "4.837837837837838",
+      "avg_session_duration": "39.729729729729726",
+      "exits": "90"
+    }
+  ],
+  "totals": {
+    "users": 12692,
+    "visits": 12469
+  },
+  "taken_at": "2019-03-18T19:45:12.840Z"
+}

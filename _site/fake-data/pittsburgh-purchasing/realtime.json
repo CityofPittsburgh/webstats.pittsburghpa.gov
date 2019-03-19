@@ -1,0 +1,21 @@
+{
+  "name": "realtime",
+  "query": {
+    "metrics": [
+      "rt:activeUsers"
+    ],
+    "max-results": 10000
+  },
+  "meta": {
+    "name": "Active Users Right Now",
+    "description": "Number of users currently visiting all sites."
+  },
+  "data": [
+    {
+      "active_visitors": "2",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-18T19:45:44.774Z"
+}

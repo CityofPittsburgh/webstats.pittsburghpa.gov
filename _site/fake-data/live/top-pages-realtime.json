@@ -1,121 +1,141 @@
 {
-    "name": "top-pages-realtime",
-    "query": {
-        "dimensions": "rt:pagePath,rt:pageTitle",
-        "metrics": [
-            "rt:activeUsers"
-        ],
-        "sort": [
-            "-rt:activeUsers"
-        ],
-        "max-results": 20
-    },
-    "meta": {
-        "name": "Top Pages (Live)",
-        "description": "The top 20 pages, measured by active onsite users, for all sites."
-    },
-    "data": [
-        {
-            "page": "earthquake.usgs.gov/earthquakes/eventpage/us100044k6",
-            "page_title": "M7.2 - 109km W of Murghob, Tajikistan",
-            "active_visitors": "804"
-        },
-        {
-            "page": "earthquake.usgs.gov/earthquakes/map/",
-            "page_title": "Earthquakes",
-            "active_visitors": "551"
-        },
-        {
-            "page": "forecast.weather.gov/mapclick.php",
-            "page_title": "National Weather Service",
-            "active_visitors": "444"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/complete_travel.aspx?node=travel",
-            "page_title": "Nonimmigrant Visa - Travel Information",
-            "active_visitors": "229"
-        },
-        {
-            "page": "ceac.state.gov/genniv/default.aspx",
-            "page_title": "Nonimmigrant Visa - Instructions Page",
-            "active_visitors": "211"
-        },
-        {
-            "page": "ceac.state.gov/ceac/",
-            "page_title": "Consular Electronic Application Center",
-            "active_visitors": "210"
-        },
-        {
-            "page": "nasa.gov/",
-            "page_title": "NASA",
-            "active_visitors": "185"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/complete_workeducation2.aspx?node=workeducation2",
-            "page_title": "Nonimmigrant Visa - Previous Work/Education/Training Information",
-            "active_visitors": "178"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/complete_personal.aspx?node=personal1",
-            "page_title": "Nonimmigrant Visa - Personal Information 1",
-            "active_visitors": "177"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/complete_workeducation1.aspx?node=workeducation1",
-            "page_title": "Nonimmigrant Visa - Present Work/Education/Training Information",
-            "active_visitors": "172"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/esign/complete_done.aspx?node=done",
-            "page_title": "Nonimmigrant Visa - Confirmation Page",
-            "active_visitors": "166"
-        },
-        {
-            "page": "nasa.gov/feature/new-horizons-returns-first-of-the-best-images-of-pluto/",
-            "page_title": "New Horizons Returns First, Best Images of Pluto | NASA",
-            "active_visitors": "162"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/complete_contact.aspx?node=addressphone",
-            "page_title": "Nonimmigrant Visa - Address and Phone Information",
-            "active_visitors": "150"
-        },
-        {
-            "page": "usgs.gov/",
-            "page_title": "Welcome to the USGS - U.S. Geological Survey",
-            "active_visitors": "131"
-        },
-        {
-            "page": "ceac.state.gov/genniv/common/recovery.aspx",
-            "page_title": "Nonimmigrant Visa - Recover Your Application",
-            "active_visitors": "127"
-        },
-        {
-            "page": "whitehouse.gov/blog/2015/12/05/president-obama-addresses-nation-keeping-american-people-safe",
-            "page_title": "President Obama Addresses the Nation on Keeping the American People Safe | whitehouse.gov",
-            "active_visitors": "123"
-        },
-        {
-            "page": "ceac.state.gov/genniv/general/complete/passport_visa_info.aspx?node=pptvisa",
-            "page_title": "Nonimmigrant Visa - Passport Information",
-            "active_visitors": "116"
-        },
-        {
-            "page": "egov.uscis.gov/casestatus/mycasestatus.do",
-            "page_title": "myUSCIS - Case Status",
-            "active_visitors": "114"
-        },
-        {
-            "page": "weather.gov/",
-            "page_title": "National Weather Service",
-            "active_visitors": "114"
-        },
-        {
-            "page": "ceac.state.gov/genniv/",
-            "page_title": "Nonimmigrant Visa - Instructions Page",
-            "active_visitors": "112"
-        }
+  "name": "top-pages-realtime",
+  "query": {
+    "dimensions": "rt:pagePath,rt:pageTitle",
+    "metrics": [
+      "rt:activeUsers"
     ],
-    "totals": {},
-    "taken_at": "2015-12-07T08:34:03.637Z"
+    "sort": [
+      "-rt:activeUsers"
+    ],
+    "max-results": 20
+  },
+  "meta": {
+    "name": "Top Pages (Live)",
+    "description": "The top 20 pages, measured by active onsite users, for all sites."
+  },
+  "data": [
+    {
+      "page": "/index.html",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "active_visitors": "2",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/",
+      "page_title": "City of Pittsburgh - Announcements, Special Events, Press Releases, City Permits, Careers, Pay your taxes, view Burgh's Eye View and more!",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/311/form",
+      "page_title": "311 Response Center, Online Request Form, MyBurgh App, Citizen Form Knowledge Guide | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/city-info/frequent-numbers",
+      "page_title": "City Number Directory | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/city-info/open-gov",
+      "page_title": "Pittsburgh Open Gov Portal | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/city-info/senior-centers.html",
+      "page_title": "Senior Community Centers Directory, Numbers | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/cmptf/pension-types",
+      "page_title": "CMPTF - Pension Funds by Type | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/controller/performance-audits",
+      "page_title": "Performance Audits | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/council/capital-budgets",
+      "page_title": "Council Budget Office - Capital Budgets | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/",
+      "page_title": "City Planning - Planning Projects, Programs, BuildingEye app, Zoning & Development, GIS department.",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/faqs",
+      "page_title": "Residential Parking Permit Program Frequently Asked Questions | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/hays-woods-get-involved",
+      "page_title": "Hays Woods - Get Involved with the project | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/interactive-maps",
+      "page_title": "Geographic Information Systems (GIS) Interactive Maps | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/ipod",
+      "page_title": "Zoning and Development Interim Planning Overlay Districts | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dcp/reviews",
+      "page_title": "Planning Reviews, Public Notices, and Public Hearings | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dpw/environmental-services/collection-schedule.html",
+      "page_title": "(not set)",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/dpw/environmental-services/collection-schedule.html",
+      "page_title": "Public Works - Collection Schedule | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/finance/property-sales",
+      "page_title": "Real Estate | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/finance/real-estate-taxes",
+      "page_title": "Real Estate Taxes | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    },
+    {
+      "page": "/finance/taxes/index.html",
+      "page_title": "View Tax Descriptions | pittsburghpa.gov",
+      "active_visitors": "1",
+      "domain": "https://pittsburghpa.gov"
+    }
+  ],
+  "totals": {},
+  "taken_at": "2019-03-18T19:48:08.509Z"
 }

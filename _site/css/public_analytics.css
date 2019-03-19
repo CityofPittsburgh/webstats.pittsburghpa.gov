@@ -196,6 +196,11 @@ header {
       header h1 {
         font-size: 2.8rem;
         padding-top: 4px; } }
+  header img {
+    height: 65px;
+    width: auto;
+    display: inline-block;
+    float: left; }
   header a {
     color: #fdb81e;
     font-weight: 300;
