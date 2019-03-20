@@ -25,14 +25,14 @@
       "event_label": "/dcp/comply",
       "page": "/dcp/comply",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "page_title": "Public Works - Volunteer Applications | pittsburghpa.gov",
       "event_label": "/dpw/volunteer-apps/",
       "page": "/dpw/volunteer-apps/?title=volunteer-apps",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
