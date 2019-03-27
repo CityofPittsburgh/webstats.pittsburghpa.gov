@@ -56,7 +56,7 @@ The development settings assume data is available at `/fakedata`. You can change
 
 If also working off of local data, e.g. using `analytics-reporter`, you will need to make the data available over HTTP _and_ through CORS.
 
-Various tools can do this. This project recommends using the Node module `serve`:
+Various tools can do this. This project recommends using the Node module `serve` (pinned at version 6.5.8):
 
 ```bash
 npm install -g serve
