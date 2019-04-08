@@ -16,6 +16,18 @@ const clean_title = function(d) {
   }
 }
 
+/* GA API returns wrong domain for BurghsEyeView in downloads + realtime
+and for parking authority in realtime*/
+  const clean_domain = function(d) {
+    if (d.page.includes("BurghsEyeView") || d.page.includes("TreesNAt")) {
+      return "pittsburghpa.shinyapps.io"
+    } else if (d.domain.includes("pittsburghparking")) {
+      return "pittsburghparking.com"
+    } else {
+      return d.domain
+    }
+  }
+
 /*
  * Define block renderers for each of the different data types.
  */
@@ -134,7 +146,7 @@ export default {
       barChart()
         .value(d => +d.total_events)
         .label(d => [
-          '<span class="name"><a class="top-download-page" target="_blank" href=http://', d.domain, d.page, '>', d.page_title, '</a></span> ',
+          '<span class="name"><a class="top-download-page" target="_blank" href=http://', clean_domain(d), d.page, '>', d.page_title, '</a></span> ',
           '<span class="domain" >', formatters.formatURL(d.page), '</span> ',
           '<span class="divider">/</span> '
         ].join(''))
@@ -181,7 +193,7 @@ export default {
         .append('a')
         .attr('target', '_blank')
         .attr('title', d => clean_title(d))
-        .attr('href', d => exceptions[d.page] || (`${d.domain}` + `${d.page}`))
+        .attr('href', d => exceptions[d.page] || (`http://${clean_domain(d)}` + `${d.page}`))
         .text(d => titleExceptions[d.page] || clean_title(d));
     })
     .render(barChart()

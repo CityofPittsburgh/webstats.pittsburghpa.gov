@@ -10,7 +10,12 @@
     "name": "Active Users Right Now",
     "description": "Number of users currently visiting all sites."
   },
-  "data": [],
+  "data": [
+    {
+      "active_visitors": "5",
+      "domain": "pittsburghpa.shinyapps.io"
+    }
+  ],
   "totals": {},
   "taken_at": "2019-03-18T20:09:36.540Z"
 }

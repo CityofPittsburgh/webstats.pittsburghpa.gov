@@ -41,18 +41,18 @@ collections:
     permalink: /:path/data/
 
 # Site title and description
-title: "analytics.pittsburghpa.gov | The Pittsburgh city government's web traffic."
+title: "webstats.pittsburghpa.gov | The Pittsburgh city government's web traffic."
 description: "Official data on web traffic to city websites."
 
 # Site's own URL
-url: http://analytics.pittsburghpa.gov
+url: http://webstats.pittsburghpa.gov
 
 # Default dropdown title, will not appear if there are no sub-pages
 dropdown_title: pittsburghpa.gov
 
 # Default data url (also needs to be in nginx.conf for cloud.gov deployment)
 # TODO: deploy analytics-reporter to analytics.pittsburgh.gov/data
-data_url: http://analytics.pittsburghpa.gov
+data_url: http://webstats.pittsburghpa.gov
 
 # twitter information
 twitter: PghIP

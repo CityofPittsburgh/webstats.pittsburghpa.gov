@@ -1,5 +1,6 @@
 {
   "name": "top-pages-realtime",
+  "sampling": {},
   "query": {
     "dimensions": "rt:pagePath,rt:pageTitle",
     "metrics": [
@@ -14,7 +15,20 @@
     "name": "Top Pages (Live)",
     "description": "The top 20 pages, measured by active onsite users, for all sites."
   },
-  "data": [],
+  "data": [
+    {
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"CartoDB.DarkMatter\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=1&hier=null&hood_select=null&map_bounds={\"north\":40.5393733501562,\"east\":-79.7906112670899,\"south\":40.381859094462,\"west\":-80.2458572387695}&map_center={\"lng\":-80.0182342529297,\"lat\":40.4606623882772}&map_click={\"lat\":40.4960480606279,\"lng\":-80.0117111206055,\".nonce\":0.225311453702439}&map_marker_click={\"id\":null,\".nonce\":0.343944168150278,\"lat\":40.4794856987459,\"lng\":-80.0309685639771,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.646121430306862,\"lat\":40.4794856987459,\"lng\":-80.0309685639771,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.769877405882748,\"lat\":40.4794856987459,\"lng\":-80.0309685639771,\"clusterId\":null}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
+      "page_title": "Burgh's Eye View Points",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page": "/TreesNAt/?_inputs_=&.clientValue-default-plotlyCrosstalkOpts={\"on\":\"plotly_click\",\"persistent\":false,\"dynamic\":false,\"selectize\":false,\"opacityDim\":0.2,\"selected\":{\"opacity\":1},\"debounce\":0,\"color\":[]}&.clientValue-plotly_hover-A=null&btn=0&comname_select=\"Mulberry: Red\"&filters=3&geocode=\"\"&grow_select=null&hood_select=null&landuse_select=null&map_bounds={\"north\":40.5050547176975,\"east\":-79.856014251709,\"south\":40.3635499363572,\"west\":-80.049991607666}&map_center={\"lng\":-79.952948095,\"lat\":40.4343865846368}&map_groups=\"trees\"&map_marker_mouseout={\"id\":\"574133203\",\".nonce\":0.584838092558629,\"lat\":40.47661786,\"lng\":-79.98991567,\"clusterId\":null}&map_marker_mouseover={\"id\":\"574133203\",\".nonce\":0.772720805486958,\"lat\":40.47661786,\"lng\":-79.98991567,\"clusterId\":null}&map_zoom=13&sciname_select=null&search=\"\"&utils_select=null",
+      "page_title": "Trees N'At",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
   "totals": {},
   "taken_at": "2019-03-18T20:09:44.520Z"
 }
