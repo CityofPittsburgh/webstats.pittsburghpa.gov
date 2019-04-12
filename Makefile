@@ -1,5 +1,5 @@
 production:
-	bundle exec jekyll build
+	bundle exec jekyll build --config=_config.yml
 
 staging:
 	bundle exec jekyll build --config=_config.yml,_staging.yml
