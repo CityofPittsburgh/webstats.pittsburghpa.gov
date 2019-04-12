@@ -10,21 +10,25 @@ import transformers from './transformers';
 
 const clean_title = function(d) {
   if (d.page_title == '(not set)') {
-    return (`http://${d.domain}` + `${d.page}`)
+    return (`${d.domain}` + `${d.page}`)
   } else {
     return d.page_title
   }
 }
 
 /* GA API returns wrong domain for BurghsEyeView in downloads + realtime
-and for parking authority in realtime*/
+and for parking authority in realtime. Also, remove http prepend to avoid
+hrefs with http://http:// */
+
   const clean_domain = function(d) {
     if (d.page.includes("BurghsEyeView") || d.page.includes("TreesNAt")) {
       return "pittsburghpa.shinyapps.io"
     } else if (d.domain.includes("pittsburghparking")) {
       return "pittsburghparking.com"
+    } else if (d.page_title.includes('webstats')) {
+      return "webstats.pittsburghpa.gov"
     } else {
-      return d.domain
+      return d.domain.replace("http://", "")
     }
   }
 
@@ -169,7 +173,7 @@ export default {
         .append('a')
         .attr('target', '_blank')
         .attr('title', d => clean_title(d))
-        .attr('href', d => exceptions[d.page] || (`http://${d.domain}` + `${d.page}`))
+        .attr('href', d => exceptions[d.page] || (`http://${clean_domain(d)}` + `${d.page}`))
         .text(d => titleExceptions[d.page] || clean_title(d));
     })
     .render(barChart()
