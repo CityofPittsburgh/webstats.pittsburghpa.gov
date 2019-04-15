@@ -1,12 +1,12 @@
 # To serve data from the fake-data directory in this repository:
 
-# url: http://localhost:4000
-# data_url: http://localhost:4000/fake-data
+url: http://localhost:4000
+data_url: http://localhost:4000/fake-data
 
 # You can also serve the data in analytics-reporter/sample_data using
 # the command "serve --cors" from the CLI. In that case, your data_url
 # would be localhost:3000/sample_data. Serve packaged must be pinned at
 # v6.5.8 for this to work. In this scenario, uncomment the below:
 
-url: http://localhost:3000
-data_url: http://localhost:3000/sample_data
+# url: http://localhost:3000
+# data_url: http://localhost:3000/sample_data

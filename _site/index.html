@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div id="main_data" class="width-two-thirds">
         <section id="realtime"
           data-block="realtime"
-          data-source="http://localhost:3000/sample_data/live/realtime.json"
+          data-source="http://localhost:4000/fake-data/live/realtime.json"
           data-refresh="15">
           <h2 id="current_visitors" class="data">...</h2>
           <div class="chart_subtitle">people on city websites right now</div>
@@ -169,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </section>
         <section id="time_series"
           data-block="today"
-          data-source="http://localhost:3000/sample_data/live/today.json"
+          data-source="http://localhost:4000/fake-data/live/today.json"
           data-refresh="15">
           <svg class="data time-series">
           </svg>
@@ -185,7 +185,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <section id="devices" class="three_column"
           data-block="devices"
-          data-source="http://localhost:3000/sample_data/live/devices.json">
+          data-source="http://localhost:4000/fake-data/live/devices.json">
           <h4>Devices</h4>
           <figure id="chart_device_types">
             <div class="data bar-chart">
@@ -202,14 +202,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_browsers"
             data-block="browsers"
-            data-source="http://localhost:3000/sample_data/live/browsers.json">
+            data-source="http://localhost:4000/fake-data/live/browsers.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_ie"
             data-block="ie"
-            data-source="http://localhost:3000/sample_data/live/ie.json"
+            data-source="http://localhost:4000/fake-data/live/ie.json"
             data-scale-to-parent="true">
             <h4>Internet Explorer</h4>
             <div class="data bar-chart">
@@ -222,14 +222,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_os"
             data-block="os"
-            data-source="http://localhost:3000/sample_data/live/os.json">
+            data-source="http://localhost:4000/fake-data/live/os.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_windows"
             data-block="windows"
-            data-source="http://localhost:3000/sample_data/live/windows.json"
+            data-source="http://localhost:4000/fake-data/live/windows.json"
             data-scale-to-parent="true">
             <h4>Windows</h4>
             <div class="data bar-chart">
@@ -246,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <section id="cities" class="three_column"
           data-block="cities"
-          data-source="http://localhost:3000/sample_data/live/top-cities-realtime.json">
+          data-source="http://localhost:4000/fake-data/live/top-cities-realtime.json">
           <h4>Cities</h4>
           <figure id="chart_top-cities-90-days">
             <div class="data bar-chart">
@@ -259,14 +259,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure id="chart_us"
             data-block="countries"
-            data-source="http://localhost:3000/sample_data/live/top-countries-realtime.json">
+            data-source="http://localhost:4000/fake-data/live/top-countries-realtime.json">
             <div class="data bar-chart">
             </div>
           </figure>
 
           <figure id="chart_countries"
             data-block="international_visits"
-            data-source="http://localhost:3000/sample_data/live/top-countries-realtime.json">
+            data-source="http://localhost:4000/fake-data/live/top-countries-realtime.json">
             <h4>International &amp; Territories</h4>
             <div class="data bar-chart">
             </div>
@@ -288,7 +288,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-realtime" role="tabpanel"
             data-block="top-pages-realtime"
-            data-source="http://localhost:3000/sample_data/live/top-pages-realtime.json"
+            data-source="http://localhost:4000/fake-data/live/top-pages-realtime.json"
             data-refresh="15">
             <h5><em>
               People on a <strong>single, specific page</strong> now.
@@ -299,9 +299,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-7-days" role="tabpanel"
             data-block="top-pages"
-            data-source="http://localhost:3000/sample_data/live/top-pages-7-days.json">
+            data-source="http://localhost:4000/fake-data/live/top-pages-7-days.json">
             <h5><em>
-              <a href="http://localhost:3000/sample_data/live/top-pages-7-days.csv">Download the full dataset.</a>
+              <a href="http://localhost:4000/fake-data/live/top-pages-7-days.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
             </div>
@@ -309,9 +309,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
           <figure class="top-pages" id="top-pages-30-days" role="tabpanel"
             data-block="top-pages"
-            data-source="http://localhost:3000/sample_data/live/top-pages-30-days.json">
+            data-source="http://localhost:4000/fake-data/live/top-pages-30-days.json">
             <h5><em>
-              <a href="http://localhost:3000/sample_data/live/top-pages-30-days.csv">Download the full dataset.</a>
+              <a href="http://localhost:4000/fake-data/live/top-pages-30-days.csv">Download the full dataset.</a>
             </em></h5>
             <div class="data bar-chart">
             </div>
@@ -325,7 +325,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <h5><em>Total file downloads in the past 30 days.</em></h5>
           <figure id="top-downloads"
             data-block="top-downloads"
-            data-source="http://localhost:3000/sample_data/live/top-downloads-30-days.json">
+            data-source="http://localhost:4000/fake-data/live/top-downloads-30-days.json">
             <div class="data bar-chart">
             </div>
           </figure>
