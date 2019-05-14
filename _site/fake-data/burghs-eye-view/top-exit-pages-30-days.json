@@ -25,209 +25,209 @@
   },
   "data": [
     {
-      "exit_page": "/BurghsEyeView/",
-      "visits": "666",
-      "pageviews": "810",
-      "users": "582",
-      "pageviews_per_session": "1.2162162162162162",
-      "avg_session_duration": "80.03303303303304",
-      "exits": "666",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewPlacesPavingSchedule/",
+      "visits": "1812",
+      "pageviews": "2394",
+      "users": "1579",
+      "pageviews_per_session": "1.3211920529801324",
+      "avg_session_duration": "44.11975717439294",
+      "exits": "1812",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewParcels/",
-      "visits": "168",
-      "pageviews": "306",
-      "users": "153",
-      "pageviews_per_session": "1.8214285714285714",
-      "avg_session_duration": "166.35714285714286",
-      "exits": "168",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeView/",
+      "visits": "708",
+      "pageviews": "911",
+      "users": "592",
+      "pageviews_per_session": "1.286723163841808",
+      "avg_session_duration": "82.09745762711864",
+      "exits": "708",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/BurghsEyeViewSteps/",
-      "visits": "160",
-      "pageviews": "212",
-      "users": "126",
-      "pageviews_per_session": "1.325",
-      "avg_session_duration": "94.775",
-      "exits": "160",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "203",
+      "pageviews": "253",
+      "users": "155",
+      "pageviews_per_session": "1.2463054187192117",
+      "avg_session_duration": "66.71428571428571",
+      "exits": "203",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewPlacesPavingSchedule/",
-      "visits": "73",
-      "pageviews": "83",
-      "users": "49",
-      "pageviews_per_session": "1.1369863013698631",
-      "avg_session_duration": "24.794520547945204",
-      "exits": "73",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeViewPlaces/",
-      "visits": "55",
-      "pageviews": "154",
-      "users": "53",
-      "pageviews_per_session": "2.8",
-      "avg_session_duration": "267.3272727272727",
-      "exits": "55",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&district_select=null&environmental_select=null&flash_select=null&ft_select=[0,3696]&materials_select=null&navTab=\"Places\"&open_select=\"\"&operation_select=null&recreation_select=null&rentable_select=\"\"&report_select=\"City Assets\"&search=\"\"&toggleAssets=false&toggleBridges=false&toggleEconomic=false&toggleEnvironmental=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSteps=false&toggleStreets=false&toggleTraffic=false&toggleWalls=false&toggleWaste=true&usage_select=null&water_select=null&year_select=\"2017\"",
-      "visits": "43",
-      "pageviews": "50",
-      "users": "34",
-      "pageviews_per_session": "1.1627906976744187",
-      "avg_session_duration": "16.302325581395348",
-      "exits": "43",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311+Requests\"&req.type=null&result_select=null&search=\"\"&times=[0,24]&toggle311=false&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleViolations=false&violation_select=null",
-      "visits": "38",
-      "pageviews": "38",
-      "users": "25",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "25.289473684210527",
-      "exits": "38",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewParcels/",
+      "visits": "139",
+      "pageviews": "243",
+      "users": "129",
+      "pageviews_per_session": "1.7482014388489209",
+      "avg_session_duration": "161.79136690647482",
+      "exits": "139",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
-      "visits": "37",
-      "pageviews": "51",
-      "users": "18",
-      "pageviews_per_session": "1.3783783783783783",
-      "avg_session_duration": "142.56756756756758",
-      "exits": "37",
-      "domain": "https://pittsburghpa.gov"
+      "visits": "71",
+      "pageviews": "95",
+      "users": "44",
+      "pageviews_per_session": "1.3380281690140845",
+      "avg_session_duration": "72.35211267605634",
+      "exits": "71",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewPlacesParks/",
-      "visits": "25",
-      "pageviews": "27",
-      "users": "21",
-      "pageviews_per_session": "1.08",
-      "avg_session_duration": "12.08",
-      "exits": "25",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewPlacesPavingSchedule/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&navTab=\"Paving\"&search=\"\"&status_select=null&toggleCityStreets=true&toggleMech=true&toggleUtilStreets=true&year_select=\"2019\"",
+      "visits": "71",
+      "pageviews": "130",
+      "users": "64",
+      "pageviews_per_session": "1.8309859154929577",
+      "avg_session_duration": "139.19718309859155",
+      "exits": "71",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&navbar=\"Parcels\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
-      "visits": "22",
-      "pageviews": "30",
-      "users": "11",
-      "pageviews_per_session": "1.3636363636363635",
-      "avg_session_duration": "181.8181818181818",
-      "exits": "22",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&district_select=null&environmental_select=null&flash_select=null&ft_select=[0,3696]&materials_select=null&navTab=\"Places\"&open_select=\"\"&operation_select=null&recreation_select=null&rentable_select=\"\"&report_select=\"City Assets\"&search=\"\"&toggleAssets=false&toggleBridges=false&toggleEconomic=false&toggleEnvironmental=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSteps=false&toggleStreets=false&toggleTraffic=false&toggleWalls=false&toggleWaste=true&usage_select=null&water_select=null&year_select=\"2017\"",
+      "visits": "63",
+      "pageviews": "63",
+      "users": "56",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "14.857142857142858",
+      "exits": "63",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeViewPlaces/",
+      "visits": "50",
+      "pageviews": "143",
+      "users": "49",
+      "pageviews_per_session": "2.86",
+      "avg_session_duration": "300.2",
+      "exits": "50",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311+Requests\"&req.type=null&result_select=null&search=\"\"&times=[0,24]&toggle311=false&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleViolations=false&violation_select=null",
+      "visits": "36",
+      "pageviews": "43",
+      "users": "25",
+      "pageviews_per_session": "1.1944444444444444",
+      "avg_session_duration": "56.44444444444444",
+      "exits": "36",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "(not set)",
-      "visits": "19",
+      "visits": "31",
       "pageviews": "0",
-      "users": "13",
+      "users": "24",
       "pageviews_per_session": "0.0",
-      "avg_session_duration": "58.0",
+      "avg_session_duration": "92.93548387096774",
       "exits": "0",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&designation_select=null&designation_select-selectized=\"\"&environmental_select=null&environmental_select-selectized=\"\"&flash_select=null&flash_select-selectized=\"\"&ft_select=[0,1235]&intersection_select=null&intersection_select-selectized=\"\"&materials_select=null&materials_select-selectized=\"\"&navTab=\"Places\"&open_select=\"\"&open_select-selectized=\"\"&recreation_select=null&recreation_select-selectized=\"\"&rentable_select=\"\"&rentable_select-selectized=\"\"&report_select=\"Carnegie Library of Pittsburgh Locations\"&report_select-selectized=\"\"&search=\"\"&sign_select=null&sign_select-selectized=\"\"&toggleBridges=false&toggleDesignations=false&toggleEnvironmental=false&toggleFacilities=true&toggleIntersections=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSigns=false&toggleSteps=false&toggleStreets=false&toggleWalls=false&toggleWaste=true&usage_select=null&usage_select-selectized=\"\"&water_select=null&water_select-selectized=\"\"&year_select=\"2017\"&year_select-selectized=\"\"",
-      "visits": "15",
-      "pageviews": "32",
-      "users": "12",
-      "pageviews_per_session": "2.1333333333333333",
-      "avg_session_duration": "35.4",
-      "exits": "15",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&navbar=\"Parcels\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "visits": "20",
+      "pageviews": "28",
+      "users": "17",
+      "pageviews_per_session": "1.4",
+      "avg_session_duration": "115.75",
+      "exits": "20",
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/BurghsEyeViewPlaces/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&environmental_select=null&environmental_select-selectized=\"\"&flash_select=null&flash_select-selectized=\"\"&ft_select=[0,1235]&intersection_select=null&intersection_select-selectized=\"\"&map_bounds={\"north\":40.5085787325944,\"east\":-79.7614288330078,\"south\":40.3724435773257,\"west\":-80.2304077148438}&map_center={\"lng\":-79.9959,\"lat\":40.4406}&map_groups=[\"facilities\",\"egg\",\"streets\"]&map_zoom=12&materials_select=null&materials_select-selectized=\"\"&navTab=\"Places\"&open_select=\"\"&open_select-selectized=\"\"&recreation_select=null&recreation_select-selectized=\"\"&rentable_select=\"\"&rentable_select-selectized=\"\"&report_select=\"City Assets\"&report_select-selectized=\"\"&search=\"\"&toggleAssets=false&toggleBridges=false&toggleEnvironmental=false&toggleHistoric=false&toggleIntersections=false&toggleLibs=false&togglePools=false&toggleRecreation=false&toggleSteps=false&toggleStreets=true&toggleWalls=false&toggleWaste=false&usage_select=null&usage_select-selectized=\"\"&water_select=null&water_select-selectized=\"\"&year_select=[\"2019\",\"2018\",\"2017\",\"2016\"]&year_select-selectized=\"\"",
-      "visits": "12",
-      "pageviews": "25",
-      "users": "7",
-      "pageviews_per_session": "2.0833333333333335",
-      "avg_session_duration": "459.4166666666667",
-      "exits": "12",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&dept_select=null&filter_select=\"\"&funcarea_select=null&hier=null&map_bounds={\"north\":40.4736730344511,\"east\":-79.9718427658081,\"south\":40.4636499992099,\"west\":-79.9938154220581}&map_center={\"lng\":-79.9828290939331,\"lat\":40.4686617038142}&map_click={\"lat\":40.4674353399744,\"lng\":-79.9803695082664,\".nonce\":0.259950595291048}&map_marker_click={\"id\":null,\".nonce\":0.0323077754006226,\"lat\":40.46593736,\"lng\":-79.98136824,\"clusterId\":null}&map_zoom=16&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleAssets=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleViolations=true&usage_select=null",
-      "visits": "11",
-      "pageviews": "12",
-      "users": "1",
-      "pageviews_per_session": "1.0909090909090908",
-      "avg_session_duration": "7.636363636363637",
-      "exits": "11",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2018-08-01\",\"2019-02-28\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"Neighborhood\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=6&hier=null&hood_select=\"Central Lawrenceville\"&map_bounds={\"north\":40.508839763369,\"east\":-79.7188568115235,\"south\":40.361195540839,\"west\":-80.1545333862305}&map_center={\"lng\":-79.936642675,\"lat\":40.4350084179377}&map_marker_mouseout={\"id\":null,\".nonce\":0.687665099847729,\"lat\":40.47763518,\"lng\":-79.93265829,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.457878198893199,\"lat\":40.47763518,\"lng\":-79.93265829,\"clusterId\":null}&map_shape_mouseout={\"id\":null,\".nonce\":0.163785112729895,\"lat\":40.4702570157317,\"lng\":-79.9613331279303}&map_shape_mouseover={\"id\":null,\".nonce\":0.641021579209781,\"lat\":40.470322387926,\"lng\":-79.9610542514554}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
-      "visits": "9",
-      "pageviews": "9",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "9",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&map_bounds={\"north\":40.5276313089992,\"east\":-79.6402359008789,\"south\":40.3159228466516,\"west\":-80.2994155883789}&map_center={\"lng\":-79.969861866068,\"lat\":40.4219299596956}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null",
-      "visits": "9",
-      "pageviews": "11",
-      "users": "2",
-      "pageviews_per_session": "1.2222222222222223",
-      "avg_session_duration": "55.77777777777778",
-      "exits": "9",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&crash_select=null&dept_select=null&dow_select=null&filter_select=\"\"&fire_desc_select=null&funcarea_select=null&heatVision=0&hier=null&map_bounds={\"north\":40.7148666258568,\"east\":-79.5193862915039,\"south\":40.6134311977319,\"west\":-79.7562789916992}&map_center={\"lng\":-79.6378326416016,\"lat\":40.6641681952189}&map_marker_mouseout={\"id\":null,\".nonce\":0.904423531685965,\"lat\":40.45361255,\"lng\":-79.87137732,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.750235992718844,\"lat\":40.45361255,\"lng\":-79.87137732,\"clusterId\":null}&map_zoom=13&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleViolations=true&violation_select=null",
-      "visits": "8",
-      "pageviews": "8",
-      "users": "8",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "63.25",
-      "exits": "8",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.541199704952,\"east\":-79.6793746948242,\"south\":40.3161846258141,\"west\":-80.2561569213867}&map_center={\"lng\":-79.967660425,\"lat\":40.4287730778877}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
-      "visits": "7",
-      "pageviews": "7",
-      "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "351.85714285714283",
-      "exits": "7",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "exit_page": "/BurghsEyeView/?_inputs_=&dept_select=null&filter_select=\"\"&hier=null&map_bounds={\"north\":40.6743890825179,\"east\":-79.683837890625,\"south\":40.1326910058669,\"west\":-80.1988220214844}&map_zoom=10&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleFacilities=true&toggleViolations=true&usage_select=null",
-      "visits": "7",
-      "pageviews": "7",
-      "users": "7",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "7",
-      "domain": "https://pittsburghpa.gov"
+      "exit_page": "/BurghsEyeViewPlacesParks/",
+      "visits": "20",
+      "pageviews": "28",
+      "users": "17",
+      "pageviews_per_session": "1.4",
+      "avg_session_duration": "51.1",
+      "exits": "20",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5268484330944,\"east\":-79.7209167480469,\"south\":40.3345066450852,\"west\":-80.2063751220703}&map_center={\"lng\":-79.9637115769562,\"lat\":40.4307340703183}&map_zoom=12&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
-      "visits": "6",
-      "pageviews": "6",
-      "users": "2",
+      "visits": "11",
+      "pageviews": "11",
+      "users": "1",
       "pageviews_per_session": "1.0",
-      "avg_session_duration": "29.166666666666668",
-      "exits": "6",
-      "domain": "https://pittsburghpa.gov"
+      "avg_session_duration": "11.545454545454545",
+      "exits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeView/?_inputs_=&dept_select=null&filter_select=\"\"&hier=null&map_bounds={\"north\":40.6743890825179,\"east\":-79.683837890625,\"south\":40.1326910058669,\"west\":-80.1988220214844}&map_zoom=10&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleFacilities=true&toggleViolations=true&usage_select=null",
+      "visits": "10",
+      "pageviews": "10",
+      "users": "10",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeViewPlacesPavingSchedule/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&map_bounds={\"north\":40.4592256755998,\"east\":-79.9679374694824,\"south\":40.4219910461747,\"west\":-80.0238990783691}&map_center={\"lng\":-79.9959,\"lat\":40.4406}&map_groups=\"streets\"&map_zoom=13&navTab=\"Paving\"&search=\"\"&status_select=null&toggleCityStreets=true&toggleMech=true&toggleUtilStreets=true&year_select=\"2019\"",
+      "visits": "9",
+      "pageviews": "16",
+      "users": "6",
+      "pageviews_per_session": "1.7777777777777777",
+      "avg_session_duration": "107.11111111111111",
+      "exits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeViewSteps/?_inputs_=&basemap_select=\"Stamen.Toner\"&clr_select=\"overall_score\"&ft_select=[0,1235]&map_bounds={\"north\":40.4725467419049,\"east\":-79.9006462097168,\"south\":40.4085292472548,\"west\":-80.0911903381348}&map_center={\"lng\":-79.9959,\"lat\":40.4406}&map_groups=\"steps\"&map_zoom=13&navTab=\"Steps\"&search=\"\"&toggleSteps=true",
+      "visits": "8",
+      "pageviews": "8",
+      "users": "6",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "30.375",
+      "exits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2018-12-01\",\"2019-05-24\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"Neighborhood\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=6&hier=null&hood_select=\"Central Lawrenceville\"&map_bounds={\"north\":40.4683222964084,\"east\":-79.955078959465,\"south\":40.467181630163,\"west\":-79.9584773182869}&map_center={\"lng\":-79.956778138876,\"lat\":40.4677519657074}&map_click={\"lat\":40.467628184013,\"lng\":-79.9565107333533,\".nonce\":0.35135227830506}&map_marker_click={\"id\":null,\".nonce\":0.390560744022024,\"lat\":40.4680923962642,\"lng\":-79.9571952223778,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.253997523263463,\"lat\":40.467572303795,\"lng\":-79.9565457824127,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.339185500443475,\"lat\":40.467572303795,\"lng\":-79.9565457824127,\"clusterId\":null}&map_shape_click={\"id\":null,\".nonce\":0.971169902429881,\"lat\":40.4676383989519,\"lng\":-79.9563953680217}&map_shape_mouseout={\"id\":null,\".nonce\":0.318088792972159,\"lat\":40.4683834513885,\"lng\":-79.9557970865146}&map_shape_mouseover={\"id\":null,\".nonce\":0.552800832684383,\"lat\":40.4677250884829,\"lng\":-79.9564339978699}&map_zoom=19&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
+      "visits": "7",
+      "pageviews": "7",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=2&hier=null&hood_select=null&navTab=\"Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
+      "visits": "7",
+      "pageviews": "8",
+      "users": "7",
+      "pageviews_per_session": "1.1428571428571428",
+      "avg_session_duration": "20.714285714285715",
+      "exits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&dept_select=null&filter_select=\"\"&funcarea_select=null&hier=null&map_bounds={\"north\":40.4736730344511,\"east\":-79.9718427658081,\"south\":40.4636499992099,\"west\":-79.9938154220581}&map_center={\"lng\":-79.9828290939331,\"lat\":40.4686617038142}&map_click={\"lat\":40.4674353399744,\"lng\":-79.9803695082664,\".nonce\":0.259950595291048}&map_marker_click={\"id\":null,\".nonce\":0.0323077754006226,\"lat\":40.46593736,\"lng\":-79.98136824,\"clusterId\":null}&map_zoom=16&origin_select=null&report_select=\"311 Requests\"&result_select=null&search=\"\"&toggle311=true&toggleArrests=true&toggleAssets=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleViolations=true&usage_select=null",
+      "visits": "7",
+      "pageviews": "7",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/BurghsEyeViewPlacesPavingSchedule/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&map_bounds={\"north\":40.4587032270083,\"east\":-79.9272537231445,\"south\":40.4223830970399,\"west\":-80.064582824707}&map_center={\"lng\":-79.9959,\"lat\":40.4406}&map_groups=\"streets\"&map_zoom=13&navTab=\"Paving\"&search=\"\"&status_select=null&toggleCityStreets=true&toggleMech=true&toggleUtilStreets=true&year_select=\"2019\"",
+      "visits": "7",
+      "pageviews": "8",
+      "users": "7",
+      "pageviews_per_session": "1.1428571428571428",
+      "avg_session_duration": "6.0",
+      "exits": "7",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "users": 1126,
-    "visits": 1390
+    "users": 2790,
+    "visits": 3290
   },
-  "taken_at": "2019-03-18T20:09:47.522Z"
+  "taken_at": "2019-05-14T23:06:18.811Z"
 }

@@ -21,66 +21,70 @@
   "data": [
     {
       "domain": "pittsburghpa.gov",
-      "visits": "24805"
+      "visits": "26035"
     },
     {
       "domain": "www.pittsburghpa.gov",
-      "visits": "1720"
+      "visits": "1617"
     },
     {
       "domain": "www.city.pittsburghpa.gov",
-      "visits": "26"
+      "visits": "9"
     },
     {
-      "domain": "localhost",
-      "visits": "8"
-    },
-    {
-      "domain": "www.safeconference.pittsburghpa.gov",
-      "visits": "7"
-    },
-    {
-      "domain": "pittsburghpa.local",
-      "visits": "6"
-    },
-    {
-      "domain": "www.cla.pittsburghpa.gov",
+      "domain": "city.pittsburghpa.gov",
       "visits": "4"
     },
     {
-      "domain": "www.onepgh.pittsburghpa.gov",
+      "domain": "www.portal.office.pittsburghpa.gov",
       "visits": "4"
     },
     {
-      "domain": "wwww.pittsburghpa.gov",
+      "domain": "www.em.pittsburghpa.gov",
+      "visits": "3"
+    },
+    {
+      "domain": "fire.pittsburghpa.gov",
       "visits": "2"
     },
     {
-      "domain": "hotspot.pittsburghpa.gov",
+      "domain": "webcrawler-prod.trafficmanager.net",
+      "visits": "2"
+    },
+    {
+      "domain": "webstats.pittsburghpa.gov",
+      "visits": "2"
+    },
+    {
+      "domain": "cityclerk.pittsburghpa.gov",
       "visits": "1"
     },
     {
-      "domain": "onstoppgh.pittsburghpa.gov",
+      "domain": "cla.pittsburghpa.gov",
       "visits": "1"
     },
     {
-      "domain": "registeredparks.pittsburghpa.gov",
+      "domain": "payrollexplore.pittsburghpa.gov",
       "visits": "1"
     },
     {
-      "domain": "web.archive.org",
+      "domain": "pittsburghpa.gov.googleweblight.com",
       "visits": "1"
     },
     {
-      "domain": "webcache.googleusercontent.com",
+      "domain": "pittsburghpa.local",
       "visits": "1"
     },
     {
-      "domain": "webvpn.pittsburghpa.gov",
+      "domain": "registerpark.pittsburghpa.gov",
       "visits": "1"
     },
     {
-      "domain": "weedandseed.pittsburghpa.gov",
+      "domain": "rigesterparks.pittsburghpa.gov",
+      "visits": "1"
+    },
+    {
+      "domain": "translate.googleusercontent.com",
       "visits": "1"
     },
     {
@@ -88,20 +92,16 @@
       "visits": "1"
     },
     {
-      "domain": "bryan.sellers.pittsburghpa.gov",
-      "visits": "0"
+      "domain": "www.ecma.pittsburghpa.gov",
+      "visits": "1"
     },
     {
-      "domain": "nno.pittsburghpa.gov",
-      "visits": "0"
-    },
-    {
-      "domain": "pop.pittsburghpa.gov",
-      "visits": "0"
+      "domain": "www.jobg.pittsburghpa.gov",
+      "visits": "1"
     }
   ],
   "totals": {
-    "visits": 26590
+    "visits": 27689
   },
-  "taken_at": "2019-03-18T19:48:09.394Z"
+  "taken_at": "2019-05-14T23:02:34.711Z"
 }

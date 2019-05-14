@@ -22,2988 +22,6 @@
   },
   "data": [
     {
-      "date": "2018-12-18",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "29",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-18",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "20",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "13",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-19",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "15",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Internet Explorer",
-      "os_version": "8",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-20",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-21",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-22",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-22",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-22",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-23",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-23",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-23",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-23",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Internet Explorer",
-      "os_version": "2000",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-24",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-25",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-25",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-25",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-25",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-26",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "21",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-27",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "18",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-28",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-29",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-29",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Internet Explorer",
-      "os_version": "Vista",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-30",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2018-12-31",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-01",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-01",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-01",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-01",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-01",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "52",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "23",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Internet Explorer",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-02",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "51",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "26",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-03",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "42",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "24",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Internet Explorer",
-      "os_version": "Vista",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-04",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-05",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-05",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-05",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-06",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "42",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "18",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-07",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "35",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "15",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-08",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "28",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "15",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-09",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "35",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "16",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-10",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "36",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "13",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-11",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-12",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-13",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-13",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-13",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "63",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "28",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-14",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "49",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "19",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-15",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "46",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-16",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "35",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "14",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-17",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "36",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "21",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-18",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-19",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-19",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-19",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-20",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "22",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-21",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "30",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "11",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-22",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "23",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "19",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-23",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "30",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "16",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-24",
-      "browser": "Opera",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "30",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "19",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-25",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-26",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-26",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-27",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-27",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "24",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-28",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "39",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "14",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-29",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "55",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "38",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-30",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "38",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "20",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-01-31",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "31",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "21",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "11",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-01",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-02",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-02",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-02",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-02",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-03",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-03",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "41",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "23",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "15",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "14",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "9",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Internet Explorer",
-      "os_version": "Vista",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-04",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "40",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "13",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "13",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-05",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "42",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "21",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "10",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-06",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "28",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "13",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "11",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "8",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-07",
-      "browser": "Firefox",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "63",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "21",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-08",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-09",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-09",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-09",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-09",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-09",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "4",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-10",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "57",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "22",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "12",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "6",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-11",
-      "browser": "Chrome",
-      "os_version": "8.1",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Chrome",
-      "os_version": "10",
-      "visits": "48",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Chrome",
-      "os_version": "7",
-      "visits": "17",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Firefox",
-      "os_version": "10",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Internet Explorer",
-      "os_version": "7",
-      "visits": "7",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Edge",
-      "os_version": "10",
-      "visits": "5",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Firefox",
-      "os_version": "7",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Internet Explorer",
-      "os_version": "10",
-      "visits": "3",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Internet Explorer",
-      "os_version": "8.1",
-      "visits": "2",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "date": "2019-02-12",
-      "browser": "Chrome",
-      "os_version": "8",
-      "visits": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
       "date": "2019-02-13",
       "browser": "Chrome",
       "os_version": "10",
@@ -4857,70 +1875,3455 @@
       "os_version": "10",
       "visits": "1",
       "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "59",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "26",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-18",
+      "browser": "Firefox",
+      "os_version": "XP",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "49",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "26",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-19",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "51",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "19",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-20",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "63",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-21",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "54",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "28",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-22",
+      "browser": "Internet Explorer",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-23",
+      "browser": "Opera",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-24",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "60",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-25",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "65",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-26",
+      "browser": "Chrome",
+      "os_version": "Server 2003",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "38",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Chrome",
+      "os_version": "XP",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-27",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "44",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "30",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-28",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "37",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-29",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-30",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-03-31",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "62",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "28",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Firefox",
+      "os_version": "XP",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-01",
+      "browser": "Opera",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "49",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "24",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-02",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "59",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Chrome",
+      "os_version": "Server 2003",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-03",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "52",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "25",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-04",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "33",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "15",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Firefox",
+      "os_version": "XP",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-05",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-06",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-07",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "48",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "33",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-08",
+      "browser": "Opera",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "52",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "20",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-09",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "54",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Chrome",
+      "os_version": "XP",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-10",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "52",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-11",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "39",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-12",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-13",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-14",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-14",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "48",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "39",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "49",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "22",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "38",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "15",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-20",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-20",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-20",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-21",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-21",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-21",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-21",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "54",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "32",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "23",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "23",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "57",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "24",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "36",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "38",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "51",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "26",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-28",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-28",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-28",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-28",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "62",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "22",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "13",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "61",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "19",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "53",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "21",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "38",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "56",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "26",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "19",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "browser": "Internet Explorer",
+      "os_version": "Vista",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-05",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-05",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-05",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-05",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "71",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "25",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "42",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "22",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "11",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "42",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "23",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "16",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "15",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "8",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "67",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "22",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "18",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "10",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Internet Explorer",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "44",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "17",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "14",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "7",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "6",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Chrome",
+      "os_version": "10",
+      "visits": "66",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Chrome",
+      "os_version": "7",
+      "visits": "30",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Internet Explorer",
+      "os_version": "7",
+      "visits": "23",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Internet Explorer",
+      "os_version": "10",
+      "visits": "12",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Edge",
+      "os_version": "10",
+      "visits": "9",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Firefox",
+      "os_version": "10",
+      "visits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Firefox",
+      "os_version": "7",
+      "visits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Chrome",
+      "os_version": "8.1",
+      "visits": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Chrome",
+      "os_version": "8",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "browser": "Firefox",
+      "os_version": "8.1",
+      "visits": "1",
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "visits": 5614,
+    "visits": 7399,
     "by_windows": {
       "7": {
-        "Chrome": 1102,
-        "Internet Explorer": 563,
-        "Firefox": 202,
-        "Opera": 3
+        "Chrome": 1319,
+        "Internet Explorer": 838,
+        "Firefox": 253,
+        "Opera": 2
       },
       "8": {
-        "Chrome": 109,
-        "Internet Explorer": 9
+        "Chrome": 111,
+        "Internet Explorer": 3
       },
       "10": {
-        "Chrome": 2440,
-        "Internet Explorer": 398,
-        "Edge": 460,
-        "Firefox": 178
-      },
-      "2000": {
-        "Internet Explorer": 1
+        "Chrome": 3149,
+        "Internet Explorer": 557,
+        "Edge": 633,
+        "Firefox": 285,
+        "Opera": 3
       },
       "8.1": {
-        "Chrome": 91,
-        "Internet Explorer": 32,
-        "Firefox": 6
+        "Chrome": 171,
+        "Internet Explorer": 23,
+        "Firefox": 8
       },
       "Vista": {
-        "Internet Explorer": 19
+        "Internet Explorer": 36
       },
       "XP": {
-        "Chrome": 1
+        "Chrome": 3,
+        "Firefox": 3
+      },
+      "Server 2003": {
+        "Chrome": 2
       }
     },
     "by_browsers": {
       "Chrome": {
-        "7": 1102,
-        "8": 109,
-        "10": 2440,
-        "8.1": 91,
-        "XP": 1
+        "7": 1319,
+        "8": 111,
+        "10": 3149,
+        "8.1": 171,
+        "XP": 3,
+        "Server 2003": 2
       },
       "Internet Explorer": {
-        "7": 563,
-        "8": 9,
-        "10": 398,
-        "2000": 1,
-        "8.1": 32,
-        "Vista": 19
+        "7": 838,
+        "8": 3,
+        "10": 557,
+        "Vista": 36,
+        "8.1": 23
       },
       "Edge": {
-        "10": 460
+        "10": 633
       },
       "Firefox": {
-        "7": 202,
-        "10": 178,
-        "8.1": 6
+        "7": 253,
+        "10": 285,
+        "8.1": 8,
+        "XP": 3
       },
       "Opera": {
-        "7": 3
+        "7": 2,
+        "10": 3
       }
     }
   },
-  "taken_at": "2019-03-18T19:45:51.765Z"
+  "taken_at": "2019-05-14T23:28:02.422Z"
 }

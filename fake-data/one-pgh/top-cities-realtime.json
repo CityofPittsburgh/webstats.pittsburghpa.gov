@@ -14,7 +14,13 @@
     "name": "Top Cities (Live)",
     "description": "Top cities for active onsite users."
   },
-  "data": [],
+  "data": [
+    {
+      "city": "Pittsburgh",
+      "active_visitors": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
   "totals": {},
-  "taken_at": "2019-03-18T19:44:01.249Z"
+  "taken_at": "2019-05-14T23:23:07.488Z"
 }

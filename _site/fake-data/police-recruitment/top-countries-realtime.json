@@ -14,13 +14,7 @@
     "name": "Top Countries",
     "description": "Top countries for active onsite users."
   },
-  "data": [
-    {
-      "country": "United States",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    }
-  ],
+  "data": [],
   "totals": {},
-  "taken_at": "2019-03-18T19:46:34.165Z"
+  "taken_at": "2019-05-14T23:30:23.241Z"
 }

@@ -25,70 +25,92 @@
   },
   "data": [
     {
-      "domain": "www.pittsburghpa.gov",
-      "page": "/onepgh/",
-      "page_title": "(not set)",
-      "pageviews": "170",
-      "visits": "163",
-      "users": "130",
-      "pageviews_per_session": "1.0429447852760736",
-      "avg_session_duration": "66.95705521472392",
-      "exits": "158"
-    },
-    {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/index.html",
       "page_title": "(not set)",
-      "pageviews": "132",
-      "visits": "111",
-      "users": "101",
-      "pageviews_per_session": "1.1891891891891893",
-      "avg_session_duration": "89.77477477477477",
-      "exits": "111"
+      "pageviews": "371",
+      "visits": "361",
+      "users": "285",
+      "pageviews_per_session": "1.0277008310249307",
+      "avg_session_duration": "64.10526315789474",
+      "exits": "346"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/equityindicators/glance.html",
+      "page_title": "Pittsburgh Equity Indicators - Assess annual progress toward equitable opportunities and outcomes for Pittsburghers of all races, genders, and income.",
+      "pageviews": "42",
+      "visits": "16",
+      "users": "13",
+      "pageviews_per_session": "2.625",
+      "avg_session_duration": "465.6875",
+      "exits": "3"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/equityindicators/indicators.html",
+      "page_title": "Pittsburgh Equity Indicators - Assess annual progress toward equitable opportunities and outcomes for Pittsburghers of all races, genders, and income.",
+      "pageviews": "35",
+      "visits": "1",
+      "users": "12",
+      "pageviews_per_session": "35.0",
+      "avg_session_duration": "74.0",
+      "exits": "4"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/equityindicators/partners.html",
+      "page_title": "Pittsburgh Equity Indicators - Assess annual progress toward equitable opportunities and outcomes for Pittsburghers of all races, genders, and income.",
+      "pageviews": "31",
+      "visits": "2",
+      "users": "12",
+      "pageviews_per_session": "15.5",
+      "avg_session_duration": "24.0",
+      "exits": "12"
+    },
+    {
+      "domain": "www.pittsburghpa.gov",
+      "page": "/onepgh/",
+      "page_title": "(not set)",
+      "pageviews": "17",
+      "visits": "16",
+      "users": "13",
+      "pageviews_per_session": "1.0625",
+      "avg_session_duration": "40.125",
+      "exits": "15"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/",
       "page_title": "(not set)",
-      "pageviews": "5",
-      "visits": "4",
-      "users": "3",
-      "pageviews_per_session": "1.25",
-      "avg_session_duration": "26.75",
-      "exits": "4"
+      "pageviews": "13",
+      "visits": "9",
+      "users": "6",
+      "pageviews_per_session": "1.4444444444444444",
+      "avg_session_duration": "7.111111111111111",
+      "exits": "9"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/beta/index.html",
       "page_title": "OnePGH Resilience Strategy - The Need to Support People, Planet, Place, and Performance.",
-      "pageviews": "4",
+      "pageviews": "5",
       "visits": "3",
       "users": "3",
-      "pageviews_per_session": "1.3333333333333333",
-      "avg_session_duration": "13.0",
-      "exits": "2"
+      "pageviews_per_session": "1.6666666666666667",
+      "avg_session_duration": "74.33333333333333",
+      "exits": "1"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onepgh/beta/library.html",
       "page_title": "OnePGH Resilience Strategy - The Need to Support People, Planet, Place, and Performance.",
-      "pageviews": "2",
-      "visits": "2",
-      "users": "1",
-      "pageviews_per_session": "1.0",
+      "pageviews": "5",
+      "visits": "4",
+      "users": "3",
+      "pageviews_per_session": "1.25",
       "avg_session_duration": "0.0",
-      "exits": "2"
-    },
-    {
-      "domain": "pittsburghpa.gov",
-      "page": "/onepgh/index.html/onepgh/index.html",
-      "page_title": "(not set)",
-      "pageviews": "2",
-      "visits": "0",
-      "users": "1",
-      "pageviews_per_session": "0.0",
-      "avg_session_duration": "0.0",
-      "exits": "0"
+      "exits": "5"
     },
     {
       "domain": "pittsburghpa.gov",
@@ -103,19 +125,41 @@
     },
     {
       "domain": "pittsburghpa.gov",
-      "page": "/onepgh/index.html/onepgh/",
+      "page": "/onepgh/index.html?fbclid=IwAR2Ry24uR38NDJZVGeV9ZFl9VEqGCkpuxXM6a4hGy-PbCgj5HSb4-J0wd64",
       "page_title": "(not set)",
       "pageviews": "1",
       "visits": "1",
       "users": "1",
       "pageviews_per_session": "1.0",
-      "avg_session_duration": "36.0",
-      "exits": "0"
+      "avg_session_duration": "1209.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onepgh/index.html?fbclid=IwAR2Um_urYuHSUI-80Mlhl_5OrtnUG_a2DLxnvUYJlrOE6Ll_LfqTQ62Db80",
+      "page_title": "(not set)",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onepgh/index.html?fbclid=IwAR3oagwHuLLPlldoe-8dEgVspNOEC6WwUJCbh035GpgKRYaNsbsqFh7PiZY",
+      "page_title": "(not set)",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
     }
   ],
   "totals": {
-    "users": 241,
-    "visits": 284
+    "users": 351,
+    "visits": 415
   },
-  "taken_at": "2019-03-18T19:43:58.593Z"
+  "taken_at": "2019-05-14T23:23:05.451Z"
 }

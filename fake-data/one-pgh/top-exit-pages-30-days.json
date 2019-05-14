@@ -25,69 +25,129 @@
   },
   "data": [
     {
-      "exit_page": "/onepgh/",
-      "visits": "162",
-      "pageviews": "175",
-      "users": "133",
-      "pageviews_per_session": "1.0802469135802468",
-      "avg_session_duration": "61.95679012345679",
-      "exits": "162",
+      "exit_page": "/onepgh/index.html",
+      "visits": "346",
+      "pageviews": "372",
+      "users": "285",
+      "pageviews_per_session": "1.0751445086705202",
+      "avg_session_duration": "56.73121387283237",
+      "exits": "346",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/onepgh/index.html",
-      "visits": "111",
-      "pageviews": "135",
-      "users": "101",
-      "pageviews_per_session": "1.2162162162162162",
-      "avg_session_duration": "90.09909909909909",
-      "exits": "111",
+      "exit_page": "/onepgh/",
+      "visits": "24",
+      "pageviews": "29",
+      "users": "19",
+      "pageviews_per_session": "1.2083333333333333",
+      "avg_session_duration": "23.875",
+      "exits": "24",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "(not set)",
-      "visits": "6",
+      "visits": "16",
       "pageviews": "0",
-      "users": "6",
+      "users": "13",
       "pageviews_per_session": "0.0",
-      "avg_session_duration": "164.0",
+      "avg_session_duration": "227.875",
       "exits": "0",
       "domain": "http://pittsburghpa.gov"
     },
     {
-      "exit_page": "/onepgh/beta/index.html",
-      "visits": "2",
-      "pageviews": "3",
-      "users": "2",
-      "pageviews_per_session": "1.5",
-      "avg_session_duration": "0.0",
-      "exits": "2",
+      "exit_page": "/equityindicators/partners.html",
+      "visits": "12",
+      "pageviews": "69",
+      "users": "9",
+      "pageviews_per_session": "5.75",
+      "avg_session_duration": "453.8333333333333",
+      "exits": "12",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onepgh/beta/library.html",
-      "visits": "2",
+      "visits": "5",
+      "pageviews": "6",
+      "users": "3",
+      "pageviews_per_session": "1.2",
+      "avg_session_duration": "0.6",
+      "exits": "5",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/equityindicators/indicators.html",
+      "visits": "4",
+      "pageviews": "28",
+      "users": "4",
+      "pageviews_per_session": "7.0",
+      "avg_session_duration": "483.75",
+      "exits": "4",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/equityindicators/glance.html",
+      "visits": "3",
+      "pageviews": "11",
+      "users": "3",
+      "pageviews_per_session": "3.6666666666666665",
+      "avg_session_duration": "64.0",
+      "exits": "3",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/onepgh/beta/index.html",
+      "visits": "1",
       "pageviews": "2",
       "users": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "2",
+      "pageviews_per_session": "2.0",
+      "avg_session_duration": "122.0",
+      "exits": "1",
       "domain": "http://pittsburghpa.gov"
     },
     {
       "exit_page": "/onepgh/beta/people.html",
       "visits": "1",
-      "pageviews": "2",
+      "pageviews": "3",
       "users": "1",
-      "pageviews_per_session": "2.0",
-      "avg_session_duration": "39.0",
+      "pageviews_per_session": "3.0",
+      "avg_session_duration": "98.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/onepgh/index.html?fbclid=IwAR2Ry24uR38NDJZVGeV9ZFl9VEqGCkpuxXM6a4hGy-PbCgj5HSb4-J0wd64",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "1209.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/onepgh/index.html?fbclid=IwAR2Um_urYuHSUI-80Mlhl_5OrtnUG_a2DLxnvUYJlrOE6Ll_LfqTQ62Db80",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "exit_page": "/onepgh/index.html?fbclid=IwAR3oagwHuLLPlldoe-8dEgVspNOEC6WwUJCbh035GpgKRYaNsbsqFh7PiZY",
+      "visits": "1",
+      "pageviews": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
       "exits": "1",
       "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {
-    "users": 244,
-    "visits": 284
+    "users": 341,
+    "visits": 415
   },
-  "taken_at": "2019-03-18T19:44:00.949Z"
+  "taken_at": "2019-05-14T23:23:07.145Z"
 }

@@ -1,0 +1,174 @@
+{
+  "name": "30-days-daily-traffic",
+  "query": {
+    "start-date": "30daysAgo",
+    "end-date": "yesterday",
+    "dimensions": "ga:date",
+    "metrics": [
+      "ga:sessions"
+    ],
+    "start-index": 1,
+    "max-results": 10000,
+    "samplingLevel": "HIGHER_PRECISION"
+  },
+  "meta": {
+    "name": "Daily traffic (30 days)",
+    "description": "Traffic by day for the past 30 days."
+  },
+  "data": [
+    {
+      "date": "2019-04-14",
+      "visits": "0",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-15",
+      "visits": "7",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-16",
+      "visits": "8",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-17",
+      "visits": "7",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-18",
+      "visits": "12",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-19",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-20",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-21",
+      "visits": "0",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-22",
+      "visits": "10",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-23",
+      "visits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-24",
+      "visits": "2",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-25",
+      "visits": "7",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-26",
+      "visits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-27",
+      "visits": "0",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-28",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-29",
+      "visits": "4",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-04-30",
+      "visits": "5",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-01",
+      "visits": "9",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-02",
+      "visits": "6",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-03",
+      "visits": "4",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-04",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-05",
+      "visits": "4",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-06",
+      "visits": "15",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-07",
+      "visits": "10",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-08",
+      "visits": "5",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-09",
+      "visits": "10",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-10",
+      "visits": "4",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-11",
+      "visits": "1",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-12",
+      "visits": "3",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    },
+    {
+      "date": "2019-05-13",
+      "visits": "7",
+      "domain": "http://mbkpgh.pittsburghpa.gov"
+    }
+  ],
+  "totals": {
+    "visits": 152
+  },
+  "taken_at": "2019-05-14T23:21:07.433Z"
+}

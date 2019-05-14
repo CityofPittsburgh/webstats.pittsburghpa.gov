@@ -10,12 +10,7 @@
     "name": "Active Users Right Now",
     "description": "Number of users currently visiting all sites."
   },
-  "data": [
-    {
-      "active_visitors": "2",
-      "domain": "http://pittsburghpa.gov"
-    }
-  ],
+  "data": [],
   "totals": {},
-  "taken_at": "2019-03-18T19:45:44.774Z"
+  "taken_at": "2019-05-14T23:27:57.035Z"
 }

@@ -14,18 +14,7 @@
     "name": "Top Cities (Live)",
     "description": "Top cities for active onsite users."
   },
-  "data": [
-    {
-      "city": "Monroeville",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "city": "Robinson Township",
-      "active_visitors": "1",
-      "domain": "http://pittsburghpa.gov"
-    }
-  ],
+  "data": [],
   "totals": {},
-  "taken_at": "2019-03-18T19:45:55.859Z"
+  "taken_at": "2019-05-14T23:28:06.419Z"
 }

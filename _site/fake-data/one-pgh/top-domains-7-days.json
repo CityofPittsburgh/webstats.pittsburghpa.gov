@@ -20,16 +20,16 @@
   },
   "data": [
     {
-      "domain": "www.pittsburghpa.gov",
-      "visits": "31"
+      "domain": "pittsburghpa.gov",
+      "visits": "80"
     },
     {
-      "domain": "pittsburghpa.gov",
-      "visits": "25"
+      "domain": "www.pittsburghpa.gov",
+      "visits": "2"
     }
   ],
   "totals": {
-    "visits": 56
+    "visits": 82
   },
-  "taken_at": "2019-03-18T19:43:59.005Z"
+  "taken_at": "2019-05-14T23:23:05.763Z"
 }

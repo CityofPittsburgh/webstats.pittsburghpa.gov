@@ -26,107 +26,118 @@
   "data": [
     {
       "domain": "pittsburghpa.gov",
-      "page": "/onestoppgh/phase-one.html",
-      "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "158",
-      "visits": "95",
-      "users": "108",
-      "pageviews_per_session": "1.6631578947368422",
-      "avg_session_duration": "45.61052631578947",
-      "exits": "122"
+      "page": "/onestoppgh/",
+      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
+      "pageviews": "160",
+      "visits": "135",
+      "users": "124",
+      "pageviews_per_session": "1.1851851851851851",
+      "avg_session_duration": "75.17037037037036",
+      "exits": "108"
     },
     {
       "domain": "pittsburghpa.gov",
-      "page": "/onestoppgh/",
-      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "148",
-      "visits": "124",
-      "users": "106",
-      "pageviews_per_session": "1.1935483870967742",
-      "avg_session_duration": "131.96774193548387",
-      "exits": "90"
+      "page": "/onestoppgh/phase-one.html",
+      "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
+      "pageviews": "155",
+      "visits": "87",
+      "users": "110",
+      "pageviews_per_session": "1.7816091954022988",
+      "avg_session_duration": "61.89655172413793",
+      "exits": "105"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onestoppgh/phase-two.html",
       "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "52",
-      "visits": "31",
-      "users": "38",
-      "pageviews_per_session": "1.6774193548387097",
-      "avg_session_duration": "70.41935483870968",
-      "exits": "32"
+      "pageviews": "35",
+      "visits": "11",
+      "users": "24",
+      "pageviews_per_session": "3.1818181818181817",
+      "avg_session_duration": "169.1818181818182",
+      "exits": "14"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onestoppgh/phase-three.html",
       "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "18",
-      "visits": "4",
-      "users": "11",
-      "pageviews_per_session": "4.5",
-      "avg_session_duration": "1.5",
-      "exits": "6"
+      "pageviews": "19",
+      "visits": "3",
+      "users": "14",
+      "pageviews_per_session": "6.333333333333333",
+      "avg_session_duration": "143.0",
+      "exits": "7"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onestoppgh/phase-four.html",
       "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "13",
-      "visits": "2",
-      "users": "12",
-      "pageviews_per_session": "6.5",
-      "avg_session_duration": "2.5",
-      "exits": "5"
+      "pageviews": "14",
+      "visits": "4",
+      "users": "13",
+      "pageviews_per_session": "3.5",
+      "avg_session_duration": "63.75",
+      "exits": "6"
     },
     {
       "domain": "pittsburghpa.gov",
       "page": "/onestoppgh/index.html",
       "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "8",
+      "pageviews": "9",
       "visits": "3",
-      "users": "7",
-      "pageviews_per_session": "2.6666666666666665",
-      "avg_session_duration": "24.666666666666668",
+      "users": "8",
+      "pageviews_per_session": "3.0",
+      "avg_session_duration": "2.6666666666666665",
       "exits": "4"
     },
     {
-      "domain": "www.pittsburghpa.gov",
-      "page": "/onestoppgh/",
-      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
-      "pageviews": "7",
-      "visits": "5",
-      "users": "5",
-      "pageviews_per_session": "1.4",
-      "avg_session_duration": "249.2",
-      "exits": "4"
-    },
-    {
-      "domain": "www.pittsburghpa.gov",
-      "page": "/onestoppgh/index.html",
+      "domain": "pittsburghpa.gov",
+      "page": "/onestoppgh/?fbclid=IwAR0aAn9mtU-0FTRhkXKRl1H-EZPw4sSiZU8SbTYohoUG6kpxxZdBq7pah7w",
       "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
       "pageviews": "1",
-      "visits": "0",
+      "visits": "1",
       "users": "1",
-      "pageviews_per_session": "0.0",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "0.0",
+      "exits": "1"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onestoppgh/?fbclid=IwAR1nZ9Qh9mucoo4iJqUUD_86MHkeA8IbKy4MWXRCWS1BB1yzZV1p-wuY1BU",
+      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
+      "avg_session_duration": "1781.0",
+      "exits": "0"
+    },
+    {
+      "domain": "pittsburghpa.gov",
+      "page": "/onestoppgh/?fbclid=IwAR3ggOOI9BjZX0fBiMcqA75f-dsvjR0O8v_sWZdXAUdCi9-heucDEE_PWCw",
+      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
+      "pageviews": "1",
+      "visits": "1",
+      "users": "1",
+      "pageviews_per_session": "1.0",
       "avg_session_duration": "0.0",
       "exits": "1"
     },
     {
       "domain": "www.pittsburghpa.gov",
-      "page": "/onestoppgh/phase-one.html",
-      "page_title": "OneStopPGH - A single online location to apply for and receive licenses and permits, upload development plans, make payments, and more.",
+      "page": "/onestoppgh/",
+      "page_title": "OneStopPGH - A single online location to apply for and receive Business licenses and permits, upload development plans, make payments, and more.",
       "pageviews": "1",
-      "visits": "0",
+      "visits": "1",
       "users": "1",
-      "pageviews_per_session": "0.0",
+      "pageviews_per_session": "1.0",
       "avg_session_duration": "0.0",
-      "exits": "0"
+      "exits": "1"
     }
   ],
   "totals": {
-    "users": 289,
-    "visits": 264
+    "users": 297,
+    "visits": 247
   },
-  "taken_at": "2019-03-18T19:44:30.646Z"
+  "taken_at": "2019-05-14T23:24:47.520Z"
 }

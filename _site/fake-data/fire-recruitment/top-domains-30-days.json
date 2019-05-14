@@ -26,26 +26,17 @@
   "data": [
     {
       "domain": "pittsburghpa.gov",
-      "visits": "821",
-      "users": "634",
-      "pageviews": "1791",
-      "pageviews_per_session": "2.1814859926918393",
-      "avg_session_duration": "113.13276492082827",
-      "exits": "821"
-    },
-    {
-      "domain": "webcache.googleusercontent.com",
-      "visits": "1",
-      "users": "1",
-      "pageviews": "1",
-      "pageviews_per_session": "1.0",
-      "avg_session_duration": "0.0",
-      "exits": "1"
+      "visits": "960",
+      "users": "726",
+      "pageviews": "1996",
+      "pageviews_per_session": "2.0791666666666666",
+      "avg_session_duration": "96.08020833333333",
+      "exits": "960"
     }
   ],
   "totals": {
-    "users": 635,
-    "visits": 822
+    "users": 726,
+    "visits": 960
   },
-  "taken_at": "2019-03-18T19:42:28.658Z"
+  "taken_at": "2019-05-14T23:15:26.718Z"
 }

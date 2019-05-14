@@ -19,7 +19,15 @@
     "name": "Top Downloads (7 Days)",
     "description": "Top downloads in the last 7 days."
   },
-  "data": [],
+  "data": [
+    {
+      "page_title": "Trees N'At",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewTrees/?_inputs_=&.clientValue-default-plotlyCrosstalkOpts={\"on\":\"plotly_click\",\"persistent\":false,\"dynamic\":false,\"selectize\":false,\"opacityDim\":0.2,\"selected\":{\"opacity\":1},\"debounce\":0,\"color\":[]}&btn=2&comname_select=null&filters=1&geocode=\"1205 monterey st\"&grow_select=null&hood_select=null&landuse_select=null&map_bounds={\"north\":40.4571113664078,\"east\":-80.0082939863205,\"south\":40.4537111891196,\"west\":-80.0185936689377}&map_center={\"lng\":-80.0134438276291,\"lat\":40.455411299272}&map_groups=\"trees\"&map_marker_click={\"id\":\"780220972\",\".nonce\":0.634040328538152,\"lat\":40.4552147,\"lng\":-80.01281296,\"clusterId\":null}&map_marker_mouseout={\"id\":\"253104808\",\".nonce\":0.910822519735422,\"lat\":40.45556111,\"lng\":-80.01506974,\"clusterId\":null}&map_marker_mouseover={\"id\":\"253104808\",\".nonce\":0.288932641215909,\"lat\":40.45556111,\"lng\":-80.01506974,\"clusterId\":null}&map_zoom=18&sciname_select=null&search=\"\"&utils_select=null",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    }
+  ],
   "totals": {},
-  "taken_at": "2019-03-18T20:09:48.712Z"
+  "taken_at": "2019-05-14T23:06:20.431Z"
 }

@@ -23,704 +23,193 @@
     {
       "page_title": "Burgh's Eye View Parcels",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4603032129884,\"east\":-79.9512434005737,\"south\":40.4284269253993,\"west\":-80.0370740890503}&map_center={\"lng\":-79.9941766768879,\"lat\":40.4443520725875}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4522824918639,\"east\":-79.9010619521141,\"south\":40.4509109139204,\"west\":-79.9044951796532}&map_center={\"lng\":-79.9027785658837,\"lat\":40.4515967063915}&map_click={\"lat\":40.4515681318449,\"lng\":-79.9029797315598,\".nonce\":0.515483504609774}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0009E00225000900\",\".nonce\":0.193881374733414,\"group\":\"hood\",\"lat\":40.4492004843467,\"lng\":-79.9955320358277}&map_shape_mouseover={\"id\":\"0009E00225000900\",\".nonce\":0.166218467457952,\"group\":\"hood\",\"lat\":40.4495597189903,\"lng\":-79.9970769882202}&map_zoom=19&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
       "total_events": "2",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4615113404169,\"east\":-79.9475955963135,\"south\":40.4272182031731,\"west\":-80.040807723999}&map_center={\"lng\":-79.9941766768879,\"lat\":40.4443520725875}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0008S00078000000\",\".nonce\":0.452201768154291,\"group\":\"hood\",\"lat\":40.4458582049325,\"lng\":-80.0020697605214}&map_shape_mouseover={\"id\":\"0008S00078000000\",\".nonce\":0.316879371075916,\"group\":\"hood\",\"lat\":40.4439423757425,\"lng\":-80.0014972686768}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"Esri.WorldImagery\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.3782548722446,\"east\":-79.9081832170487,\"south\":40.3764363422725,\"west\":-79.9133330583573}&map_center={\"lng\":-79.910758137703,\"lat\":40.377345613394}&map_click={\"lat\":40.3773844359327,\"lng\":-79.910500409533,\".nonce\":0.165105148855608}&map_groups=\"hood\"&map_marker_mouseout={\"id\":null,\".nonce\":0.484978091295135,\"lat\":40.43097353,\"lng\":-80.01324585}&map_marker_mouseover={\"id\":null,\".nonce\":0.0304942546367741,\"lat\":40.43097353,\"lng\":-80.01324585}&map_zoom=18&navbar=\"Data\"&neigh_select=\"Lincoln Place\"&neigh_select-selectized=\"\"&search=\"4717 lougean avenue 15207\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"Esri.WorldStreetMap\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4186585215683,\"east\":-79.9881023168564,\"south\":40.415722005845,\"west\":-79.9956822395325}&map_center={\"lng\":-79.9918922781944,\"lat\":40.4171902797273}&map_click={\"lat\":40.4173638565802,\"lng\":-79.9909830093384,\".nonce\":0.107370127217128}&map_groups=\"hood\"&map_shape_click={\"id\":\"0014L00089000000\",\".nonce\":0.380942935513224,\"group\":\"hood\",\"lat\":40.4178907106385,\"lng\":-79.9884241819382}&map_shape_mouseout={\"id\":\"0014K00076000000\",\".nonce\":0.208760875199291,\"group\":\"hood\",\"lat\":40.4182991217984,\"lng\":-79.9937242269516}&map_shape_mouseover={\"id\":\"0014K00076000000\",\".nonce\":0.732707319728541,\"group\":\"hood\",\"lat\":40.4180867483046,\"lng\":-79.9932628870011}&map_zoom=18&navbar=\"Data\"&neigh_select=\"Knoxville\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.France\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4696100288837,\"east\":-79.9668706208467,\"south\":40.4293104835194,\"west\":-80.0767339020967}&map_center={\"lng\":-80.0218022614718,\"lat\":40.4494632769237}&map_click={\"lat\":40.4804028508011,\"lng\":-79.9760250002146,\".nonce\":0.0226371961770777}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0023R00030000000\",\".nonce\":0.517253008970195,\"group\":\"hood\",\"lat\":40.4539372266523,\"lng\":-80.0064385682345}&map_shape_mouseover={\"id\":\"0023R00030000000\",\".nonce\":0.0798529656633846,\"group\":\"hood\",\"lat\":40.4536748342536,\"lng\":-80.005758125335}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Allegheny Center\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.421713342096,\"east\":-79.9860262870789,\"south\":40.4077939986398,\"west\":-80.022075176239}&map_center={\"lng\":-80.0040504829667,\"lat\":40.4147493185231}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Beltzhoover\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4460326048193,\"east\":-79.8635673522949,\"south\":40.3883968738836,\"west\":-80.0283622741699}&map_center={\"lng\":-79.9459728418717,\"lat\":40.4172497331296}&map_groups=\"hood\"&map_zoom=14&navbar=\"Data\"&neigh_select=\"Hazelwood\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.454486754909,\"east\":-80.049449801445,\"south\":40.452947860365,\"west\":-80.0531190633774}&map_center={\"lng\":-80.0512844324112,\"lat\":40.4537173120425}&map_click={\"lat\":40.453756090541,\"lng\":-80.0512790679932,\".nonce\":0.0394181825372504}&map_groups=\"hood\"&map_shape_click={\"id\":\"0042S00180000000\",\".nonce\":0.857650166777168,\"group\":\"hood\",\"lat\":40.4537030252216,\"lng\":-80.051246881485}&map_shape_mouseout={\"id\":\"0042S00180000000\",\".nonce\":0.627455327819663,\"group\":\"hood\",\"lat\":40.4537030252216,\"lng\":-80.051246881485}&map_shape_mouseover={\"id\":\"0042S00180000000\",\".nonce\":0.682960141029727,\"group\":\"hood\",\"lat\":40.4536866974226,\"lng\":-80.0511905550957}&map_zoom=19&navbar=\"Data\"&neigh_select=\"Sheraden\"&neigh_select-selectized=\"\"&search=\"2755 zephyr\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4552255750458,\"east\":-79.9527883529663,\"south\":40.44082324118,\"west\":-79.9939870834351}&map_center={\"lng\":-79.9733876244845,\"lat\":40.4480319633596}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Middle Hill\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4596487430992,\"east\":-80.0106251612306,\"south\":40.4570609664393,\"west\":-80.0174916163087}&map_center={\"lng\":-80.0140583887696,\"lat\":40.4583548672287}&map_click={\"lat\":40.4577349134129,\"lng\":-80.014395006001,\".nonce\":0.660364713691577}&map_groups=\"hood\"&map_marker_mouseout={\"id\":null,\".nonce\":0.96627603095479,\"lat\":40.44132335,\"lng\":-80.00932615}&map_marker_mouseover={\"id\":null,\".nonce\":0.263679273076359,\"lat\":40.44132335,\"lng\":-80.00932615}&map_zoom=18&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"0023E00140000000\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4621480474811,\"east\":-79.9450635910034,\"south\":40.4520579795333,\"west\":-79.9780225753784}&map_center={\"lng\":-79.9615449679708,\"lat\":40.4571013729041}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Polish Hill\"&neigh_select-selectized=\"polish hill\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4695472837441,\"east\":-79.9120026826859,\"south\":40.4668211293689,\"west\":-79.9202424287796}&map_center={\"lng\":-79.9161225557327,\"lat\":40.4681848629431}&map_click={\"lat\":40.4676263966696,\"lng\":-79.9169647693634,\".nonce\":0.769750455049863}&map_groups=\"hood\"&map_shape_click={\"id\":\"0124E00175000000\",\".nonce\":0.10571113732045,\"group\":\"hood\",\"lat\":40.4679038280539,\"lng\":-79.9160420894623}&map_shape_mouseout={\"id\":\"0083H00203000000\",\".nonce\":0.0130398822607534,\"group\":\"hood\",\"lat\":40.4682295738968,\"lng\":-79.9170184135437}&map_shape_mouseover={\"id\":\"0083H00203000000\",\".nonce\":0.822367318925235,\"group\":\"hood\",\"lat\":40.4681806157379,\"lng\":-79.9164390563965}&map_zoom=18&navbar=\"Data\"&neigh_select=\"Highland Park\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
+      "page_title": "Burgh's Eye View Parcels",
+      "event_label": "(not set)",
+      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4839393809407,\"east\":-79.9236488342285,\"south\":40.4554051765035,\"west\":-79.988021850586}&map_center={\"lng\":-79.9558535307744,\"lat\":40.469681366532}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0080N00008000000\",\".nonce\":0.463324374527743,\"group\":\"hood\",\"lat\":40.4731397796214,\"lng\":-79.9669075012207}&map_shape_mouseover={\"id\":\"0080N00008000000\",\".nonce\":0.903760963002242,\"group\":\"hood\",\"lat\":40.4728787219538,\"lng\":-79.9667358398438}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Lawrenceville\"&neigh_select-selectized=\"\"&search=\"\"",
+      "total_events": "1",
+      "domain": "http://pittsburghpa.gov"
     },
     {
       "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2018-07-01\",\"2018-07-07\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5378078635576,\"east\":-79.7027206420899,\"south\":40.3256079997321,\"west\":-80.2795028686524}&map_center={\"lng\":-79.99121391,\"lat\":40.4317197190673}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Code Violations\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
-      "total_events": "2",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.3881680623201,\"east\":-79.8677730560303,\"south\":40.3575002820773,\"west\":-79.9556636810303}&map_center={\"lng\":-79.9116988779311,\"lat\":40.3728336541694}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0034D00020000000\",\".nonce\":0.452821488478853,\"group\":\"hood\",\"lat\":40.4115567188585,\"lng\":-80.0057673454285}&map_shape_mouseover={\"id\":\"0034D00020000000\",\".nonce\":0.494152031290807,\"group\":\"hood\",\"lat\":40.409336130099,\"lng\":-80.0040507316589}&map_zoom=15&navbar=\"Parcels\"&neigh_select=\"Lincoln-Lemington-Belmar\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4040849553955,\"east\":-79.878158569336,\"south\":40.3734244217513,\"west\":-79.966049194336}&map_center={\"lng\":-79.9221079504378,\"lat\":40.3887622834327}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"New Homestead\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4093135035907,\"east\":-79.9425315856934,\"south\":40.378655350902,\"west\":-80.0304222106934}&map_center={\"lng\":-79.9864601461459,\"lat\":40.393973663117}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0060E00106000000\",\".nonce\":0.0990479776624067,\"group\":\"hood\",\"lat\":40.4004315619707,\"lng\":-80.0005531311035}&map_shape_mouseover={\"id\":\"0060E00106000000\",\".nonce\":0.0553593198896083,\"group\":\"hood\",\"lat\":40.4003662407866,\"lng\":-79.9983644485474}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Carrick\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4152670266042,\"east\":-79.9338455189718,\"south\":40.3846115853182,\"west\":-80.0217361439718}&map_center={\"lng\":-79.9777908314718,\"lat\":40.3999410508398}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0033P00100000000\",\".nonce\":0.86554998205927,\"group\":\"hood\",\"lat\":40.4051775253995,\"lng\":-79.9986476887716}&map_shape_mouseover={\"id\":\"0033P00100000000\",\".nonce\":0.839691225677765,\"group\":\"hood\",\"lat\":40.4045896739074,\"lng\":-79.9952573765768}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Carrick\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4156362364219,\"east\":-79.949848651886,\"south\":40.4003103447408,\"west\":-79.993793964386}&map_center={\"lng\":-79.9718231231255,\"lat\":40.4079690569522}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0052N00176000000\",\".nonce\":0.182501695433907,\"group\":\"hood\",\"lat\":40.443787801465,\"lng\":-79.9475526809693}&map_shape_mouseover={\"id\":\"0027S00150000001\",\".nonce\":0.802645368648299,\"group\":\"hood\",\"lat\":40.4340272671195,\"lng\":-79.947509765625}&map_zoom=16&navbar=\"Data\"&neigh_select=\"St. Clair\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4176129896336,\"east\":-79.9576163291931,\"south\":40.4022875481467,\"west\":-80.0015616416931}&map_center={\"lng\":-79.9795878063622,\"lat\":40.4099508673273}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Mt. Oliver\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4182664489968,\"east\":-79.9724864959717,\"south\":40.4029411563356,\"west\":-80.0164318084717}&map_center={\"lng\":-79.9944591522217,\"lat\":40.4106087695015}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0034D00020000000\",\".nonce\":0.452821488478853,\"group\":\"hood\",\"lat\":40.4115567188585,\"lng\":-80.0057673454285}&map_shape_mouseover={\"id\":\"0034D00020000000\",\".nonce\":0.494152031290807,\"group\":\"hood\",\"lat\":40.409336130099,\"lng\":-80.0040507316589}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Knoxville\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4182664489968,\"east\":-79.9724864959717,\"south\":40.4029411563356,\"west\":-80.0164318084717}&map_center={\"lng\":-79.9944591522217,\"lat\":40.4106087695015}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0034D00020000000\",\".nonce\":0.452821488478853,\"group\":\"hood\",\"lat\":40.4115567188585,\"lng\":-80.0057673454285}&map_shape_mouseover={\"id\":\"0034D00020000000\",\".nonce\":0.494152031290807,\"group\":\"hood\",\"lat\":40.409336130099,\"lng\":-80.0040507316589}&map_zoom=16&navbar=\"Parcels\"&neigh_select=\"Larimer\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4209455660302,\"east\":-79.855842590332,\"south\":40.3596258981446,\"west\":-80.031623840332}&map_center={\"lng\":-79.9437677795193,\"lat\":40.3903145735541}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0032R00200000000\",\".nonce\":0.432342941854445,\"group\":\"hood\",\"lat\":40.4059269014483,\"lng\":-79.9713706970215}&map_shape_mouseover={\"id\":\"0032R00200000000\",\".nonce\":0.464558609106187,\"group\":\"hood\",\"lat\":40.4042286687036,\"lng\":-79.9708557128906}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Hays\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4224125025574,\"east\":-79.9820866590017,\"south\":40.4070881542079,\"west\":-80.0260319715017}&map_center={\"lng\":-80.0040593152517,\"lat\":40.4147507646387}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0015F00200000000\",\".nonce\":0.897888082216739,\"group\":\"hood\",\"lat\":40.4201765209384,\"lng\":-80.0074925427907}&map_shape_mouseover={\"id\":\"0015F00200000000\",\".nonce\":0.10100652667808,\"group\":\"hood\",\"lat\":40.4198010334468,\"lng\":-80.0080933576101}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Beltzhoover\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4231606614187,\"east\":-79.9573974619852,\"south\":40.3925088156277,\"west\":-80.0452880869853}&map_center={\"lng\":-80.0013427744853,\"lat\":40.4078364834796}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0011K00075000000\",\".nonce\":0.392065851019056,\"group\":\"hood\",\"lat\":40.437523230677,\"lng\":-79.9758853917592}&map_shape_mouseover={\"id\":\"0011K00075000000\",\".nonce\":0.12297367236744,\"group\":\"hood\",\"lat\":40.4374089815691,\"lng\":-79.9757566457265}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Bon Air\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4234742950457,\"east\":-79.9394931798452,\"south\":40.4081501885447,\"west\":-79.9834384923452}&map_center={\"lng\":-79.9614658360952,\"lat\":40.4158126780539}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0030P00001000000\",\".nonce\":0.741424816090994,\"group\":\"hood\",\"lat\":40.4189691021045,\"lng\":-79.9643411641591}&map_shape_mouseover={\"id\":\"0030P00001000000\",\".nonce\":0.976182388898712,\"group\":\"hood\",\"lat\":40.4186589113689,\"lng\":-79.961787701177}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Arlington Heights\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4243759869426,\"east\":-79.8856258392334,\"south\":40.3937246947756,\"west\":-79.9735164642334}&map_center={\"lng\":-79.9295712472536,\"lat\":40.4090673396336}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00080000000\",\".nonce\":0.924854441819614,\"group\":\"hood\",\"lat\":40.461451004788,\"lng\":-79.9363517761231}&map_shape_mouseover={\"id\":\"0051D00080000000\",\".nonce\":0.150169755733491,\"group\":\"hood\",\"lat\":40.4613367963504,\"lng\":-79.9358582496643}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Glen Hazel\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4266889755984,\"east\":-79.9969654093729,\"south\":40.396038737118,\"west\":-80.0848560343729}&map_center={\"lng\":-80.0409107218729,\"lat\":40.4113656013494}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0030P00001000000\",\".nonce\":0.741424816090994,\"group\":\"hood\",\"lat\":40.4189691021045,\"lng\":-79.9643411641591}&map_shape_mouseover={\"id\":\"0030P00001000000\",\".nonce\":0.976182388898712,\"group\":\"hood\",\"lat\":40.4186589113689,\"lng\":-79.961787701177}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Banksville\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.427335816711,\"east\":-79.9254856130574,\"south\":40.366021970337,\"west\":-80.1012668630574}&map_center={\"lng\":-80.0133762380574,\"lat\":40.3966858729093}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0062K00219000000\",\".nonce\":0.791814177409071,\"group\":\"hood\",\"lat\":40.3983408692151,\"lng\":-80.0274524709675}&map_shape_mouseover={\"id\":\"0062K00219000000\",\".nonce\":0.721114673424812,\"group\":\"hood\",\"lat\":40.3978182817393,\"lng\":-80.025907518575}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Brookline\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.42764289383,\"east\":-80.054377552442,\"south\":40.4123197368773,\"west\":-80.098322864942}&map_center={\"lng\":-80.076350208692,\"lat\":40.4199817516226}&map_click={\"lat\":40.4514458958808,\"lng\":-79.9887685760041,\".nonce\":0.223795908037524}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0009A00265000900\",\".nonce\":0.653573149593575,\"group\":\"hood\",\"lat\":40.4505969039435,\"lng\":-79.9984588588996}&map_shape_mouseover={\"id\":\"0009A00265000900\",\".nonce\":0.631749095657345,\"group\":\"hood\",\"lat\":40.4510701275578,\"lng\":-79.9985876049323}&map_zoom=16&navbar=\"Data\"&neigh_select=\"East Carnegie\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.42764289383,\"east\":-80.054377552442,\"south\":40.4123197368773,\"west\":-80.098322864942}&map_center={\"lng\":-80.076350208692,\"lat\":40.4199817516226}&map_click={\"lat\":40.4514458958808,\"lng\":-79.9887685760041,\".nonce\":0.223795908037524}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0009A00265000900\",\".nonce\":0.653573149593575,\"group\":\"hood\",\"lat\":40.4505969039435,\"lng\":-79.9984588588996}&map_shape_mouseover={\"id\":\"0009A00265000900\",\".nonce\":0.631749095657345,\"group\":\"hood\",\"lat\":40.4510701275578,\"lng\":-79.9985876049323}&map_zoom=16&navbar=\"Parcels\"&neigh_select=\"East Hills\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4319549633269,\"east\":-79.9499988555908,\"south\":40.417384277357,\"west\":-79.9944162368775}&map_center={\"lng\":-79.9722075462341,\"lat\":40.4246700148808}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0030A00075000000\",\".nonce\":0.0920971845842578,\"group\":\"hood\",\"lat\":40.4226195771373,\"lng\":-79.9660220369697}&map_shape_mouseout={\"id\":\"0030A00075000000\",\".nonce\":0.202576354258964,\"group\":\"hood\",\"lat\":40.4228500212097,\"lng\":-79.9660209228176}&map_shape_mouseover={\"id\":\"0030A00075000000\",\".nonce\":0.549056390061975,\"group\":\"hood\",\"lat\":40.4226522478248,\"lng\":-79.9660649523139}&map_zoom=15&navbar=\"Data\"&neigh_select=\"South Side Slopes\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4324122880254,\"east\":-80.0422024726868,\"south\":40.4170902175733,\"west\":-80.0861477851868}&map_center={\"lng\":-80.0641779997733,\"lat\":40.4247453979386}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Oakwood\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4349601829815,\"east\":-80.0148010253906,\"south\":40.4196386930009,\"west\":-80.0587463378906}&map_center={\"lng\":-80.0367725365713,\"lat\":40.4272953527337}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Ridgemont\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4359401168732,\"east\":-79.9345064163208,\"south\":40.4052940932685,\"west\":-80.0223970413208}&map_center={\"lng\":-79.9784397482373,\"lat\":40.4206272883382}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029A00308000000\",\".nonce\":0.940004587304908,\"group\":\"hood\",\"lat\":40.4316347956038,\"lng\":-79.9663066864014}&map_shape_mouseover={\"id\":\"0029A00308000000\",\".nonce\":0.949496463983856,\"group\":\"hood\",\"lat\":40.4321897656796,\"lng\":-79.9641609191895}&map_zoom=15&navbar=\"Data\"&neigh_select=\"South Side Slopes\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4361190043051,\"east\":-79.9335508793593,\"south\":40.4069762804164,\"west\":-80.0223856419325}&map_center={\"lng\":-79.9779682606459,\"lat\":40.4215492204886}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0052C00246000000\",\".nonce\":0.333959436518152,\"group\":\"hood\",\"lat\":40.4519763384999,\"lng\":-79.9379825592041}&map_shape_mouseout={\"id\":\"0052D00135000000\",\".nonce\":0.534629353229664,\"group\":\"hood\",\"lat\":40.4525066207547,\"lng\":-79.9364533647895}&map_shape_mouseover={\"id\":\"0052D00135000000\",\".nonce\":0.119795703845217,\"group\":\"hood\",\"lat\":40.452114745506,\"lng\":-79.9358954653144}&map_zoom=14&navbar=\"Data\"&neigh_select=\"South Side Flats\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4368547089534,\"east\":-79.93399143219,\"south\":40.4062091020859,\"west\":-80.02188205719}&map_center={\"lng\":-79.977945888724,\"lat\":40.4215346257715}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029A00308000000\",\".nonce\":0.940004587304908,\"group\":\"hood\",\"lat\":40.4316347956038,\"lng\":-79.9663066864014}&map_shape_mouseover={\"id\":\"0029A00308000000\",\".nonce\":0.949496463983856,\"group\":\"hood\",\"lat\":40.4321897656796,\"lng\":-79.9641609191895}&map_zoom=15&navbar=\"Data\"&neigh_select=\"South Side Flats\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.439254688442,\"east\":-79.9171572178602,\"south\":40.4101133233121,\"west\":-80.0059919804335}&map_center={\"lng\":-79.9615745991468,\"lat\":40.4246855840327}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0052C00246000000\",\".nonce\":0.333959436518152,\"group\":\"hood\",\"lat\":40.4519763384999,\"lng\":-79.9379825592041}&map_shape_mouseout={\"id\":\"0052D00135000000\",\".nonce\":0.534629353229664,\"group\":\"hood\",\"lat\":40.4525066207547,\"lng\":-79.9364533647895}&map_shape_mouseover={\"id\":\"0052D00135000000\",\".nonce\":0.119795703845217,\"group\":\"hood\",\"lat\":40.452114745506,\"lng\":-79.9358954653144}&map_zoom=14&navbar=\"Data\"&neigh_select=\"South Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.439291390015,\"east\":-79.8787078878377,\"south\":40.3747845095807,\"west\":-80.0544891378377}&map_center={\"lng\":-79.9665985128377,\"lat\":40.407045677871}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0031G00200000000\",\".nonce\":0.176689923870551,\"group\":\"hood\",\"lat\":40.407092865959,\"lng\":-79.9678859731648}&map_shape_mouseover={\"id\":\"0031G00200000000\",\".nonce\":0.904965199975275,\"group\":\"hood\",\"lat\":40.4063089014838,\"lng\":-79.9556121847127}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Arlington\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4399903587781,\"east\":-79.9176406860352,\"south\":40.4093461807397,\"west\":-80.0055313110352}&map_center={\"lng\":-79.9615975573297,\"lat\":40.4246809814276}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0021K00066000000\",\".nonce\":0.884689823580917,\"group\":\"hood\",\"lat\":40.4617786077185,\"lng\":-80.0672435760498}&map_shape_mouseover={\"id\":\"0021K00066000000\",\".nonce\":0.00349011644152175,\"group\":\"hood\",\"lat\":40.4609628328829,\"lng\":-80.0656986236572}&map_zoom=15&navbar=\"Data\"&neigh_select=\"South Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.440036087717,\"east\":-79.952968597936,\"south\":40.4247157542392,\"west\":-79.996913910436}&map_center={\"lng\":-79.974941254186,\"lat\":40.4323763572775}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0002L00025000001\",\".nonce\":0.438649087586519,\"group\":\"hood\",\"lat\":40.4381924001249,\"lng\":-79.9892964368337}&map_shape_mouseover={\"id\":\"0002L00025000001\",\".nonce\":0.367928234365583,\"group\":\"hood\",\"lat\":40.4380618309996,\"lng\":-79.9886097913259}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Bluff\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4402516563288,\"east\":-79.9850606918335,\"south\":40.4256827679412,\"west\":-80.0294780731201}&map_center={\"lng\":-80.0072693824768,\"lat\":40.4329676066923}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0004B00204000000\",\".nonce\":0.187270096997137,\"group\":\"hood\",\"lat\":40.4319549633269,\"lng\":-80.0086641311646}&map_shape_mouseout={\"id\":\"0004A00164000000\",\".nonce\":0.990828051421048,\"group\":\"hood\",\"lat\":40.4314976355182,\"lng\":-80.0146293640137}&map_shape_mouseover={\"id\":\"0004A00164000000\",\".nonce\":0.867899299195808,\"group\":\"hood\",\"lat\":40.4319222971579,\"lng\":-80.0129985809326}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Mount Washington\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4426032885816,\"east\":-80.0108528137207,\"south\":40.4213702942985,\"west\":-80.0767707824707}&map_center={\"lng\":-80.0438117980957,\"lat\":40.4319876294799}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0019L00160000000\",\".nonce\":0.0102770627794089,\"group\":\"hood\",\"lat\":40.4391183527846,\"lng\":-80.0380611419678}&map_shape_mouseover={\"id\":\"0019L00160000000\",\".nonce\":0.557716933504989,\"group\":\"hood\",\"lat\":40.4370624702749,\"lng\":-80.0363445281983}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Westwood\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.444321241762,\"east\":-79.9328670522664,\"south\":40.3830228728049,\"west\":-80.1086483022664}&map_center={\"lng\":-80.0207576772664,\"lat\":40.4136790373386}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0017K00134000100\",\".nonce\":0.661141884146417,\"group\":\"hood\",\"lat\":40.4187235811267,\"lng\":-80.0403099070536}&map_shape_mouseover={\"id\":\"0017G00001000000\",\".nonce\":0.332730713034869,\"group\":\"hood\",\"lat\":40.4187235811267,\"lng\":-80.0403099070536}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Beechview\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4456221932644,\"east\":-79.9321024864912,\"south\":40.4310544686338,\"west\":-79.9765198677778}&map_center={\"lng\":-79.9543111771345,\"lat\":40.4383387255182}&map_click={\"lat\":40.4586542472445,\"lng\":-80.0158953666687,\".nonce\":0.593449383576175}&map_groups=\"hood\"&map_shape_click={\"id\":\"0023E00004000000\",\".nonce\":0.478420215379567,\"group\":\"hood\",\"lat\":40.4588082655219,\"lng\":-80.0136848911643}&map_shape_mouseout={\"id\":\"0028F00038000000\",\".nonce\":0.274687978000493,\"group\":\"hood\",\"lat\":40.4403638047218,\"lng\":-79.9605553597212}&map_shape_mouseover={\"id\":\"0028F00038000000\",\".nonce\":0.452287209796791,\"group\":\"hood\",\"lat\":40.4398412094768,\"lng\":-79.9603836983442}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4459999454898,\"east\":-79.9323391914368,\"south\":40.4306809709813,\"west\":-79.9762845039368}&map_center={\"lng\":-79.9543167969223,\"lat\":40.438337787773}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0023J00023000000\",\".nonce\":0.63846382993098,\"group\":\"hood\",\"lat\":40.4572705848572,\"lng\":-80.0151872634888}&map_shape_mouseover={\"id\":\"0023J00023000000\",\".nonce\":0.687626285921711,\"group\":\"hood\",\"lat\":40.4572053188555,\"lng\":-80.0148224830627}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Central Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4474695996037,\"east\":-79.8840808868408,\"south\":40.4039542364866,\"west\":-79.9939441680908}&map_center={\"lng\":-79.9390125274658,\"lat\":40.4257154371409}&map_click={\"lat\":-85.4788899006372,\"lng\":472.8955078125,\".nonce\":0.686187784919129}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0027S00150000001\",\".nonce\":0.96011956928346,\"group\":\"hood\",\"lat\":40.4336209168997,\"lng\":-79.9499130249023}&map_shape_mouseover={\"id\":\"0027S00150000001\",\".nonce\":0.534967413682097,\"group\":\"hood\",\"lat\":40.4329022753224,\"lng\":-79.9485397338867}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Greenfield\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.44786150194,\"east\":-79.8580741882324,\"south\":40.3865663596095,\"west\":-80.0338554382324}&map_center={\"lng\":-79.9459728418717,\"lat\":40.4172497331296}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029G00092000000\",\".nonce\":0.718527120197541,\"group\":\"hood\",\"lat\":40.4295842834774,\"lng\":-79.9598693847656}&map_shape_mouseover={\"id\":\"0029G00092000000\",\".nonce\":0.688911041324384,\"group\":\"hood\",\"lat\":40.4296495763031,\"lng\":-79.9576377868652}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Hazelwood\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4480247939057,\"east\":-79.9889659881592,\"south\":40.4267935118285,\"west\":-80.0548839569092}&map_center={\"lng\":-80.0219249725342,\"lat\":40.4374099909324}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0026N00179000A00\",\".nonce\":0.568825602291783,\"group\":\"hood\",\"lat\":40.4545282053703,\"lng\":-79.963903427124}&map_shape_mouseover={\"id\":\"0026N00179000A00\",\".nonce\":0.581000155721846,\"group\":\"hood\",\"lat\":40.4545445179062,\"lng\":-79.9640321731568}&map_zoom=15&navbar=\"Data\"&neigh_select=\"West End\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4480574522512,\"east\":-79.9499130249023,\"south\":40.4142802481574,\"west\":-80.0378036499024}&map_center={\"lng\":-79.9938583374024,\"lat\":40.4311709708935}&map_groups=\"hood\"&map_marker_mouseout={\"id\":null,\".nonce\":0.109195333288095,\"lat\":40.4381098,\"lng\":-79.9968604}&map_marker_mouseover={\"id\":null,\".nonce\":0.923146535673058,\"lat\":40.4381098,\"lng\":-79.9968604}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"155 mcmurray road\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4499516091387,\"east\":-79.8586750030518,\"south\":40.4208148798697,\"west\":-79.947509765625}&map_center={\"lng\":-79.9030923843384,\"lat\":40.4353848227547}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0004B00204000000\",\".nonce\":0.187270096997137,\"group\":\"hood\",\"lat\":40.4319549633269,\"lng\":-80.0086641311646}&map_shape_mouseout={\"id\":\"0004A00164000000\",\".nonce\":0.990828051421048,\"group\":\"hood\",\"lat\":40.4314976355182,\"lng\":-80.0146293640137}&map_shape_mouseover={\"id\":\"0004A00164000000\",\".nonce\":0.867899299195808,\"group\":\"hood\",\"lat\":40.4319222971579,\"lng\":-80.0129985809326}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Regent Square\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4506374113995,\"east\":-79.9594831466675,\"south\":40.4199980856147,\"west\":-80.0473737716675}&map_center={\"lng\":-80.0034294377213,\"lat\":40.4353069903216}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029A00308000000\",\".nonce\":0.940004587304908,\"group\":\"hood\",\"lat\":40.4316347956038,\"lng\":-79.9663066864014}&map_shape_mouseover={\"id\":\"0029A00308000000\",\".nonce\":0.949496463983856,\"group\":\"hood\",\"lat\":40.4321897656796,\"lng\":-79.9641609191895}&map_zoom=15&navbar=\"Data\"&neigh_select=\"South Shore\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4506700684754,\"east\":-79.8591899871826,\"south\":40.4200307575753,\"west\":-79.9470806121826}&map_center={\"lng\":-79.903127641845,\"lat\":40.4353578794584}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"Regent Square\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4510456237081,\"east\":-79.9616932868958,\"south\":40.4357277990753,\"west\":-80.0056385993958}&map_center={\"lng\":-79.9836708556792,\"lat\":40.4433937500039}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"Crawford-Roberts\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4513885201311,\"east\":-79.8318099975586,\"south\":40.3931036821413,\"west\":-80.0094795227051}&map_center={\"lng\":-79.9206447601319,\"lat\":40.422252413672}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0030A00075000000\",\".nonce\":0.0920971845842578,\"group\":\"hood\",\"lat\":40.4226195771373,\"lng\":-79.9660220369697}&map_shape_mouseout={\"id\":\"0030A00075000000\",\".nonce\":0.202576354258964,\"group\":\"hood\",\"lat\":40.4228500212097,\"lng\":-79.9660209228176}&map_shape_mouseover={\"id\":\"0030A00075000000\",\".nonce\":0.549056390061975,\"group\":\"hood\",\"lat\":40.4226522478248,\"lng\":-79.9660649523139}&map_zoom=13&navbar=\"Data\"&neigh_select=\"Squirrel Hill South\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4513885201311,\"east\":-79.8381614685059,\"south\":40.4089213765651,\"west\":-79.9699974060059}&map_center={\"lng\":-79.9040794372559,\"lat\":40.4301583004729}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0127H00100000001\",\".nonce\":0.38597483850065,\"group\":\"hood\",\"lat\":40.4382746606382,\"lng\":-79.9120616912842}&map_shape_mouseover={\"id\":\"0127H00100000001\",\".nonce\":0.304768736075162,\"group\":\"hood\",\"lat\":40.4380135964011,\"lng\":-79.9061393737793}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Swisshelm Park\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4518718334473,\"east\":-79.9371671676636,\"south\":40.4196321541848,\"west\":-80.0250577926636}&map_center={\"lng\":-79.9811124801636,\"lat\":40.4357539261466}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4527045726159,\"east\":-80.0302505493164,\"south\":40.4373871260722,\"west\":-80.0741958618164}&map_center={\"lng\":-80.0522232055664,\"lat\":40.4450462856744}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0041F00055000000\",\".nonce\":0.514262293047841,\"group\":\"hood\",\"lat\":40.4504206437272,\"lng\":-80.060248374939}&map_shape_mouseover={\"id\":\"0041F00055000000\",\".nonce\":0.739410392835582,\"group\":\"hood\",\"lat\":40.4501758709426,\"lng\":-80.0600981712341}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Crafton Heights\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4528907124088,\"east\":-79.8327541351319,\"south\":40.391600154151,\"west\":-80.0085353851318}&map_center={\"lng\":-79.9206242915632,\"lat\":40.422276542599}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0052N00176000000\",\".nonce\":0.182501695433907,\"group\":\"hood\",\"lat\":40.443787801465,\"lng\":-79.9475526809693}&map_shape_mouseover={\"id\":\"0052N00176000000\",\".nonce\":0.602902199671181,\"group\":\"hood\",\"lat\":40.4430697279078,\"lng\":-79.9462652206421}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Squirrel Hill South\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4530539921547,\"east\":-79.9351072311402,\"south\":40.431824298556,\"west\":-80.0010251998902}&map_center={\"lng\":-79.9680662155151,\"lat\":40.4424399834443}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0019L00160000000\",\".nonce\":0.0102770627794089,\"group\":\"hood\",\"lat\":40.4391183527846,\"lng\":-80.0380611419678}&map_shape_mouseover={\"id\":\"0019L00160000000\",\".nonce\":0.557716933504989,\"group\":\"hood\",\"lat\":40.4370624702749,\"lng\":-80.0363445281983}&map_zoom=15&navbar=\"Data\"&neigh_select=\"West Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4535438290119,\"east\":-79.9236488342285,\"south\":40.3922538660977,\"west\":-80.0994300842285}&map_center={\"lng\":-80.011504282713,\"lat\":40.4228969049269}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0022A00260000900\",\".nonce\":0.0258752167727236,\"group\":\"hood\",\"lat\":40.4616440244385,\"lng\":-80.0299501419068}&map_shape_mouseover={\"id\":\"0022A00260000900\",\".nonce\":0.821265025718346,\"group\":\"hood\",\"lat\":40.461382977046,\"lng\":-80.0303149223328}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Mount Washington\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4536744515707,\"east\":-79.9351072311402,\"south\":40.4324449539562,\"west\":-80.0010251998902}&map_center={\"lng\":-79.9680662155151,\"lat\":40.4430605408553}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0127H00100000001\",\".nonce\":0.38597483850065,\"group\":\"hood\",\"lat\":40.4382746606382,\"lng\":-79.9120616912842}&map_shape_mouseover={\"id\":\"0127H00100000001\",\".nonce\":0.304768736075162,\"group\":\"hood\",\"lat\":40.4380135964011,\"lng\":-79.9061393737793}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Terrace Village\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4549153532153,\"east\":-79.8864841461182,\"south\":40.4257807754926,\"west\":-79.9753189086914}&map_center={\"lng\":-79.9309015274048,\"lat\":40.4403496426484}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0030A00075000000\",\".nonce\":0.0920971845842578,\"group\":\"hood\",\"lat\":40.4226195771373,\"lng\":-79.9660220369697}&map_shape_mouseout={\"id\":\"0030A00075000000\",\".nonce\":0.202576354258964,\"group\":\"hood\",\"lat\":40.4228500212097,\"lng\":-79.9660209228176}&map_shape_mouseover={\"id\":\"0030A00075000000\",\".nonce\":0.549056390061975,\"group\":\"hood\",\"lat\":40.4226522478248,\"lng\":-79.9660649523139}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Squirrel Hill North\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4552419024708,\"east\":-79.862322807312,\"south\":40.4230038395702,\"west\":-79.950213432312}&map_center={\"lng\":-79.906268119812,\"lat\":40.4391248033876}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0127H00100000001\",\".nonce\":0.833958999404196,\"group\":\"hood\",\"lat\":40.4326834874934,\"lng\":-79.9129629135132}&map_shape_mouseover={\"id\":\"0127H00100000001\",\".nonce\":0.0907535243059039,\"group\":\"hood\",\"lat\":40.4320304328582,\"lng\":-79.9129629135132}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Point Breeze\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4556337594826,\"east\":-79.8869562149048,\"south\":40.4249967110825,\"west\":-79.9748468399048}&map_center={\"lng\":-79.930899255768,\"lat\":40.4403226362504}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0052N00176000000\",\".nonce\":0.182501695433907,\"group\":\"hood\",\"lat\":40.443787801465,\"lng\":-79.9475526809693}&map_shape_mouseover={\"id\":\"0052N00176000000\",\".nonce\":0.602902199671181,\"group\":\"hood\",\"lat\":40.4430697279078,\"lng\":-79.9462652206421}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Squirrel Hill North\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4556827414484,\"east\":-79.9514150619507,\"south\":40.4403659736878,\"west\":-79.9953603744507}&map_center={\"lng\":-79.9733876244845,\"lat\":40.4480319633596}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0022A00260000900\",\".nonce\":0.0258752167727236,\"group\":\"hood\",\"lat\":40.4616440244385,\"lng\":-80.0299501419068}&map_shape_mouseover={\"id\":\"0022A00260000900\",\".nonce\":0.821265025718346,\"group\":\"hood\",\"lat\":40.461382977046,\"lng\":-80.0303149223328}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Middle Hill\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4563521580686,\"east\":-79.8511219024658,\"south\":40.395064755157,\"west\":-80.0269031524658}&map_center={\"lng\":-79.9389858474753,\"lat\":40.4256926284052}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00080000000\",\".nonce\":0.924854441819614,\"group\":\"hood\",\"lat\":40.461451004788,\"lng\":-79.9363517761231}&map_shape_mouseover={\"id\":\"0051D00080000000\",\".nonce\":0.150169755733491,\"group\":\"hood\",\"lat\":40.4613367963504,\"lng\":-79.9358582496643}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Greenfield\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4567031909476,\"east\":-79.9985361099243,\"south\":40.448645299757,\"west\":-80.0205087661743}&map_center={\"lng\":-80.0095208849075,\"lat\":40.4526720344206}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0008B00150000000\",\".nonce\":0.624156009550604,\"group\":\"hood\",\"lat\":40.4554793276944,\"lng\":-80.00821352005}&map_shape_mouseover={\"id\":\"0008B00150000000\",\".nonce\":0.0934842258877615,\"group\":\"hood\",\"lat\":40.4546877666221,\"lng\":-80.0081276893616}&map_zoom=17&navbar=\"Data\"&neigh_select=\"Allegheny Center\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4586509837194,\"east\":-79.9526252751821,\"south\":40.4433348925207,\"west\":-79.9965705876821}&map_center={\"lng\":-79.9745979314321,\"lat\":40.4509933744649}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0017K00134000100\",\".nonce\":0.661141884146417,\"group\":\"hood\",\"lat\":40.4187235811267,\"lng\":-80.0403099070536}&map_shape_mouseover={\"id\":\"0017G00001000000\",\".nonce\":0.332730713034869,\"group\":\"hood\",\"lat\":40.4187235811267,\"lng\":-80.0403099070536}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Bedford Dwellings\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4586542472445,\"east\":-79.9814987182617,\"south\":40.4433381567898,\"west\":-80.0254440307617}&map_center={\"lng\":-80.0034622768922,\"lat\":40.4509915685838}&map_groups=\"hood\"&map_zoom=16&navbar=\"Data\"&neigh_select=\"North Shore\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4587358801643,\"east\":-79.943540096283,\"south\":40.4481227688947,\"west\":-79.976499080658}&map_center={\"lng\":-79.9600195884705,\"lat\":40.4534295340646}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0026K00221000000\",\".nonce\":0.270128144967115,\"group\":\"hood\",\"lat\":40.4558984445805,\"lng\":-79.9613928794861}&map_shape_mouseover={\"id\":\"0026K00221000000\",\".nonce\":0.968273363261044,\"group\":\"hood\",\"lat\":40.4557679468121,\"lng\":-79.9612426757813}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Upper Hill\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4596567009997,\"east\":-79.9502391804708,\"south\":40.4290214864654,\"west\":-80.0381298054708}&map_center={\"lng\":-79.9941844929708,\"lat\":40.444340839047}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0033P00071000000\",\".nonce\":0.37177907604359,\"group\":\"hood\",\"lat\":40.4074191318245,\"lng\":-79.9984245258384}&map_shape_mouseover={\"id\":\"0033P00071000000\",\".nonce\":0.842119591101447,\"group\":\"hood\",\"lat\":40.4065047244054,\"lng\":-79.9915580707602}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4596828147845,\"east\":-79.950213432312,\"south\":40.4290476121548,\"west\":-80.038104057312}&map_center={\"lng\":-79.9941766768879,\"lat\":40.4443520725875}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0060E00106000000\",\".nonce\":0.0990479776624067,\"group\":\"hood\",\"lat\":40.4004315619707,\"lng\":-80.0005531311035}&map_shape_mouseover={\"id\":\"0060E00106000000\",\".nonce\":0.0553593198896083,\"group\":\"hood\",\"lat\":40.4003662407866,\"lng\":-79.9983644485474}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4599766883321,\"east\":-79.8804974555969,\"south\":40.4446608993193,\"west\":-79.9244427680969}&map_center={\"lng\":-79.9024701118469,\"lat\":40.4523192301738}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0125K00250000900\",\".nonce\":0.485291553215956,\"group\":\"hood\",\"lat\":40.4598630514353,\"lng\":-79.9173617362976}&map_shape_mouseover={\"id\":\"0125K00250000900\",\".nonce\":0.620176756517935,\"group\":\"hood\",\"lat\":40.4597651561867,\"lng\":-79.9173831939697}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Point Breeze North\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4608660816484,\"east\":-79.9195447191596,\"south\":40.4463016609567,\"west\":-79.9639621004462}&map_center={\"lng\":-79.9417534098029,\"lat\":40.4535842659054}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0052C00246000000\",\".nonce\":0.333959436518152,\"group\":\"hood\",\"lat\":40.4519763384999,\"lng\":-79.9379825592041}&map_shape_mouseout={\"id\":\"0052D00135000000\",\".nonce\":0.534629353229664,\"group\":\"hood\",\"lat\":40.4525066207547,\"lng\":-79.9364533647895}&map_shape_mouseover={\"id\":\"0052D00135000000\",\".nonce\":0.119795703845217,\"group\":\"hood\",\"lat\":40.452114745506,\"lng\":-79.9358954653144}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Shadyside\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4611195176856,\"east\":-79.8788452148438,\"south\":40.4458039891799,\"west\":-79.9227905273438}&map_center={\"lng\":-79.9008118327304,\"lat\":40.4534557190028}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029G00092000000\",\".nonce\":0.718527120197541,\"group\":\"hood\",\"lat\":40.4295842834774,\"lng\":-79.9598693847656}&map_shape_mouseover={\"id\":\"0029G00092000000\",\".nonce\":0.688911041324384,\"group\":\"hood\",\"lat\":40.4296495763031,\"lng\":-79.9576377868652}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Homewood South\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4614950145154,\"east\":-79.9122977256775,\"south\":40.4461795716053,\"west\":-79.9562430381775}&map_center={\"lng\":-79.9342784000471,\"lat\":40.453840982371}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0018G00160000000\",\".nonce\":0.977992643054464,\"group\":\"hood\",\"lat\":40.4283010884775,\"lng\":-80.0390481948853}&map_shape_mouseover={\"id\":\"0018G00160000000\",\".nonce\":0.659998041236622,\"group\":\"hood\",\"lat\":40.428382706057,\"lng\":-80.0390267372131}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Shadyside\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4625823025186,\"east\":-79.9616289164988,\"south\":40.4303477606275,\"west\":-80.0495195414988}&map_center={\"lng\":-80.0055742289988,\"lat\":40.4464669640196}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0008B00150000000\",\".nonce\":0.908299020158362,\"group\":\"hood\",\"lat\":40.4544556639673,\"lng\":-80.012998583552}&map_shape_mouseover={\"id\":\"0008B00150000000\",\".nonce\":0.376752561758499,\"group\":\"hood\",\"lat\":40.4530194006734,\"lng\":-80.0106382396189}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Allegheny West\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4628010740983,\"east\":-79.9886441230774,\"south\":40.4474859289133,\"west\":-80.0325894355774}&map_center={\"lng\":-80.0106098347987,\"lat\":40.4551452771663}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0023J00023000000\",\".nonce\":0.63846382993098,\"group\":\"hood\",\"lat\":40.4572705848572,\"lng\":-80.0151872634888}&map_shape_mouseover={\"id\":\"0023J00023000000\",\".nonce\":0.687626285921711,\"group\":\"hood\",\"lat\":40.4572053188555,\"lng\":-80.0148224830627}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Central Northside\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4632255399881,\"east\":-79.9732890095038,\"south\":40.4479104915647,\"west\":-80.0172343220038}&map_center={\"lng\":-79.9952616657538,\"lat\":40.4555684521324}&map_click={\"lat\":40.4514458958808,\"lng\":-79.9887685760041,\".nonce\":0.223795908037524}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0009A00265000900\",\".nonce\":0.653573149593575,\"group\":\"hood\",\"lat\":40.4505969039435,\"lng\":-79.9984588588996}&map_shape_mouseover={\"id\":\"0009A00265000900\",\".nonce\":0.631749095657345,\"group\":\"hood\",\"lat\":40.4510701275578,\"lng\":-79.9985876049323}&map_zoom=16&navbar=\"Data\"&neigh_select=\"East Allegheny\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4639182833328,\"east\":-80.0019046291709,\"south\":40.4566367984235,\"west\":-80.0241133198142}&map_center={\"lng\":-80.0130089744925,\"lat\":40.4602776395326}&map_click={\"lat\":40.4586542472445,\"lng\":-80.0158953666687,\".nonce\":0.593449383576175}&map_groups=\"hood\"&map_shape_click={\"id\":\"0023E00004000000\",\".nonce\":0.478420215379567,\"group\":\"hood\",\"lat\":40.4588082655219,\"lng\":-80.0136848911643}&map_shape_mouseout={\"id\":\"0023E00308000000\",\".nonce\":0.373361963082426,\"group\":\"hood\",\"lat\":40.4591837752706,\"lng\":-80.0176974758506}&map_shape_mouseover={\"id\":\"0023E00308000000\",\".nonce\":0.791539841855248,\"group\":\"hood\",\"lat\":40.458400100371,\"lng\":-80.0159164890647}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Central Northside\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4639928313099,\"east\":-80.003514289856,\"south\":40.448677957801,\"west\":-80.047459602356}&map_center={\"lng\":-80.0254879065802,\"lat\":40.4563316698288}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0022A00260000900\",\".nonce\":0.0258752167727236,\"group\":\"hood\",\"lat\":40.4616440244385,\"lng\":-80.0299501419068}&map_shape_mouseover={\"id\":\"0022A00260000900\",\".nonce\":0.821265025718346,\"group\":\"hood\",\"lat\":40.461382977046,\"lng\":-80.0303149223328}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Manchester\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.464711140512,\"east\":-79.9227905273438,\"south\":40.4566297191015,\"west\":-79.9449992179871}&map_center={\"lng\":-79.9338948726654,\"lat\":40.4606705513296}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00064000000\",\".nonce\":0.784518839986197,\"group\":\"hood\",\"lat\":40.4606460621694,\"lng\":-79.9366307258606}&map_shape_mouseover={\"id\":\"0051D00064000000\",\".nonce\":0.652833278190136,\"group\":\"hood\",\"lat\":40.4606787143811,\"lng\":-79.9361801147461}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Friendship\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4647601158597,\"east\":-79.9395704269409,\"south\":40.4494454172665,\"west\":-79.9835157394409}&map_center={\"lng\":-79.9615430831909,\"lat\":40.4571032029229}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0125K00250000900\",\".nonce\":0.850152195945652,\"group\":\"hood\",\"lat\":40.4598630514353,\"lng\":-79.9171257019043}&map_shape_mouseover={\"id\":\"0125K00250000900\",\".nonce\":0.69200967929198,\"group\":\"hood\",\"lat\":40.4597814720714,\"lng\":-79.9170184135437}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Polish Hill\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4648417413598,\"east\":-79.9113750457764,\"south\":40.4357114669092,\"west\":-80.0002098083496}&map_center={\"lng\":-79.955792427063,\"lat\":40.4502781825166}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0004B00204000000\",\".nonce\":0.187270096997137,\"group\":\"hood\",\"lat\":40.4319549633269,\"lng\":-80.0086641311646}&map_shape_mouseout={\"id\":\"0004A00164000000\",\".nonce\":0.990828051421048,\"group\":\"hood\",\"lat\":40.4314976355182,\"lng\":-80.0146293640137}&map_shape_mouseover={\"id\":\"0004A00164000000\",\".nonce\":0.867899299195808,\"group\":\"hood\",\"lat\":40.4319222971579,\"lng\":-80.0129985809326}&map_zoom=14&navbar=\"Data\"&neigh_select=\"North Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4655926913068,\"east\":-79.9118041992188,\"south\":40.4349601829815,\"west\":-79.9996948242188}&map_center={\"lng\":-79.9557708793408,\"lat\":40.4502881419734}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"North Oakland\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4660987615356,\"east\":-79.9201512336731,\"south\":40.4552255750458,\"west\":-79.9476170539856}&map_center={\"lng\":-79.9338943661406,\"lat\":40.4606673954103}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00125000000\",\".nonce\":0.762569060480127,\"group\":\"hood\",\"lat\":40.4610215616457,\"lng\":-79.9358153343201}&map_shape_mouseover={\"id\":\"0051D00125000000\",\".nonce\":0.050974389563025,\"group\":\"hood\",\"lat\":40.4611195176856,\"lng\":-79.9355578422547}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Friendship\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4666701265658,\"east\":-79.9243354797363,\"south\":40.4521069641058,\"west\":-79.9687528610229}&map_center={\"lng\":-79.9465441703797,\"lat\":40.4593889399514}&map_groups=\"hood\"&map_shape_click={\"id\":\"0081E00078000000\",\".nonce\":0.492181343075031,\"group\":\"hood\",\"lat\":40.4786839911101,\"lng\":-79.9482822418213}&map_shape_mouseout={\"id\":\"0048M00160000000\",\".nonce\":0.041617912690264,\"group\":\"hood\",\"lat\":40.4672578112404,\"lng\":-79.9711990356445}&map_shape_mouseover={\"id\":\"0048M00160000000\",\".nonce\":0.438524665151756,\"group\":\"hood\",\"lat\":40.4669966186865,\"lng\":-79.9699115753174}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Bloomfield\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4670423292502,\"east\":-79.9245586400502,\"south\":40.451728150943,\"west\":-79.9685039525502}&map_center={\"lng\":-79.9465312963002,\"lat\":40.459385676462}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0015F00200000000\",\".nonce\":0.897888082216739,\"group\":\"hood\",\"lat\":40.4201765209384,\"lng\":-80.0074925427907}&map_shape_mouseover={\"id\":\"0015F00200000000\",\".nonce\":0.10100652667808,\"group\":\"hood\",\"lat\":40.4198010334468,\"lng\":-80.0080933576101}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Bloomfield\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4673884071363,\"east\":-80.0401210784912,\"south\":40.4461632419783,\"west\":-80.1060390472412}&map_center={\"lng\":-80.0730800628662,\"lat\":40.4567766627135}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0108D00102000000\",\".nonce\":0.398242437414303,\"group\":\"hood\",\"lat\":40.462138226333,\"lng\":-80.0835514068604}&map_shape_mouseover={\"id\":\"0108D00102000000\",\".nonce\":0.171600364026166,\"group\":\"hood\",\"lat\":40.4616162822178,\"lng\":-80.0810623168945}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Windgap\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4675190027784,\"east\":-79.8667001724243,\"south\":40.4522049331436,\"west\":-79.9106454849243}&map_center={\"lng\":-79.8886699973085,\"lat\":40.4598607975003}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0029G00092000000\",\".nonce\":0.718527120197541,\"group\":\"hood\",\"lat\":40.4295842834774,\"lng\":-79.9598693847656}&map_shape_mouseover={\"id\":\"0029G00092000000\",\".nonce\":0.688911041324384,\"group\":\"hood\",\"lat\":40.4296495763031,\"lng\":-79.9576377868652}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Homewood North\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4683188955449,\"east\":-79.9119114875793,\"south\":40.4530050082726,\"west\":-79.9558568000793}&map_center={\"lng\":-79.9338943661406,\"lat\":40.4606673954103}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00080000000\",\".nonce\":0.924854441819614,\"group\":\"hood\",\"lat\":40.461451004788,\"lng\":-79.9363517761231}&map_shape_mouseover={\"id\":\"0051D00080000000\",\".nonce\":0.150169755733491,\"group\":\"hood\",\"lat\":40.4613367963504,\"lng\":-79.9358582496643}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Friendship\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4684788737521,\"east\":-80.031975749298,\"south\":40.4378476813518,\"west\":-80.119866374298}&map_center={\"lng\":-80.075921061798,\"lat\":40.4531650229526}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0083K00060000000\",\".nonce\":0.366625616115911,\"group\":\"hood\",\"lat\":40.4666598259745,\"lng\":-79.9289789231261}&map_shape_mouseover={\"id\":\"0083K00060000000\",\".nonce\":0.153390818440384,\"group\":\"hood\",\"lat\":40.4660725117729,\"lng\":-79.928421023651}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Fairywood\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.468615995349,\"east\":-79.9776792526245,\"south\":40.4379848654698,\"west\":-80.0655698776245}&map_center={\"lng\":-80.0216245651245,\"lat\":40.4533021758114}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0021D00104000000\",\".nonce\":0.979120245732159,\"group\":\"hood\",\"lat\":40.4606229366314,\"lng\":-80.0360870361328}&map_shape_mouseover={\"id\":\"0021D00104000000\",\".nonce\":0.170154871139727,\"group\":\"hood\",\"lat\":40.4601334644983,\"lng\":-80.0344133377075}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Chateau\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4694452590018,\"east\":-80.0131702423096,\"south\":40.4388145072322,\"west\":-80.1010608673096}&map_center={\"lng\":-80.0571109763544,\"lat\":40.4541393647112}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0018G00160000000\",\".nonce\":0.977992643054464,\"group\":\"hood\",\"lat\":40.4283010884775,\"lng\":-80.0390481948853}&map_shape_mouseover={\"id\":\"0018G00160000000\",\".nonce\":0.659998041236622,\"group\":\"hood\",\"lat\":40.428382706057,\"lng\":-80.0390267372131}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Sheraden\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4706989290835,\"east\":-80.0127925904235,\"south\":40.4400687489474,\"west\":-80.1006832154235}&map_center={\"lng\":-80.0567379029235,\"lat\":40.4553855844377}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0083K00060000000\",\".nonce\":0.366625616115911,\"group\":\"hood\",\"lat\":40.4666598259745,\"lng\":-79.9289789231261}&map_shape_mouseover={\"id\":\"0083K00060000000\",\".nonce\":0.153390818440384,\"group\":\"hood\",\"lat\":40.4660725117729,\"lng\":-79.928421023651}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Esplen\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.47162284185,\"east\":-79.9827690140228,\"south\":40.4563097078552,\"west\":-80.0267143265228}&map_center={\"lng\":-80.0047416702728,\"lat\":40.4639667112291}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0083K00060000000\",\".nonce\":0.366625616115911,\"group\":\"hood\",\"lat\":40.4666598259745,\"lng\":-79.9289789231261}&map_shape_mouseover={\"id\":\"0083K00060000000\",\".nonce\":0.153390818440384,\"group\":\"hood\",\"lat\":40.4660725117729,\"lng\":-79.928421023651}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Fineview\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4718611632797,\"east\":-79.8995304107666,\"south\":40.4556990687623,\"west\":-79.9439477920532}&map_center={\"lng\":-79.9217391014099,\"lat\":40.463780602121}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0083P00225000000\",\".nonce\":0.198368761004697,\"group\":\"hood\",\"lat\":40.4643519868711,\"lng\":-79.9267387390137}&map_shape_mouseover={\"id\":\"0083P00225000000\",\".nonce\":0.415408935467712,\"group\":\"hood\",\"lat\":40.4639275300924,\"lng\":-79.9257946014404}&map_zoom=15&navbar=\"Data\"&neigh_select=\"East Liberty\"&neigh_select-selectized=\"\"&search=\"\"",
-      "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Burgh's Eye View Parcels",
-      "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4719591035118,\"east\":-79.9389266967774,\"south\":40.4428319151073,\"west\":-80.0277614593506}&map_center={\"lng\":-79.983344078064,\"lat\":40.4573970877544}&map_click={\"lat\":40.4326736150281,\"lng\":-80.0112390518189,\".nonce\":0.330574158401773}&map_groups=\"hood\"&map_shape_click={\"id\":\"0030A00075000000\",\".nonce\":0.0920971845842578,\"group\":\"hood\",\"lat\":40.4226195771373,\"lng\":-79.9660220369697}&map_shape_mouseout={\"id\":\"0030A00075000000\",\".nonce\":0.202576354258964,\"group\":\"hood\",\"lat\":40.4228500212097,\"lng\":-79.9660209228176}&map_shape_mouseover={\"id\":\"0030A00075000000\",\".nonce\":0.549056390061975,\"group\":\"hood\",\"lat\":40.4226522478248,\"lng\":-79.9660649523139}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Strip District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2018-01-01\",\"2019-04-23\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.4974839855304,\"east\":-79.9737739562988,\"south\":40.4634704197926,\"west\":-80.0910186767578}&map_center={\"lng\":-80.03242815,\"lat\":40.4804489447811}&map_click={\"lat\":40.4782269812463,\"lng\":-80.0271606445313,\".nonce\":0.223456850383577}&map_marker_click={\"id\":null,\".nonce\":0.31526179940309,\"lat\":40.4770791300932,\"lng\":-80.0124293244675,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.588163353656118,\"lat\":40.4925717,\"lng\":-80.050589,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.769863924562826,\"lat\":40.4925717,\"lng\":-80.050589,\"clusterId\":null}&map_zoom=14&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=\"Broken Sidewalk\"&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=\"2003 IPMC 302.3 Sidewalks and driveways\"&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4727099738793,\"east\":-79.9394416809082,\"south\":40.4420807107459,\"west\":-80.0273323059082}&map_center={\"lng\":-79.9833823374944,\"lat\":40.4573990769434}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0052N00176000000\",\".nonce\":0.182501695433907,\"group\":\"hood\",\"lat\":40.443787801465,\"lng\":-79.9475526809693}&map_shape_mouseover={\"id\":\"0027S00150000001\",\".nonce\":0.802645368648299,\"group\":\"hood\",\"lat\":40.4340272671195,\"lng\":-79.947509765625}&map_zoom=15&navbar=\"Data\"&neigh_select=\"Strip District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2019-01-01\",\"2019-05-07\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5425042136065,\"east\":-79.6491622924805,\"south\":40.3203729543876,\"west\":-80.3083419799805}&map_center={\"lng\":-79.97861405,\"lat\":40.4316393149378}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=false&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4733628978087,\"east\":-79.9237132072449,\"south\":40.4632908398951,\"west\":-79.9511790275574}&map_center={\"lng\":-79.9374525514094,\"lat\":40.4683322806547}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0050C00375000000\",\".nonce\":0.805230184578075,\"group\":\"hood\",\"lat\":40.4731996674215,\"lng\":-79.9384760856629}&map_shape_mouseover={\"id\":\"0050C00375000000\",\".nonce\":0.928313845117219,\"group\":\"hood\",\"lat\":40.4714367539564,\"lng\":-79.9382400512695}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Garfield\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2019-03-01\",\"2019-03-31\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"Neighborhood\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=[\"Homewood West\",\"Homewood North\",\"Homewood South\"]&map_bounds={\"north\":40.4641887345814,\"east\":-79.8727941513062,\"south\":40.4486126416971,\"west\":-79.9126625061035}&map_center={\"lng\":-79.8927283287048,\"lat\":40.4564011395107}&map_marker_click={\"id\":null,\".nonce\":0.318254644428968,\"lat\":40.4570656297559,\"lng\":-79.9083118391001,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.862604508076585,\"lat\":40.4631869,\"lng\":-79.9045052,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.905575343530849,\"lat\":40.4631869,\"lng\":-79.9045052,\"clusterId\":null}&map_shape_mouseout={\"id\":null,\".nonce\":0.767279938839181,\"lat\":40.4631275850263,\"lng\":-79.9041867256165}&map_shape_mouseover={\"id\":null,\".nonce\":0.643679041617045,\"lat\":40.4625561898608,\"lng\":-79.9038863182068}&map_zoom=16&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=\"Potholes\"&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=false&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4759908524206,\"east\":-79.9154734611511,\"south\":40.4606787143811,\"west\":-79.9594187736511}&map_center={\"lng\":-79.9374525514094,\"lat\":40.4683322806547}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0051D00080000000\",\".nonce\":0.924854441819614,\"group\":\"hood\",\"lat\":40.461451004788,\"lng\":-79.9363517761231}&map_shape_mouseover={\"id\":\"0051D00080000000\",\".nonce\":0.150169755733491,\"group\":\"hood\",\"lat\":40.4613367963504,\"lng\":-79.9358582496643}&map_zoom=16&navbar=\"Data\"&neigh_select=\"Garfield\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2019-04-16\",\"2019-04-23\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5417215114624,\"east\":-79.6917343139649,\"south\":40.3167081810945,\"west\":-80.2685165405274}&map_center={\"lng\":-79.98010585,\"lat\":40.429331496265}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Code Violations\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4767416777037,\"east\":-80.0054562091828,\"south\":40.4696084985151,\"west\":-80.0234806537628}&map_center={\"lng\":-80.0144684314728,\"lat\":40.4731751828292}&map_click={\"lat\":40.476627422224,\"lng\":-80.0196933746338,\".nonce\":0.28342552706486}&map_groups=\"hood\"&map_shape_click={\"id\":\"0001G00043000000\",\".nonce\":0.207904473751156,\"group\":\"hood\",\"lat\":40.4406762626824,\"lng\":-80.0060892105103}&map_shape_mouseout={\"id\":\"0001G00043000000\",\".nonce\":0.400711340699091,\"group\":\"hood\",\"lat\":40.4406762626824,\"lng\":-80.0060892105103}&map_shape_mouseover={\"id\":\"0001G00043000000\",\".nonce\":0.191494918418292,\"group\":\"hood\",\"lat\":40.4406762626824,\"lng\":-80.0059604644776}&map_zoom=17&navbar=\"Data\"&neigh_select=\"Central Business District\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dates=[\"2019-04-23\",\"2019-04-29\"]&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.541199704952,\"east\":-79.691390991211,\"south\":40.3161846258141,\"west\":-80.2681732177734}&map_center={\"lng\":-79.979744305,\"lat\":40.4288424728135}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Code Violations\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4770517987399,\"east\":-79.9157524108887,\"south\":40.4479268187739,\"west\":-80.0045871734619}&map_center={\"lng\":-79.9601697921753,\"lat\":40.4624908872467}&map_groups=\"hood\"&map_shape_click={\"id\":\"0081E00078000000\",\".nonce\":0.492181343075031,\"group\":\"hood\",\"lat\":40.4786839911101,\"lng\":-79.9482822418213}&map_shape_mouseout={\"id\":\"0048M00160000000\",\".nonce\":0.041617912690264,\"group\":\"hood\",\"lat\":40.4672578112404,\"lng\":-79.9711990356445}&map_shape_mouseover={\"id\":\"0048M00160000000\",\".nonce\":0.438524665151756,\"group\":\"hood\",\"lat\":40.4669966186865,\"lng\":-79.9699115753174}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Lower Lawrenceville\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.404477110599,\"east\":-79.9663925170899,\"south\":40.3891486778335,\"west\":-80.0103378295899}&map_center={\"lng\":-79.9883651733399,\"lat\":40.3968105880874}&map_marker_click={\"id\":null,\".nonce\":0.763509562885467,\"lat\":40.39681703,\"lng\":-79.99094905,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.893393450081213,\"lat\":40.40393923,\"lng\":-79.99042646,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.0240813645536817,\"lat\":40.40393923,\"lng\":-79.99042646,\"clusterId\":null}&map_zoom=16&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=[\"Vacant Building\",\"Vacant Lot\"]&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4774435285277,\"east\":-79.8674297332764,\"south\":40.4468164239649,\"west\":-79.9553203582764}&map_center={\"lng\":-79.9113925580941,\"lat\":40.4621436902637}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0034D00020000000\",\".nonce\":0.452821488478853,\"group\":\"hood\",\"lat\":40.4115567188585,\"lng\":-80.0057673454285}&map_shape_mouseover={\"id\":\"0034D00020000000\",\".nonce\":0.494152031290807,\"group\":\"hood\",\"lat\":40.409336130099,\"lng\":-80.0040507316589}&map_zoom=15&navbar=\"Parcels\"&neigh_select=\"Lincoln Place\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.4404294198976,\"east\":-80.0408315417008,\"south\":40.431961251722,\"west\":-80.0637161490158}&map_center={\"lng\":-80.0522738453583,\"lat\":40.4361954691269}&map_click={\"lat\":40.4096625004659,\"lng\":-79.9810798745603,\".nonce\":0.326536190371351}&map_marker_click={\"id\":null,\".nonce\":0.107823521795662,\"lat\":40.4349744,\"lng\":-80.0542127,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.858446289446196,\"lat\":40.4349744,\"lng\":-80.0542127,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.128677580388044,\"lat\":40.4349744,\"lng\":-80.0542127,\"clusterId\":null}&map_zoom=17&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4786470121911,\"east\":-79.8742090165615,\"south\":40.449522724034,\"west\":-79.9630437791348}&map_center={\"lng\":-79.9186263978481,\"lat\":40.4640864466163}&map_click={\"lat\":40.4586542472445,\"lng\":-80.0158953666687,\".nonce\":0.593449383576175}&map_groups=\"hood\"&map_shape_click={\"id\":\"0023E00004000000\",\".nonce\":0.478420215379567,\"group\":\"hood\",\"lat\":40.4588082655219,\"lng\":-80.0136848911643}&map_shape_mouseout={\"id\":\"0028F00038000000\",\".nonce\":0.274687978000493,\"group\":\"hood\",\"lat\":40.4403638047218,\"lng\":-79.9605553597212}&map_shape_mouseover={\"id\":\"0028F00038000000\",\".nonce\":0.452287209796791,\"group\":\"hood\",\"lat\":40.4398412094768,\"lng\":-79.9603836983442}&map_zoom=14&navbar=\"Data\"&neigh_select=\"East Liberty\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5192801612162,\"east\":-79.731559753418,\"south\":40.3543934918931,\"west\":-80.225944519043}&map_center={\"lng\":-79.9787329618297,\"lat\":40.4369598185417}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=[\"myBurgh (Android)\",\"myBurgh (iOS)\"]&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=false&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4789059678012,\"east\":-79.9437503877562,\"south\":40.4176391297253,\"west\":-80.1195316377562}&map_center={\"lng\":-80.0316410127562,\"lat\":40.4482795301746}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0083K00060000000\",\".nonce\":0.366625616115911,\"group\":\"hood\",\"lat\":40.4666598259745,\"lng\":-79.9289789231261}&map_shape_mouseover={\"id\":\"0083K00060000000\",\".nonce\":0.153390818440384,\"group\":\"hood\",\"lat\":40.4660725117729,\"lng\":-79.928421023651}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Elliott\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.5393733501562,\"east\":-79.6889877319336,\"south\":40.3143521503636,\"west\":-80.2657699584961}&map_center={\"lng\":-79.977301355,\"lat\":40.4270755205515}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Code Violations\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4790691863085,\"east\":-79.9789838801371,\"south\":40.4484428231179,\"west\":-80.0668745051371}&map_center={\"lng\":-80.0229291926371,\"lat\":40.463757750217}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0045C00001000001\",\".nonce\":0.46728076566684,\"group\":\"hood\",\"lat\":40.4715993901435,\"lng\":-80.0240020762431}&map_shape_mouseover={\"id\":\"0045C00001000001\",\".nonce\":0.0608683790972508,\"group\":\"hood\",\"lat\":40.4709468664868,\"lng\":-80.020397187327}&map_zoom=15&navbar=\"Data\"&neigh_select=\"California-Kirkbride\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.542243313908,\"east\":-79.6865844726563,\"south\":40.3172317323152,\"west\":-80.2633666992188}&map_center={\"lng\":-79.974841945,\"lat\":40.4297160380137}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Code Violations\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=false&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=true&violation_select=[\"2003 IPMC 301.2 Responsibility\",\"2003 IPMC 301.3 Vacant structures and land\",\"2003 IPMC 302.1 Sanitation\",\"2003 IPMC 302.3 Sidewalks and driveways\",\"2003 IPMC 302.4 Weeds\",\"2003 IPMC 302.7 Accessory structures\",\"2003 IPMC 304.10 Stairways, decks, porches and balconies\",\"2003 IPMC 304.11 Chimneys and towers\",\"2003 IPMC 304.12 Handrails and guards\",\"2003 IPMC 304.13 Window, skylight and door frames\",\"2003 IPMC 304.5 Foundation walls\",\"2003 IPMC 304.6 Exterior walls\",\"2003 IPMC 304.7 Roofs and drainage\",\"2003 IPMC 305.5 Handrails and guards\",\"2003 IPMC 307.1 Accumulation of rubbish or garbage\"]&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4790757113745,\"east\":-79.9789667129517,\"south\":40.4484493511597,\"west\":-80.0668573379517}&map_center={\"lng\":-80.0229079045636,\"lat\":40.4637642223043}&map_groups=\"hood\"&map_zoom=15&navbar=\"Data\"&neigh_select=\"California-Kirkbride\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=0&hier=null&hood_select=null&map_bounds={\"north\":40.9062476141462,\"east\":-79.0150451660156,\"south\":40.1410901252846,\"west\":-81.1244201660156}&map_center={\"lng\":-80.0700073409826,\"lat\":40.5247607193065}&map_zoom=10&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Blotter\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=false&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4793825581154,\"east\":-79.8746910126647,\"south\":40.4487563378391,\"west\":-79.9625816376647}&map_center={\"lng\":-79.9186363251647,\"lat\":40.4640711934842}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0231A00300000000\",\".nonce\":0.712094769638782,\"group\":\"hood\",\"lat\":40.4659873522602,\"lng\":-79.8741416994017}&map_shape_mouseover={\"id\":\"0231A00300000000\",\".nonce\":0.0873993697138189,\"group\":\"hood\",\"lat\":40.4610928613207,\"lng\":-79.8789482179564}&map_zoom=15&navbar=\"Data\"&neigh_select=\"East Liberty\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=2&hier=[\"03 Robbery\",\"04 Assault\",\"05 Burglary\",\"10 Simple Assault\",\"14 Vandalism\",\"24 Disorderly Conduct\"]&hood_select=null&map_bounds={\"north\":40.5169312134374,\"east\":-79.713363647461,\"south\":40.3554400056276,\"west\":-80.240707397461}&map_center={\"lng\":-79.9769079919079,\"lat\":40.4362019318978}&map_click={\"lat\":40.4611589791745,\"lng\":-79.9589896202087,\".nonce\":0.107098936370374}&map_marker_click={\"id\":null,\".nonce\":0.621015865963852,\"lat\":40.4571440203375,\"lng\":-79.9674358963967,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.914485239279907,\"lat\":40.4571440203375,\"lng\":-79.9674358963967,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.275673408086595,\"lat\":40.4571440203375,\"lng\":-79.9674358963967,\"clusterId\":null}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"Arrests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=false&toggleArrests=false&toggleBlotter=true&toggleCitations=false&toggleCproj=false&toggleCrashes=false&toggleFires=false&toggleROW=false&toggleViolations=false&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Burgh's Eye View Points",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4802247427039,\"east\":-79.9471664428711,\"south\":40.4189591073971,\"west\":-80.1229476928711}&map_center={\"lng\":-80.0350570678711,\"lat\":40.4495989065133}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0071M00073000000\",\".nonce\":0.825597479195439,\"group\":\"hood\",\"lat\":40.4587584410393,\"lng\":-80.0734233856201}&map_shape_mouseover={\"id\":\"0071M00073000000\",\".nonce\":0.732818935199859,\"group\":\"hood\",\"lat\":40.4574531378667,\"lng\":-80.0687026977539}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Chartiers City\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeView/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&circumstances_select=null&council_select=null&crash_select=null&dept_select=null&dow_select=null&DPW_select=null&filter_select=\"\"&fire_desc_select=null&firez_select=null&funcarea_select=null&heatVision=2&hier=null&hood_select=null&map_bounds={\"north\":40.4346662000291,\"east\":-79.8046875,\"south\":40.297857633548,\"west\":-80.244140625}&map_center={\"lng\":-80.0244140625,\"lat\":40.3662966272001}&map_marker_click={\"id\":null,\".nonce\":0.881060634116305,\"lat\":40.3179535547693,\"lng\":-80.0796818950621,\"clusterId\":null}&map_marker_mouseout={\"id\":null,\".nonce\":0.0414968627289174,\"lat\":40.42727624563,\"lng\":-79.9713981535969,\"clusterId\":null}&map_marker_mouseover={\"id\":null,\".nonce\":0.852332351829435,\"lat\":40.42727624563,\"lng\":-79.9713981535969,\"clusterId\":null}&map_zoom=12&navTab=\"Data: Points\"&offense_select=null&origin_select=null&report_select=\"311 Requests\"&report.table_cell_clicked={}&report.table_rows_selected=null&report.table_search=\"\"&report.table_state=null&req.type=null&result_select=null&row_select=null&search=\"\"&status_type=null&times=[0,24]&toggle311=true&toggleArrests=true&toggleBlotter=true&toggleCitations=true&toggleCproj=true&toggleCrashes=false&toggleFires=true&toggleROW=false&toggleViolations=true&violation_select=null&zone_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     },
     {
-      "page_title": "Burgh's Eye View Parcels",
+      "page_title": "Trees N'At",
       "event_label": "(not set)",
-      "page": "/BurghsEyeViewParcels/?_inputs_=&basemap_select=\"OpenStreetMap.Mapnik\"&basemap_select-selectized=\"\"&map_bounds={\"north\":40.4816871213929,\"east\":-79.9209022521973,\"south\":40.4392391226628,\"west\":-80.0527381896973}&map_center={\"lng\":-79.9868202209473,\"lat\":40.4604664747214}&map_groups=\"hood\"&map_shape_mouseout={\"id\":\"0027P00080000003\",\".nonce\":0.799030376617682,\"group\":\"hood\",\"lat\":40.4460086806126,\"lng\":-79.9604272842407}&map_shape_mouseover={\"id\":\"0027K00028000000\",\".nonce\":0.893167402427922,\"group\":\"hood\",\"lat\":40.4460086806126,\"lng\":-79.9604272842407}&map_zoom=14&navbar=\"Data\"&neigh_select=\"Troy Hill\"&neigh_select-selectized=\"\"&search=\"\"",
+      "page": "/BurghsEyeViewTrees/?_inputs_=&.clientValue-default-plotlyCrosstalkOpts={\"on\":\"plotly_click\",\"persistent\":false,\"dynamic\":false,\"selectize\":false,\"opacityDim\":0.2,\"selected\":{\"opacity\":1},\"debounce\":0,\"color\":[]}&btn=2&comname_select=null&filters=1&geocode=\"1205 monterey st\"&grow_select=null&hood_select=null&landuse_select=null&map_bounds={\"north\":40.4571113664078,\"east\":-80.0082939863205,\"south\":40.4537111891196,\"west\":-80.0185936689377}&map_center={\"lng\":-80.0134438276291,\"lat\":40.455411299272}&map_groups=\"trees\"&map_marker_click={\"id\":\"780220972\",\".nonce\":0.634040328538152,\"lat\":40.4552147,\"lng\":-80.01281296,\"clusterId\":null}&map_marker_mouseout={\"id\":\"253104808\",\".nonce\":0.910822519735422,\"lat\":40.45556111,\"lng\":-80.01506974,\"clusterId\":null}&map_marker_mouseover={\"id\":\"253104808\",\".nonce\":0.288932641215909,\"lat\":40.45556111,\"lng\":-80.01506974,\"clusterId\":null}&map_zoom=18&sciname_select=null&search=\"\"&utils_select=null",
       "total_events": "1",
-      "domain": "https://pittsburghpa.gov"
+      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T20:09:49.199Z"
+  "taken_at": "2019-05-14T23:06:20.888Z"
 }

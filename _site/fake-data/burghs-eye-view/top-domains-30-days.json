@@ -26,26 +26,17 @@
   "data": [
     {
       "domain": "pittsburghpa.shinyapps.io",
-      "visits": "1871",
-      "users": "1246",
-      "pageviews": "2728",
-      "pageviews_per_session": "1.458043826830572",
-      "avg_session_duration": "152.60555852485302",
-      "exits": "1852"
-    },
-    {
-      "domain": "127.0.0.1",
-      "visits": "5",
-      "users": "2",
-      "pageviews": "24",
-      "pageviews_per_session": "4.8",
-      "avg_session_duration": "1480.6",
-      "exits": "5"
+      "visits": "3912",
+      "users": "2911",
+      "pageviews": "5519",
+      "pageviews_per_session": "1.4107873210633948",
+      "avg_session_duration": "96.1689672801636",
+      "exits": "3881"
     }
   ],
   "totals": {
-    "users": 1248,
-    "visits": 1876
+    "users": 2911,
+    "visits": 3912
   },
-  "taken_at": "2019-03-18T20:09:46.391Z"
+  "taken_at": "2019-05-14T23:06:17.462Z"
 }

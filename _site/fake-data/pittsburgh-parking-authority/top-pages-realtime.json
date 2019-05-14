@@ -24,30 +24,18 @@
     {
       "page": "/contact",
       "page_title": "PPA | Contact the PPA",
-      "active_visitors": "3",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/about",
-      "page_title": "PPA | About the PPA",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "page": "/doing-business-with-ppa",
-      "page_title": "PPA | Doing Business with the PPA",
+      "page": "/first-avenue-garage-and-station",
+      "page_title": "PPA | First Avenue Garage and Station",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "page": "/enforcement-faq",
-      "page_title": "PPA | Enforcement FAQ",
-      "active_visitors": "1",
-      "domain": "http://pittsburghparkingauthority.com"
-    },
-    {
-      "page": "/facilities",
-      "page_title": "PPA | Facilities - Providing Quality Customer Service Is Our Goal",
+      "page": "/pittsburgh-parking-court",
+      "page_title": "PPA | Pittsburgh Parking Court",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
@@ -56,8 +44,14 @@
       "page_title": "PPA | Residential Permit Parking Program",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
+    },
+    {
+      "page": "/smithfield-liberty",
+      "page_title": "PPA | Smithfield-Liberty Garage",
+      "active_visitors": "1",
+      "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:45:12.146Z"
+  "taken_at": "2019-05-14T23:26:34.206Z"
 }

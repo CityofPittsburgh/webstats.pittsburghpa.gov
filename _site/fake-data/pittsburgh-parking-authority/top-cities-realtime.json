@@ -17,30 +17,30 @@
   "data": [
     {
       "city": "Pittsburgh",
-      "active_visitors": "7",
+      "active_visitors": "5",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "city": "Ambridge",
+      "city": "Norwich",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "city": "New York",
+      "city": "Robinson Township",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "city": "Upper Saint Clair",
+      "city": "Wexford",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     },
     {
-      "city": "Washington",
+      "city": "Zelienople",
       "active_visitors": "1",
       "domain": "http://pittsburghparkingauthority.com"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:45:16.728Z"
+  "taken_at": "2019-05-14T23:26:37.844Z"
 }

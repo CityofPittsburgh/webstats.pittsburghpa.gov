@@ -21,20 +21,20 @@
   },
   "data": [
     {
+      "page_title": "Office of Special Events - Reserve a Park Facility, see Cinema in the Park movies, Concerts Schedule, City Footraces including the Great race and Neighborhood Runs, Summer Soul Line Dancing, Farmers' Market information, Black History Month, Festivals and more!",
+      "event_label": "/events/index.html",
+      "page": "/events/index.html",
+      "total_events": "2",
+      "domain": "http://pittsburghpa.gov"
+    },
+    {
       "page_title": "Building Benchmarking Compliance - How to comply | pittsburghpa.gov",
       "event_label": "/dcp/comply",
       "page": "/dcp/comply",
       "total_events": "1",
       "domain": "http://pittsburghpa.gov"
-    },
-    {
-      "page_title": "Public Works - Volunteer Applications | pittsburghpa.gov",
-      "event_label": "/dpw/volunteer-apps/",
-      "page": "/dpw/volunteer-apps/?title=volunteer-apps",
-      "total_events": "1",
-      "domain": "http://pittsburghpa.gov"
     }
   ],
   "totals": {},
-  "taken_at": "2019-03-18T19:48:11.729Z"
+  "taken_at": "2019-05-14T23:02:39.753Z"
 }
