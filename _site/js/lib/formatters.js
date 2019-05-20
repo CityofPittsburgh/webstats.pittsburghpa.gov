@@ -55,6 +55,13 @@ function formatHour(hour) {
   return (n % 12 || 12) + suffix;
 }
 
+// take date in YYYY-MM-DD and return MM/DD, stripping opening 0's
+function formatDate(date) {
+  const split_date = date.split('-');
+  return ((split_date[1][0] == '0' ? split_date[1][1] : split_date[1]) +
+    '/' + (split_date[2][0] == '0' ? split_date[2][1] : split_date[2]))
+}
+
 function formatURL(url) {
   let index = 0;
   // find & remove protocol (http, ftp, etc.) and get domain

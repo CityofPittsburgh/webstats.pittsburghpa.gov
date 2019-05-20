@@ -55,12 +55,67 @@ export default {
 
       const y = function (d) { return d.visits; };
 
-
       const series = buildTimeSeries()
         .series([data.data])
         .y(y)
         .label(d => formatters.formatHour(d.hour))
         .title(d => `${formatters.addCommas(d.visits)} visits during the hour of ${formatters.formatHour(d.hour)}m`);
+
+      series.xScale()
+        .domain(d3.range(0, days.length + 1));
+
+      series.yScale()
+        .domain([0, d3.max(days, y)]);
+
+      series.yAxis()
+        .tickFormat(formatters.formatVisits());
+
+      svg.call(series);
+    }),
+
+  seven_days: renderBlock.loadAndRender()
+    .transform(data => data)
+    .render((svg, data) => {
+      const days = data.data;
+      (days.slice(0, 7)).forEach((d) => {
+        d.visits = +d.visits;
+      });
+
+      const y = function (d) { return d.visits; };
+
+      const series = buildTimeSeries()
+        .series([data.data])
+        .y(y)
+        .label(d => formatters.formatDate(d.date))
+        .title(d => `${formatters.addCommas(d.visits)} visits on ${formatters.formatDate(d.date)}`);
+
+      series.xScale()
+        .domain(d3.range(0, days.length + 1));
+
+      series.yScale()
+        .domain([0, d3.max(days, y)]);
+
+      series.yAxis()
+        .tickFormat(formatters.formatVisits());
+
+      svg.call(series);
+    }),
+
+  thirty_days: renderBlock.loadAndRender()
+    .transform(data => data)
+    .render((svg, data) => {
+      const days = data.data;
+      days.forEach((d) => {
+        d.visits = +d.visits;
+      });
+
+      const y = function (d) { return d.visits; };
+
+      const series = buildTimeSeries()
+        .series([data.data])
+        .y(y)
+        .label(d => formatters.formatDate(d.date))
+        .title(d => `${formatters.addCommas(d.visits)} visits on ${formatters.formatDate(d.date)}`);
 
       series.xScale()
         .domain(d3.range(0, days.length + 1));
