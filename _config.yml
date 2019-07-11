@@ -42,7 +42,7 @@ collections:
 
 # Site title and description
 title: "webstats.pittsburghpa.gov | The Pittsburgh city government's web traffic."
-description: "Official data on web traffic to city websites."
+description: "Official data on traffic to city websites."
 
 # Site's own URL
 url: http://webstats.pittsburghpa.gov
